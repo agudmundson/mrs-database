@@ -1,0 +1,1443 @@
+Metabolite,Name,PPM,Reference,ID,DOI,Subject,Tesla,T2,StdDev,R2,Notes,Old_Name,Old_ID
+Asc,Asc,"4.492, 4.002, 3.743, 3.716",2018_wyss_80,1,10.1002/mrm.27067,Human,3,172,25,5.814,,"Wyss et al., 2018",A
+Asc,Asc,"4.492, 4.002, 3.743, 3.716",2018_wyss_80,2,10.1002/mrm.27067,Human,3,105,16,9.5238,,"Wyss et al., 2018",B
+Asc,Asc,"4.492, 4.002, 3.743, 3.716",2018_wyss_80,3,10.1002/mrm.27067,Human,3,125,19,8,,"Wyss et al., 2018",C
+Asc,Asc,3.73,2011_emir_24,1,10.1002/nbm.1583,Human,4,55.7,5.57,17.9533,Assumed 10% Std.Dev.,"Emir et al., 2010",A
+Asp,Asp,"3.89, 2.80, 2.65",2019_menshchikov_82,1,10.1002/mrm.27700,Human,3,165,37,6.0606,,"Menshchikov et al., 2019",A
+Asp,Asp,"3.891, 2.801, 2.653",2018_wyss_80,1,10.1002/mrm.27067,Human,3,148,21,6.7568,,"Wyss et al., 2018",A
+Asp,Asp,"3.891, 2.801, 2.653",2018_wyss_80,2,10.1002/mrm.27067,Human,3,90,27,11.1111,,"Wyss et al., 2018",B
+Asp,Asp,"3.891, 2.801, 2.653",2018_wyss_80,3,10.1002/mrm.27067,Human,3,111,20,9.009,,"Wyss et al., 2018",C
+Asp,Asp,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,54.4,11.5,18.3824,,"Murali-Manohar et al., 2019",A
+Asp,Asp,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,77,14,12.987,,"Lopez-Kolkovsky et al., 2015",B
+tcho,GPC_Gly,"3.605, 3.672, 3.903, 3.871, 3.946",2018_wyss_80,1,10.1002/mrm.27067,Human,3,182,22,5.4945,,,
+tcho,GPC_Gly,"3.605, 3.672, 3.903, 3.871, 3.946",2018_wyss_80,2,10.1002/mrm.27067,Human,3,213,56,4.6948,,,
+tcho,GPC_Gly,"3.605, 3.672, 3.903, 3.871, 3.946",2018_wyss_80,3,10.1002/mrm.27067,Human,3,257,57,3.8911,,,
+tcho1,GPC_Mult,"4.312, 3.659",2018_wyss_80,1,10.1002/mrm.27067,Human,3,178,20,5.618,,,
+tcho1,GPC_Mult,"4.312, 3.659",2018_wyss_80,2,10.1002/mrm.27067,Human,3,190,48,5.2632,,,
+tcho1,GPC_Mult,"4.312, 3.659",2018_wyss_80,3,10.1002/mrm.27067,Human,3,242,52,4.1322,,,
+Cho,GPC,,2001_barker_45,1,10.1002/mrm.1104,Human,1.5,400,80,2.5,,"Barker et al., 2001",A
+Cho,GPC,,1998_block_55,1,10.1001/archneur.55.7.931,Human,1.5,307,21,3.2573,,"Block et al., 1998",
+Cho,GPC,,1998_block_55,2,10.1001/archneur.55.7.931,Human,1.5,297,23,3.367,,"Block et al., 1998",
+Cho,GPC,3.2,2005_brief_18,1,10.1002/nbm.916,Human,1.5,249,23.14,4.0161,,"Brief et al., 2005",A
+Cho,GPC,3.2,2005_brief_18,2,10.1002/nbm.916,Human,1.5,239,12.65,4.1841,,"Brief et al., 2005",B
+Cho,GPC,,2001_brooks_11,1,10.1093/cercor/11.7.598,Human,1.5,556,214,1.7986,,,
+tCho,GPC,3.2,2019_carlin_49,1,10.1002/jmri.26054,Human,1.5,372,176,2.6882,,,
+tCho,GPC,3.2,2019_carlin_49,5,10.1002/jmri.26054,Human,1.5,587,143,1.7036,,,
+tCho,GPC,3.2,2019_carlin_49,8,10.1002/jmri.26054,Human,1.5,344,122,2.907,,,
+tCho,GPC,3.2,2019_carlin_49,9,10.1002/jmri.26054,Human,1.5,313,154,3.1949,,,
+Cho,GPC,,1993_christiansen_11,1,10.1016/0730-725x(93)90197-l,Human,1.5,360,156,2.7778,,,
+Cho,GPC,,1993_christiansen_11,2,10.1016/0730-725x(93)90197-l,Human,1.5,335,75,2.9851,,,
+Cho,GPC,,1993_christiansen_11,3,10.1016/0730-725x(93)90197-l,Human,1.5,425,389,2.3529,,,
+Cho,GPC,,1993_christiansen_11,4,10.1016/0730-725x(93)90197-l,Human,1.5,372,266,2.6882,,,
+Cho,GPC,,1993_christiansen_11,5,10.1016/0730-725x(93)90197-l,Human,1.5,248,133,4.0323,,,
+Cho,GPC,,1993_christiansen_11,6,10.1016/0730-725x(93)90197-l,Human,1.5,364,200,2.7473,,,
+Cho,GPC,,1993_christiansen_11,7,10.1016/0730-725x(93)90197-l,Human,1.5,359,300,2.7855,,,
+Cho,GPC,,1993_christiansen_11,8,10.1016/0730-725x(93)90197-l,Human,1.5,393,296,2.5445,,,
+Cho,GPC,,1995_christiansen_13,1,10.1016/0730-725x(94)00113-h,Human,1.5,341,90,2.9326,,,
+Cho,GPC,,1995_christiansen_13,2,10.1016/0730-725x(94)00113-h,Human,1.5,382,91,2.6178,,,
+Cho,GPC,3.209,1989_frahm_11,1,10.1002/mrm.1910110105,Human,1.5,380,38,2.6316,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",E
+Cho,GPC,3.209,1989_frahm_11,2,10.1002/mrm.1910110105,Human,1.5,330,33,3.0303,,"Frahm et al., 1989",F
+Cho,GPC,3.209,1989_frahm_11,3,10.1002/mrm.1910110105,Human,1.5,320,32,3.125,,"Frahm et al., 1989",G
+Cho,GPC,3.209,1989_frahm_11,4,10.1002/mrm.1910110105,Human,1.5,410,41,2.439,,"Frahm et al., 1989",H
+Cho,GPC,3.2,1992_gideon_10,1,10.1016/0730-725x(92)90453-7,Human,1.5,329.1,168.2,3.0386,,,
+Cho,GPC,3.2,1992_gideon_10,2,10.1016/0730-725x(92)90453-7,Human,1.5,270.2,114.4,3.701,,,
+Cho,GPC,3.22,2002_isobe_20,1,10.1016/S0730-725X(02)00500-3,Human,1.5,265.4,17.7,3.7679,,"Isobe et al., 2002",B
+Cho,GPC,,1994_kamada_31,1,10.1002/mrm.1910310510,Human,1.5,314.03,37.16,3.1844,,,
+Cho,GPC,,1994_kamada_31,2,10.1002/mrm.1910310510,Human,1.5,201.78,20.14,4.9559,,,
+Cho,GPC,,1994_kamada_31,3,10.1002/mrm.1910310510,Human,1.5,149.61,39.53,6.684,,,
+Cho,GPC,,1993_kreis_30,2,10.1002/mrm.1910300405,Human,1.5,395,134.72,2.5316,,"Kreis et al., 1993",B
+Cho,GPC,,1993_kreis_30,5,10.1002/mrm.1910300405,Human,1.5,431,89.44,2.3202,,"Kreis et al., 1993",
+GPC3,GPC,,2005_kreis_54,1,10.1002/mrm.20673,Human,1.5,180,40,5.5556,,,
+Cho,GPC,,1995_longo_30,1,10.1097/00004424-199504000-00001,Human,1.5,274,78,3.6496,,,
+Cho,GPC,,1995_longo_30,2,10.1097/00004424-199504000-00001,Human,1.5,234,98,4.2735,,,
+Cho,GPC,3.2,2002_mascalchi_16,1,10.1002/jmri.10189,Human,1.5,294,46,3.4014,,,
+Cho,GPC,3.2,2002_mascalchi_16,2,10.1002/jmri.10189,Human,1.5,294,50,3.4014,,,
+Cho,GPC,3.2,2002_mascalchi_16,3,10.1002/jmri.10189,Human,1.5,303,41,3.3003,,,
+Cho,GPC,3.2,2002_mascalchi_16,4,10.1002/jmri.10189,Human,1.5,374,77,2.6738,,,
+Cho,GPC,3.2,1991_narayana_9,1,10.1016/0730-725x(91)90415-i,Human,1.5,270,15,3.7037,,,
+Cho,GPC,,1995_posse_33,1,10.1002/mrm.1910330215,Human,1.5,305,30.5,3.2787,Assumed 10% Std.Dev.,"Posse et al., 1995",C
+Cho,GPC,3.2,2002_rutgers_15,1,10.1002/nbm.762,Human,1.5,352,52,2.8409,,,
+Cho,GPC,,2002_sarchielli_249,1,10.1007/s00415-002-0758-5,Human,1.5,356,45,2.809,,,
+Cho,GPC,,2002_sarchielli_249,2,10.1007/s00415-002-0758-5,Human,1.5,332,64,3.012,,,
+Cho,GPC,,2002_sarchielli_249,3,10.1007/s00415-002-0758-5,Human,1.5,327,54,3.0581,,,
+Cho,GPC,3.22,2002_sijens_12,1,10.1007/s00330-001-1300-3,Human,1.5,311,39.69,3.2154,,,
+Cho,GPC,3.22,2002_sijens_12,2,10.1007/s00330-001-1300-3,Human,1.5,219,68.79,4.5662,,,
+Cho,GPC,3.22,2002_sijens_12,3,10.1007/s00330-001-1300-3,Human,1.5,169,90.1,5.9172,,,
+Cho,GPC,3.1- 3.3,2004_sijens_14,2,10.1007/s00330-004-2388-z,Human,1.5,256,92,3.9063,,,
+Cho,GPC,,2005_soher_53,1,10.1002/mrm.20491,Human,1.5,400,15,2.5,,"Soher et al., 2005",A
+Cho,GPC,3.21,2004_traber_19,1,10.1002/jmri.20053,Human,1.5,330,44,3.0303,,"Traber et al., 2004",A
+Cho,GPC,3.21,2004_traber_19,2,10.1002/jmri.20053,Human,1.5,300,33,3.3333,,"Traber et al., 2004",B
+Cho,GPC,3.21,2004_traber_19,3,10.1002/jmri.20053,Human,1.5,332,26,3.012,,"Traber et al., 2004",C
+Cho,GPC,3.2,2004_walker_220,1,10.1016/j.jns.2004.01.012,Human,1.5,291,34,3.4364,,,
+Cho,GPC,3.2,2004_walker_220,2,10.1016/j.jns.2004.01.012,Human,1.5,235,53,4.2553,,,
+Cho,GPC,,1999_choi_41,1,10.1002/(SICI)1522-2594(199901)41:1<204::AID-MRM29>3.0.CO;2-7,Human,2,334,106,2.994,,"Choi et al., 1999",B
+Cho,GPC,3.2,1992_hennig_5,1,10.1002/nbm.1940050406,Human,2,372,158,2.6882,,"Hennig et al., 1992",A
+Cho,GPC,3.2,1992_hennig_5,2,10.1002/nbm.1940050406,Human,2,331,153,3.0211,,"Hennig et al., 1992",B
+Cho,GPC,3.2,1992_hennig_5,3,10.1002/nbm.1940050406,Human,2,379,181,2.6385,,"Hennig et al., 1992",C
+Cho,GPC,3.2,1992_hennig_5,4,10.1002/nbm.1940050406,Human,2,307,126,3.2573,,"Hennig et al., 1992",D
+Cho,GPC,,1992_sappey-marinier_26,1,10.1002/mrm.1910260211,Human,2,278,80.83,3.5971,Control,"Sappey-Marinier et al., 1992",A
+Cho,GPC,,1992_sappey-marinier_26,2,10.1002/mrm.1910260211,Human,2,253,110.23,3.9526,Stroke,"Sappey-Marinier et al., 1992",C
+Cho,GPC,,1992_sappey-marinier_26,3,10.1002/mrm.1910260211,Human,2,195,87.21,5.1282,WMSH,"Sappey-Marinier et al., 1992",E
+Cho,GPC,3.21,1994_blamire_12,1,10.1016/0730-725X(94)90087-8,Human,2.1,296,111.77,3.3784,,,
+Cho,GPC,3.21,1994_blamire_12,2,10.1016/0730-725X(94)90087-8,Human,2.1,357,119.06,2.8011,,,
+Cho,GPC,3.2,1996_cady_21,1,10.1007/bf02532414,Human,2.4,328.7,88.7,3.0423,,,
+Cho,GPC,3.2,1996_cady_21,2,10.1007/bf02532414,Human,2.4,402.5,140.9,2.4845,Assumed 35% Std.Dev. Based on Other Metabolites,,
+Cho,GPC,3.2,1996_cady_21,3,10.1007/bf02532414,Human,2.4,397,48.9,2.5189,,,
+Cho,GPC,3.2,1996_cady_36,1,10.1002/mrm.1910360610,Human,2.4,343.7,99.9,2.9095,,,
+Cho,GPC,3.2,1996_cady_36,3,10.1002/mrm.1910360610,Human,2.4,498.4,239.7,2.0064,,,
+Cho,GPC,,1998_fujimori_39,2,10.1002/mrm.1910390419,Rat,2.4,350,67,2.8571,,"Fujimori et al., 1998",B
+Cho,GPC,,1998_fujimori_39,5,10.1002/mrm.1910390419,Rat,2.4,333,34,3.003,,"Fujimori et al., 1998",
+Cho,GPC,,1998_fujimori_39,9,10.1002/mrm.1910390419,Rat,2.4,322,100,3.1056,,"Fujimori et al., 1998",
+tCho,GPC,3.2,1992_rose_23,1,10.1002/mrm.1910230213,Dog,2.4,350,36,2.8571,,,
+Cho,GPC,,2001_barker_45,2,10.1002/mrm.1104,Human,3,180,40,5.5556,,"Barker et al., 2001",B
+tCho,GPC,,2021_dacko_85,1,10.1002/mrm.28500,Human,3,182,7,5.4945,,,
+Cho,GPC,,2018_deelchand_79,1,10.1002/mrm.26826,Human,3,387,40,2.584,LASER,"Deelchand et al., 2018",A
+Cho,GPC,,2018_deelchand_79,2,10.1002/mrm.26826,Human,3,319,20,3.1348,PRESS,"Deelchand et al., 2018",B
+Cho,GPC,,2020_deelchand_95,1,10.1016/j.neurobiolaging.2020.07.017,Human,3,360,40,2.7778,,"Deelchand et al., 2020",A
+Cho,GPC,,2020_deelchand_95,2,10.1016/j.neurobiolaging.2020.07.017,Human,3,323,25,3.096,,"Deelchand et al., 2020",B
+Cho,GPC,,2020_deelchand_95,3,10.1016/j.neurobiolaging.2020.07.017,Human,3,442,47,2.2624,,"Deelchand et al., 2020",C
+Cho,GPC,,2020_deelchand_95,4,10.1016/j.neurobiolaging.2020.07.017,Human,3,332,20,3.012,,"Deelchand et al., 2020",D
+Cho,GPC,,2020_deelchand_95,5,10.1016/j.neurobiolaging.2020.07.017,Human,3,314,30,3.1847,,"Deelchand et al., 2020",E
+Cho,GPC,,2020_deelchand_95,6,10.1016/j.neurobiolaging.2020.07.017,Human,3,423,33,2.3641,,"Deelchand et al., 2020",F
+Cho,GPC,3.24,2005_dumoulin,1,ISMRM_1179_2005,Human,3,176.38,36.67,5.6696,Aged,"Dumoulin et al., 2005",A
+Cho,GPC,3.24,2005_dumoulin,2,ISMRM_1179_2005,Human,3,182.76,42.72,5.4717,MCI,"Dumoulin et al., 2005",B
+Cho,GPC,3.24,2005_dumoulin,3,ISMRM_1179_2005,Human,3,189.7,42.72,5.2715,AD,"Dumoulin et al., 2005",C
+Cho,GPC,,2019_fleysher_27,1,10.1016/j.mri.2009.05.033,Phantom,3,201,27,4.9751,,,
+Cho,GPC,,2019_fleysher_27,2,10.1016/j.mri.2009.05.033,Phantom,3,201,27,4.9751,,,
+Cho,GPC,,2019_fleysher_27,3,10.1016/j.mri.2009.05.033,Phantom,3,201,27,4.9751,,,
+Cho,GPC,,2019_fleysher_27,4,10.1016/j.mri.2009.05.033,Phantom,3,201,27,4.9751,,,
+Cho,GPC,,2019_fleysher_27,5,10.1016/j.mri.2009.05.033,Phantom,3,201,27,4.9751,,,
+Cho,GPC,,2019_fleysher_27,6,10.1016/j.mri.2009.05.033,Phantom,3,230,34,4.3478,,,
+Cho,GPC,,2019_fleysher_27,7,10.1016/j.mri.2009.05.033,Phantom,3,229,34,4.3668,,,
+Cho,GPC,,2019_fleysher_27,8,10.1016/j.mri.2009.05.033,Phantom,3,206,27,4.8544,,,
+Cho,GPC,,2019_fleysher_27,9,10.1016/j.mri.2009.05.033,Phantom,3,202,25.5,4.9505,,,
+Cho,GPC,,2019_fleysher_27,10,10.1016/j.mri.2009.05.033,Phantom,3,200,26,5,,,
+Cho,GPC,3.2,2012_ganji_25,1,10.1002/nbm.1767,Human,3,241,13,4.1494,,"Ganji et al., 2012",A
+Cho,GPC,3.2,2012_ganji_25,2,10.1002/nbm.1767,Human,3,224,15,4.4643,,"Ganji et al., 2012",B
+Cho,GPC,,2002_hanstock_198,1,10.1016/S0022-510X(02)00074-6,Human,3,245,50,4.0816,Control,"Hanstock et al,. 2002",A
+Cho,GPC,,2002_hanstock_198,2,10.1016/S0022-510X(02)00074-6,Human,3,223,55,4.4843,ALS,"Hanstock et al,. 2002",C
+Cho,GPC,,2004_hurd_51,1,10.1002/mrm.20007,Human,3,230,74,4.3478,,,
+Cho,GPC,,2004_hurd_51,2,10.1002/mrm.20007,Human,3,236,29,4.2373,,,
+Cho,GPC,,2016_jiru_29,1,10.1002/nbm.3456,Human,3,266.1,22.1,3.758,,"Jiru et al., 2016",A
+Cho,GPC,,2016_jiru_29,2,10.1002/nbm.3456,Human,3,243.8,16.9,4.1017,,"Jiru et al., 2016",B
+Cho,GPC,,2008_kirov_60,1,10.1002/mrm.21715,Human,3,211,11.31,4.7393,Caudate,"Kirov et al., 2008",A
+Cho,GPC,,2008_kirov_60,2,10.1002/mrm.21715,Human,3,241,33.94,4.1494,Thalamus,"Kirov et al., 2008",B
+Cho,GPC,,2008_kirov_60,3,10.1002/mrm.21715,Human,3,255,28.28,3.9216,Cingulate,"Kirov et al., 2008",C
+Cho,GPC,,2008_kirov_60,4,10.1002/mrm.21715,Human,3,191,31.11,5.2356,Globus Pallidus,"Kirov et al., 2008",D
+Cho,GPC,,2008_kirov_60,5,10.1002/mrm.21715,Human,3,216,42.43,4.6296,Putamen,"Kirov et al., 2008",E
+Cho,GPC,,2008_kirov_60,6,10.1002/mrm.21715,Human,3,236,62.23,4.2373,Splenium,"Kirov et al., 2008",F
+Cho,GPC,,2008_kirov_60,7,10.1002/mrm.21715,Human,3,247,50.91,4.0486,Genu,"Kirov et al., 2008",G
+Cho,GPC,,2008_kirov_60,8,10.1002/mrm.21715,Human,3,245,16.97,4.0816,Centrum Semiovale,"Kirov et al., 2008",H
+Cho,GPC,,2008_kirov_60,9,10.1002/mrm.21715,Human,3,228,22.63,4.386,Occipital,"Kirov et al., 2008",I
+Cho,GPC,,2008_kirov_60,10,10.1002/mrm.21715,Human,3,234,19.8,4.2735,Corona Radiata,"Kirov et al., 2008",J
+Cho,GPC,,2008_kirov_60,11,10.1002/mrm.21715,Human,3,258,26.94,3.876,Caudate,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,12,10.1002/mrm.21715,Human,3,268,51.44,3.7313,Thalamus,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,13,10.1002/mrm.21715,Human,3,278,44.09,3.5971,Cingulate,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,14,10.1002/mrm.21715,Human,3,240,29.39,4.1667,Globus Pallidus,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,15,10.1002/mrm.21715,Human,3,271,29.39,3.69,Putamen,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,16,10.1002/mrm.21715,Human,3,292,22.05,3.4247,Splenium,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,17,10.1002/mrm.21715,Human,3,279,41.64,3.5842,Genu,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,18,10.1002/mrm.21715,Human,3,278,24.49,3.5971,Centrum Semiovale,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,19,10.1002/mrm.21715,Human,3,289,51.44,3.4602,Occipital,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,20,10.1002/mrm.21715,Human,3,256,41.64,3.9063,Corona Radiata,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,21,10.1002/mrm.21715,Human,3,254,38.1,3.937,Caudate; Assumed 15% StdDev.,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,22,10.1002/mrm.21715,Human,3,241,50,4.1494,Thalamus,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,23,10.1002/mrm.21715,Human,3,324,90,3.0864,Cingulate,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,24,10.1002/mrm.21715,Human,3,181,10,5.5249,Globus Pallidus,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,25,10.1002/mrm.21715,Human,3,196,4,5.102,Putamen,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,26,10.1002/mrm.21715,Human,3,207,44,4.8309,Splenium,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,27,10.1002/mrm.21715,Human,3,233,52,4.2918,Genu,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,28,10.1002/mrm.21715,Human,3,258,44,3.876,Centrum Semiovale,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,29,10.1002/mrm.21715,Human,3,272,46,3.6765,Occipital,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,30,10.1002/mrm.21715,Human,3,269,86,3.7175,Corona Radiata,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,31,10.1002/mrm.21715,Human,3,240,15.56,4.1667,Caudate,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,32,10.1002/mrm.21715,Human,3,235,25.46,4.2553,Thalamus,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,33,10.1002/mrm.21715,Human,3,291,36.77,3.4364,Cingulate,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,34,10.1002/mrm.21715,Human,3,206,12.73,4.8544,Globus Pallidus,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,35,10.1002/mrm.21715,Human,3,206,22.63,4.8544,Putamen,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,36,10.1002/mrm.21715,Human,3,266,43.84,3.7594,Splenium,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,37,10.1002/mrm.21715,Human,3,260,45.25,3.8462,Genu,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,38,10.1002/mrm.21715,Human,3,259,21.21,3.861,Centrum Semiovale,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,39,10.1002/mrm.21715,Human,3,235,22.63,4.2553,Occipital,"Kirov et al., 2008",
+Cho,GPC,,2008_kirov_60,40,10.1002/mrm.21715,Human,3,251,14.14,3.9841,Corona Radiata,"Kirov et al., 2008",
+Cho,GPC,3.22,2008_li_28,1,10.1002/jmri.21453,Human,3,169,27,5.9172,,"Li et al., 2008",C
+Cho,GPC,,2012_li,1,10.4172/2155-9937.S1-002,Human,3,170,18,5.8824,,"Li et al., 2012",B
+Cho,GPC,,2012_liu_19,1,10.1016/j.acra.2012.02.019,Human,3,391.5,19.5,2.5543,,,
+Cho,GPC,3.21,2015_madan_73,1,10.1002/mrm.25352,Human,3,240,6,4.1667,Control,"Madan et al., 2015",A
+Cho,GPC,3.21,2015_madan_73,2,10.1002/mrm.25352,Human,3,293,37,3.413,Low Grade Tumor,"Madan et al., 2015",B
+Cho,GPC,3.21,2015_madan_73,3,10.1002/mrm.25352,Human,3,285,55,3.5088,High Grade Tumor,"Madan et al., 2015",C
+Cho,GPC,3.22,2001_mlynarik_14,1,10.1002/nbm.713,Human,3,207,35.78,4.8309,,"Mlyanarik et al., 2001",A
+Cho,GPC,3.22,2001_mlynarik_14,2,10.1002/nbm.713,Human,3,187,44.72,5.3476,,"Mlyanarik et al., 2001",B
+Cho,GPC,,2021_nosrati_85,1,10.1002/mrm.28644,Human,3,216.92,20.23,4.61,,,
+Cho,GPC,,2021_nosrati_85,2,10.1002/mrm.28644,Human,3,219.78,23.19,4.55,,,
+Cho,GPC,,2021_nosrati_85,3,10.1002/mrm.28644,Human,3,367.65,240.59,2.72,,,
+Cho,GPC,,2014_prescot_27,1,10.1002/nbm.3115,Human,3,280,20,3.5714,,,
+Cho,GPC,,2014_prescot_27,2,10.1002/nbm.3115,Human,3,271,20,3.69,,,
+Cho,GPC,3.21,2004_traber_19,4,10.1002/jmri.20053,Human,3,222,17,4.5045,,"Traber et al., 2004",E
+Cho,GPC,3.21,2004_traber_19,5,10.1002/jmri.20053,Human,3,222,15,4.5045,,"Traber et al., 2004",F
+Cho,GPC,3.21,2004_traber_19,6,10.1002/jmri.20053,Human,3,265,29,3.7736,,"Traber et al., 2004",G
+Cho,GPC,3.21,2004_traber_19,7,10.1002/jmri.20053,Human,3,242,37,4.1322,,"Traber et al., 2004",H
+Cho,GPC,3.21,2004_traber_19,8,10.1002/jmri.20053,Human,3,201,16,4.9751,,"Traber et al., 2004",I
+Cho,GPC,3.21,2004_traber_19,9,10.1002/jmri.20053,Human,3,276,13,3.6232,,"Traber et al., 2004",J
+Cho,GPC,,2007_tsai_57,1,10.1002/mrm.21225,Human,3,217,17,4.6083,,"Tsai et al., 2007",A
+Cho,GPC,,2007_tsai_57,2,10.1002/mrm.21225,Human,3,215,19,4.6512,,"Tsai et al., 2007",B
+Cho,GPC,,2007_tsai_57,3,10.1002/mrm.21225,Human,3,229,23,4.3668,,"Tsai et al., 2007",C
+Cho,GPC,,2007_tsai_57,4,10.1002/mrm.21225,Human,3,225,26,4.4444,,"Tsai et al., 2007",D
+Cho,GPC,,2007_tsai_57,5,10.1002/mrm.21225,Human,3,221,13,4.5249,,"Tsai et al., 2007",E
+tCho,GPC,,2009_tuncskarka_48,1,10.1016/j.neuroimage.2009.06.061,Human,3,221.15,19.78,4.5218,,,
+tCho,GPC,,2009_tuncskarka_48,2,10.1016/j.neuroimage.2009.06.061,Human,3,220.16,27.54,4.5422,,,
+tcho2,GPC,3.21,2018_wyss_80,1,10.1002/mrm.27067,Human,3,218,22,4.5872,,"Wyss et al., 2018",A
+tcho2,GPC,3.21,2018_wyss_80,2,10.1002/mrm.27067,Human,3,222,49,4.5045,,"Wyss et al., 2018",B
+tcho2,GPC,3.21,2018_wyss_80,3,10.1002/mrm.27067,Human,3,274,61,3.6496,,"Wyss et al., 2018",C
+Cho,GPC,3.21,2007_zaaraoui_57,1,10.1002/mrm.21250,Human,3,219,21,59.4,Caudate,"Zaaraoui et al., 2007",A
+Cho,GPC,3.21,2007_zaaraoui_57,2,10.1002/mrm.21250,Human,3,198,14,39.6,Thalamus,"Zaaraoui et al., 2007",B
+Cho,GPC,3.21,2007_zaaraoui_57,3,10.1002/mrm.21250,Human,3,209,17,48.08,Cingulate,"Zaaraoui et al., 2007",C
+Cho,GPC,3.21,2007_zaaraoui_57,4,10.1002/mrm.21250,Human,3,190,15,42.43,Splenium,"Zaaraoui et al., 2007",D
+Cho,GPC,3.21,2007_zaaraoui_57,5,10.1002/mrm.21250,Human,3,193,20,56.57,Genu,"Zaaraoui et al., 2007",E
+Cho,GPC,3.21,2007_zaaraoui_57,6,10.1002/mrm.21250,Human,3,201,5,14.14,Centrum Semiovale,"Zaaraoui et al., 2007",F
+Cho,GPC,3.21,2007_zaaraoui_57,7,10.1002/mrm.21250,Human,3,211,8,22.63,Parietal,"Zaaraoui et al., 2007",G
+Cho,GPC,3.21,2007_zaaraoui_57,8,10.1002/mrm.21250,Human,3,199,10,28.28,Occipital,"Zaaraoui et al., 2007",H
+Cho,GPC,,2015_zhang_76,1,10.1002/mrm.25922,Human,3,282,12,3.5461,,"Zhang et al., 2015",A
+Cho,GPC,,2015_zhang_76,2,10.1002/mrm.25922,Human,3,226,9,4.4248,,"Zhang et al., 2015",B
+Cho,GPC,,2022_chen,1,10.1093/schbul/sbab149,Human,4,169.61,23.6,5.8959,,,
+Cho,GPC,,2022_chen,2,10.1093/schbul/sbab149,Human,4,177.55,20.47,5.6323,,,
+Cho,GPC,,2022_chen,3,10.1093/schbul/sbab149,Human,4,183.71,30.71,5.4434,,,
+Cho,GPC,,2022_chen,4,10.1093/schbul/sbab149,Human,4,173.16,21.72,5.775,,,
+Cho,GPC,,2022_chen,5,10.1093/schbul/sbab149,Human,4,168.67,17.55,5.9288,,,
+Cho,GPC,,2022_chen,6,10.1093/schbul/sbab149,Human,4,168.36,21.31,5.9398,,,
+Cho,GPC,,2022_chen,7,10.1093/schbul/sbab149,Human,4,181.2,18.8,5.5187,,,
+Cho,GPC,,2022_chen,8,10.1093/schbul/sbab149,Human,4,178.59,21.31,5.5994,,,
+Cho,GPC,3.2,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,569.8,28.8,1.755,,"de Graaf et al., 2006",D
+Cho,GPC,,2011_emir_24,1,10.1002/nbm.1583,Human,4,203,20,4.9261,Assumed 10% Std.Dev.,"Emir et al., 2010",A
+Cho,GPC,3.2,2013_marjanska_8,1,10.1371/journal.pone.0077572,Human,4,164,29,6.0976,Young,"Marjanska et al., 2013",A
+Cho,GPC,3.2,2013_marjanska_8,2,10.1371/journal.pone.0077572,Human,4,147,16,6.8027,Aged,"Marjanska et al., 2013",B
+Cho,GPC,,2010_ongur_63,1,10.1002/mrm.22148,Human,4,238,43,4.2017,,"Ongur et al., 2010",A
+Cho,GPC,,2010_ongur_63,2,10.1002/mrm.22148,Human,4,190,27,5.2632,,"Ongur et al., 2010",B
+Cho,GPC,,1995_posse_33,2,10.1002/mrm.1910330215,Human,4,142,34,7.0423,,"Posse et al., 1995",D
+Cho,GPC,3.22,1994_hetherington_32,1,10.1002/mrm.1910320504,Human,4.1,189,25,5.291,,"Hetherington et al., 1994",C
+Cho,GPC,3.22,1994_hetherington_32,2,10.1002/mrm.1910320504,Human,4.1,167,20,5.988,,"Hetherington et al., 1994",D
+Cho,GPC,3.23,1995_mason_107,1,10.1006/jmrb.1995.1059,Human,4.1,186,23,5.3763,,,
+Cho,GPC,3.23,1995_mason_107,2,10.1006/jmrb.1995.1059,Human,4.1,178,16,5.618,,,
+Cho,GPC,3.22,2008_cudalba_11,1,10.1016/j.crci.2007.08.013,Rat,4.7,231,30,4.329,,"Cudalba et al., 2008",B
+Cho,GPC,3.22,2008_cudalba_11,3,10.1016/j.crci.2007.08.013,Phantom,4.7,840,10,1.1905,,"Cudalba et al., 2008",
+Cho,GPC,3.24,1998_dreher_39,1,10.1002/mrm.1910390605,Rat,4.7,259,49,3.861,,,
+Cho,GPC,3.24,1998_dreher_39,2,10.1002/mrm.1910390605,Rat,4.7,311,53,3.2154,,,
+Cho,GPC,3.24,1998_dreher_39,3,10.1002/mrm.1910390605,Rat,4.7,262,70,3.8168,,,
+Cho,GPC,3.24,1998_dreher_39,4,10.1002/mrm.1910390605,Rat,4.7,246,29,4.065,,,
+tCho,GPC,3.22,2006_madhu_8,1,10.1593/neo.06319,Mouse,4.7,190,31.84,5.2632,,,
+tCho,GPC,3.22,2006_madhu_8,2,10.1593/neo.06319,Mouse,4.7,157,41.64,6.3694,,,
+tCho,GPC,3.22,2006_madhu_8,3,10.1593/neo.06319,Mouse,4.7,162,34.29,6.1728,,,
+tCho,GPC,3.22,2006_madhu_8,4,10.1593/neo.06319,Mouse,4.7,142,29.39,7.0423,,,
+tCho,GPC,3.2,1992_rose_23,2,10.1002/mrm.1910230213,Rat,4.7,355,18,2.8169,,,
+Cho,GPC,,1995_vandertoorn_8,1,10.1002/nbm.1940080604,Rat,4.7,260,46,3.8462,Measure at Time1 - Control,"van der Toorn et al., 1995",I
+Cho,GPC,,1995_vandertoorn_8,6,10.1002/nbm.1940080604,Rat,4.7,181,31.68,5.5249,Measure at Time3 - Control - Assumed 15% Std.Dev.,"van der Toorn et al., 1995",H
+Cho,GPC,,1995_vandertoorn_8,9,10.1002/nbm.1940080604,Rat,4.7,172,78,5.814,Measure at Time1 - Ischemia,"van der Toorn et al., 1995",P
+Cho,GPC,,1995_vandertoorn_8,14,10.1002/nbm.1940080604,Rat,4.7,264,39.6,3.7879,Measure at Time3 - Ischemia - Assumed 15% Std.Dev.,"van der Toorn et al., 1995",O
+Cho,GPC,,2017_an_78,1,10.1002/mrm.26612,Human,7,197,11,5.0761,,"An et al., 2017",E
+Cho,GPC,,2017_an_78,2,10.1002/mrm.26612,Human,7,130,14,7.6923,,"An et al., 2017",F
+Cho,GPC,,2017_an_78,3,10.1002/mrm.26612,Human,7,179,13,5.5866,Conventional Method,"An et al., 2017",G
+Cho,GPC,,2017_an_78,4,10.1002/mrm.26612,Human,7,135,14,7.4074,Conventional Method,"An et al., 2017",H
+tCho,GPC,,2014_branzoli_27,1,10.1002/nbm.3085,Human,7,113.7,20,8.7951,,,
+tCho,GPC,,2014_branzoli_27,2,10.1002/nbm.3085,Human,7,113.7,24,8.7951,,,
+tCho,GPC,,2014_branzoli_27,3,10.1002/nbm.3085,Human,7,115.4,32,8.6655,,,
+tCho,GPC,,2014_branzoli_27,4,10.1002/nbm.3085,Human,7,112.1,31,8.9206,,,
+tCho,GPC,,2014_branzoli_27,5,10.1002/nbm.3085,Human,7,104.4,32,9.5785,,,
+tCho,GPC,,2014_branzoli_27,6,10.1002/nbm.3085,Human,7,96.6,13,10.352,,,
+tCho,GPC,,2014_branzoli_27,7,10.1002/nbm.3085,Human,7,94.1,16,10.627,,,
+tCho,GPC,,2014_branzoli_27,8,10.1002/nbm.3085,Human,7,98,18,10.2041,,,
+tCho,GPC,,2014_branzoli_27,9,10.1002/nbm.3085,Human,7,97.8,18,10.2249,,,
+tCho,GPC,,2014_branzoli_27,10,10.1002/nbm.3085,Human,7,101.3,14,9.8717,,,
+Cho,GPC,3.2,1994_cady_182,1,10.1007/bf01705293,Pig,7,255,50,3.9216,,,
+Cho,GPC,3.2,1994_cady_182,2,10.1007/bf01705293,Pig,7,276,27,3.6232,,,
+Cho,GPC,3.2,1994_cady_182,3,10.1007/bf01705293,Pig,7,259,62,3.861,,,
+Cho,GPC,3.22,2008_cudalba_11,2,10.1016/j.crci.2007.08.013,Rat,7,124,20,8.0645,,"Cudalba et al., 2008",D
+Cho,GPC,3.22,2008_cudalba_11,4,10.1016/j.crci.2007.08.013,Phantom,7,400,24,2.5,,"Cudalba et al., 2008",
+Cho,GPC,,2012_li,2,10.4172/2155-9937.S1-002,Human,7,131,16,7.6336,,"Li et al., 2012",D
+Cho,GPC,,2018_li_79,1,10.1002/mrm.26941,Human,7,154,42,6.4935,Standard Multi-TE,"Li et al., 2018",C
+Cho,GPC,,2018_li_79,2,10.1002/mrm.26941,Human,7,263,53,3.8023,MARZss,"Li et al., 2018",D
+Cho,GPC,,2018_li_79,3,10.1002/mrm.26941,Solution,7,200,23,5,Standard Multi-TE,"Li et al., 2018",E
+Cho,GPC,,2018_li_79,4,10.1002/mrm.26941,Solution,7,194,30,5.1546,MARZss,"Li et al., 2018",F
+Cho,GPC,,2008_liu_59,1,10.1002/mrm.21574,Primate,7,132,32,7.5758,,,
+Cho,GPC,,2008_liu_59,2,10.1002/mrm.21574,Primate,7,131,16,7.6336,,,
+Cho,GPC,,2008_liu_59,3,10.1002/mrm.21574,Primate,7,122,20,8.1967,,,
+Cho,GPC,,2008_liu_59,4,10.1002/mrm.21574,Primate,7,133,6,7.5188,,,
+Cho,GPC,,2008_liu_59,5,10.1002/mrm.21574,Primate,7,133,16,7.5188,,,
+Cho,GPC,,2008_liu_59,6,10.1002/mrm.21574,Primate,7,122,10,8.1967,,,
+Cho,GPC,,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,152,3,6.5789,,"Marjanska et al., 2011",A
+Cho,GPC,,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,139,9,7.1942,,"Marjanska et al., 2011",B
+Cho,GPC,,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,121,5,8.2645,,"Marjanska et al., 2011",C
+Cho,GPC,,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,200,17,5,,"Marjanska et al., 2011",D
+tCh,GPC,3.2,2013_ronen_26,1,10.1002/nbm.2951,Human,7,137.4,10.2,7.278,,"Ronen et al., 2013",A
+tCh,GPC,3.2,2013_ronen_26,2,10.1002/nbm.2951,Human,7,123.1,15.4,8.1235,,"Ronen et al., 2013",B
+tCh,GPC,3.2,2013_ronen_26,5,10.1002/nbm.2951,Human,7,194.3,20.3,5.1467,CPMG,"Ronen et al., 2013",E
+tCh,GPC,3.2,2013_ronen_26,6,10.1002/nbm.2951,Human,7,192.9,14.6,5.184,CPMG,"Ronen et al., 2013",F
+Cho,GPC,,2018_swanberg_290,1,10.1016/j.jmr.2018.02.017,Human,7,176.14,28.8,5.6773,,"Swanberg et al., 2018",A
+Cho,GPC,,2018_wong_31,1,10.1002/nbm.4002,Human,7,128,9,7.8125,,,
+tCho,GPC,,2020_yoo_33,1,10.1007/s10334-020-00840-w,Rat,7,118.95,11.9,8.4069,Multi-TE - Estimated StdDev to be 10%,,
+tCho,GPC,,2020_yoo_33,2,10.1007/s10334-020-00840-w,Rat,7,91.41,9.14,10.9397,OpQT2 - Estimated StdDev to be 10%,,
+Cho,GPC,3.22,2008_chassain_105,1,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,145,35,6.8966,Control,"Chassain et al., 2008",B
+Cho,GPC,3.22,2008_chassain_105,2,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,127,39,7.874,Parkinson's,"Chassain et al., 2008",E
+Cho,GPC,3.209,2010_deelchand_206,1,10.1016/j.jmr.2010.06.006,Human,9.4,70.7,7.1,14.1443,,"Deelchand et al., 2010",B
+Cho,GPC,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,445,67,2.2472,,"Deelchand et al., 2015",A
+Cho,GPC,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,523,68,1.912,,"Deelchand et al., 2015",B
+Cho,GPC,3.2,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,441.3,36.2,2.266,,"de Graaf et al., 2006",E
+Cho,GPC,,2016_fisher_29,1,10.1002/nbm.3588,Rat,9.4,160,20,6.25,,,
+Cho,GPC,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,90.1,23.5,11.0988,,"Murali-Manohar et al., 2019",A
+Cho_CH3,GPC,3.206,1999_pfeuffer_141,1,10.1006/jmre.1999.1895,Rat,9.4,147,10,6.8027,,,
+tCh,GPC,,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,178,29,5.618,,"Xin et al., 2007",A
+Cho,GPC,3.2,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,365.7,73.1,2.7345,,"de Graaf et al., 2006",F
+tCho,GPC,,2013_xin_26,1,10.1007/s10334-013-0378-3,Rat,14.1,148,14,6.7568,,,
+GPC,GPC,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,220,32,4.5455,,"Lopez-Kolkovsky et al., 2015",B
+PCh,GPC,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,204,31,4.902,,"Lopez-Kolkovsky et al., 2015",B
+tCh,GPC,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,212,21,4.717,,"Lopez-Kolkovsky et al., 2015",B
+tCh,GPC,,2009_weiss_22,,10.1007/s10334-008-0142-2,Mouse,17.6,222,56,4.5045,,"Weiss et al., 2009",A
+tCh,GPC,,2017_rosenberg_77,1,10.1002/mrm.26132,Rat,21.1,164,15,6.0976,Contralateral Hemi from Stroke Model,"Rosenberg et al., 2017",A
+Cre,Cre_CH3,,2001_barker_45,1,10.1002/mrm.1104,Human,1.5,270,5,3.7037,,"Barker et al., 2001",A
+PCr,Cre_CH3,,1998_block_55,1,10.1001/archneur.55.7.931,Human,1.5,206,17,4.8544,Listed PCr - Assumed tCr,"Block et al., 1998",
+PCr,Cre_CH3,,1998_block_55,2,10.1001/archneur.55.7.931,Human,1.5,210,21,4.7619,,"Block et al., 1998",
+Cre_CH3,Cre_CH3,3,2005_brief_18,1,10.1002/nbm.916,Human,1.5,159,25.3,6.2893,,"Brief et al., 2005",A
+Cre_CH3,Cre_CH3,3,2005_brief_18,2,10.1002/nbm.916,Human,1.5,169,9.49,5.9172,,"Brief et al., 2005",B
+Cr,Cre_CH3,,2001_brooks_11,1,10.1093/cercor/11.7.598,Human,1.5,221,32,4.5249,,,
+tCr,Cre_CH3,,2019_carlin_49,3,10.1002/jmri.26054,Human,1.5,217,65,4.6083,,,
+tCr,Cre_CH3,,2019_carlin_49,5,10.1002/jmri.26054,Human,1.5,305,51,3.2787,,,
+tCr,Cre_CH3,,2019_carlin_49,7,10.1002/jmri.26054,Human,1.5,225,78,4.4444,,,
+tCr,Cre_CH3,,2019_carlin_49,11,10.1002/jmri.26054,Human,1.5,237,72,4.2194,,,
+tCr,Cre_CH3,,1993_christiansen_11,1,10.1016/0730-725x(93)90197-l,Human,1.5,220,104,4.5455,,,
+tCr,Cre_CH3,,1993_christiansen_11,2,10.1016/0730-725x(93)90197-l,Human,1.5,196,74,5.102,,,
+tCr,Cre_CH3,,1993_christiansen_11,3,10.1016/0730-725x(93)90197-l,Human,1.5,185,52,5.4054,,,
+tCr,Cre_CH3,,1993_christiansen_11,4,10.1016/0730-725x(93)90197-l,Human,1.5,203,44,4.9261,,,
+tCr,Cre_CH3,,1993_christiansen_11,5,10.1016/0730-725x(93)90197-l,Human,1.5,181,41,5.5249,,,
+tCr,Cre_CH3,,1993_christiansen_11,6,10.1016/0730-725x(93)90197-l,Human,1.5,187,71,5.3476,,,
+tCr,Cre_CH3,,1993_christiansen_11,7,10.1016/0730-725x(93)90197-l,Human,1.5,221,77,4.5249,,,
+tCr,Cre_CH3,,1993_christiansen_11,8,10.1016/0730-725x(93)90197-l,Human,1.5,199,57,5.0251,,,
+tCr,Cre_CH3,,1995_christiansen_13,1,10.1016/0730-725x(94)00113-h,Human,1.5,190,45,5.2632,,,
+tCr,Cre_CH3,,1995_christiansen_13,2,10.1016/0730-725x(94)00113-h,Human,1.5,201,38,4.9751,,,
+Cre_CH3,Cre_CH3,3.027,1989_frahm_11,1,10.1002/mrm.1910110105,Human,1.5,250,25,4,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",E
+Cre_CH3,Cre_CH3,3.027,1989_frahm_11,2,10.1002/mrm.1910110105,Human,1.5,240,24,4.1667,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",F
+Cre_CH3,Cre_CH3,3.027,1989_frahm_11,3,10.1002/mrm.1910110105,Human,1.5,200,20,5,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",G
+Cre_CH3,Cre_CH3,3.027,1989_frahm_11,4,10.1002/mrm.1910110105,Human,1.5,190,19,5.2632,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",H
+tCr,Cre_CH3,3,1992_gideon_10,1,10.1016/0730-725x(92)90453-7,Human,1.5,183.7,44.8,5.4437,,,
+tCr,Cre_CH3,3,1992_gideon_10,2,10.1016/0730-725x(92)90453-7,Human,1.5,196.5,66.2,5.0891,,,
+Cre,Cre_CH3,3.02,2002_isobe_20,1,10.1016/S0730-725X(02)00500-3,Human,1.5,205.3,9.6,4.8709,,"Isobe et al., 2002",B
+Cre,Cre_CH3,,1994_kamada_31,1,10.1002/mrm.1910310510,Human,1.5,235.77,37.55,4.2414,,,
+Cre,Cre_CH3,,1994_kamada_31,2,10.1002/mrm.1910310510,Human,1.5,148.81,44.27,6.72,,,
+Cre,Cre_CH3,,1994_kamada_31,3,10.1002/mrm.1910310510,Human,1.5,155.14,50.99,6.4458,,,
+Cr,Cre_CH3,,2001_ke,2,,Phantom,1.5,596.4,10.6,1.6767,,,
+Cr,Cre_CH3,,2001_ke,2,,Human,1.5,287.1,40.7,3.4831,,,
+Cre,Cre_CH3,,1993_kreis_30,1,10.1002/mrm.1910300405,Human,1.5,207,10.58,4.8309,,"Kreis et al., 1993",B
+Cre,Cre_CH3,,1993_kreis_30,4,10.1002/mrm.1910300405,Human,1.5,228,29.39,4.386,,"Kreis et al., 1993",
+Cr3,Cre_CH3,,2005_kreis_54,1,10.1002/mrm.20673,Human,1.5,210,60,4.7619,,,
+Cre,Cre_CH3,,1995_longo_30,1,10.1097/00004424-199504000-00001,Human,1.5,210,54,4.7619,,,
+Cre,Cre_CH3,,1995_longo_30,2,10.1097/00004424-199504000-00001,Human,1.5,157,40,6.3694,,,
+Cre,Cre_CH3,3,2002_mascalchi_16,1,10.1002/jmri.10189,Human,1.5,148,13,6.7568,,,
+Cre,Cre_CH3,3,2002_mascalchi_16,2,10.1002/jmri.10189,Human,1.5,185,34,5.4054,,,
+Cre,Cre_CH3,3,2002_mascalchi_16,3,10.1002/jmri.10189,Human,1.5,197,39,5.0761,,,
+Cre,Cre_CH3,3,2002_mascalchi_16,4,10.1002/jmri.10189,Human,1.5,217,26,4.6083,,,
+Cre,Cre_CH3,3,1991_narayana_9,1,10.1016/0730-725x(91)90415-i,Human,1.5,240,20,4.1667,,,
+Cre,Cre_CH3,,1995_posse_33,1,10.1002/mrm.1910330215,Human,1.5,201,20.1,4.9751,Assumed 10% Std.Dev.,"Posse et al., 1995",C
+Cre,Cre_CH3,3,2002_rutgers_15,1,10.1002/nbm.762,Human,1.5,219,29,4.5662,,,
+Cr,Cre_CH3,,2002_sarchielli_249,1,10.1007/s00415-002-0758-5,Human,1.5,202,20,4.9505,,,
+Cr,Cre_CH3,,2002_sarchielli_249,2,10.1007/s00415-002-0758-5,Human,1.5,211,23,4.7393,,,
+Cr,Cre_CH3,,2002_sarchielli_249,3,10.1007/s00415-002-0758-5,Human,1.5,197,21,5.0761,,,
+Cr,Cre_CH3,3.03,2002_sijens_12,1,10.1007/s00330-001-1300-3,Human,1.5,225,68.79,4.4444,,,
+Cr,Cre_CH3,3.03,2002_sijens_12,2,10.1007/s00330-001-1300-3,Human,1.5,211,84.66,4.7393,,,
+Cr,Cre_CH3,3.03,2002_sijens_12,3,10.1007/s00330-001-1300-3,Human,1.5,120,55.43,8.3333,,,
+Cr,Cre_CH3,2.9- 3.1,2004_sijens_14,2,10.1007/s00330-004-2388-z,Human,1.5,201,48,4.9751,,,
+Cre,Cre_CH3,,2005_soher_53,1,10.1002/mrm.20491,Human,1.5,271,29,3.69,,"Soher et al., 2005",A
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,1,10.1002/jmri.20053,Human,1.5,215,15,4.6512,,"Traber et al., 2004",A
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,2,10.1002/jmri.20053,Human,1.5,208,14,4.8077,,"Traber et al., 2004",B
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,3,10.1002/jmri.20053,Human,1.5,216,14,4.6296,,"Traber et al., 2004",C
+Cre_CH3,Cre_CH3,3.02,2004_walker_220,1,10.1016/j.jns.2004.01.012,Human,1.5,197,23,5.0761,,,
+Cre_CH3,Cre_CH3,3.02,2004_walker_220,2,10.1016/j.jns.2004.01.012,Human,1.5,187,47,5.3476,,,
+Cre,Cre_CH3,,1999_choi_41,1,10.1002/(SICI)1522-2594(199901)41:1<204::AID-MRM29>3.0.CO;2-7,Human,2,191,43,5.2356,,"Choi et al., 1999",B
+Cre,Cre_CH3,3,1992_hennig_5,1,10.1002/nbm.1940050406,Human,2,252,68,3.9683,,"Hennig et al., 1992",A
+Cre,Cre_CH3,3,1992_hennig_5,2,10.1002/nbm.1940050406,Human,2,251,110,3.9841,,"Hennig et al., 1992",B
+Cre,Cre_CH3,3,1992_hennig_5,3,10.1002/nbm.1940050406,Human,2,251,91,3.9841,,"Hennig et al., 1992",C
+Cre,Cre_CH3,3,1992_hennig_5,4,10.1002/nbm.1940050406,Human,2,274,152,3.6496,,"Hennig et al., 1992",D
+Cre,Cre_CH3,,1992_sappey-marinier_26,1,10.1002/mrm.1910260211,Human,2,136,24.49,7.3529,Control,"Sappey-Marinier et al., 1992",A
+Cre,Cre_CH3,,1992_sappey-marinier_26,2,10.1002/mrm.1910260211,Human,2,171,14.7,5.848,Stroke,"Sappey-Marinier et al., 1992",C
+Cre,Cre_CH3,,1992_sappey-marinier_26,3,10.1002/mrm.1910260211,Human,2,131,24.6,7.6336,WMSH,"Sappey-Marinier et al., 1992",E
+Cre,Cre_CH3,3.04,1994_blamire_12,1,10.1016/0730-725X(94)90087-8,Human,2.1,214,93.74,4.6729,,,
+Cre,Cre_CH3,3.04,1994_blamire_12,2,10.1016/0730-725X(94)90087-8,Human,2.1,236,105.83,4.2373,,,
+Cre,Cre_CH3,3,1996_cady_21,1,10.1007/bf02532414,Human,2.4,209.3,34.6,4.7778,,,
+Cre,Cre_CH3,3,1996_cady_21,2,10.1007/bf02532414,Human,2.4,297.7,166.7,3.3591,,,
+Cre,Cre_CH3,3,1996_cady_21,3,10.1007/bf02532414,Human,2.4,257.6,50.4,3.882,,,
+Cre,Cre_CH3,3,1996_cady_36,1,10.1002/mrm.1910360610,Human,2.4,204.8,35.2,4.8828,,,
+Cre,Cre_CH3,3,1996_cady_36,3,10.1002/mrm.1910360610,Human,2.4,198.4,42.3,5.0403,,,
+Cre_CH3,Cre_CH3,,1998_fujimori_39,1,10.1002/mrm.1910390419,Rat,2.4,203,19,4.9261,,"Fujimori et al., 1998",
+Cre_CH3,Cre_CH3,,1998_fujimori_39,4,10.1002/mrm.1910390419,Rat,2.4,198,14,5.0505,,"Fujimori et al., 1998",
+Cre_CH3,Cre_CH3,,1998_fujimori_39,8,10.1002/mrm.1910390419,Rat,2.4,193,27,5.1813,,"Fujimori et al., 1998",
+tCr,Cre_CH3,3,1992_rose_23,1,10.1002/mrm.1910230213,Dog,2.4,260,30,3.8462,,,
+Cre,Cre_CH3,,2001_barker_45,2,10.1002/mrm.1104,Human,3,150,40,6.6667,,"Barker et al., 2001",B
+Cre,Cre_CH3,3.03,2006_choi_56,1,10.1002/mrm.21055,Human,3,164,12,6.0976,,"Choi et al., 2006",A
+Cre,Cre_CH3,3.03,2006_choi_56,2,10.1002/mrm.21055,Human,3,169,15,5.9172,,"Choi et al., 2006",B
+tCr,Cre_CH3,,2021_dacko_85,1,10.1002/mrm.28500,Human,3,158,8,6.3291,,,
+Cre,Cre_CH3,,2018_deelchand_79,1,10.1002/mrm.26826,Human,3,195,6,5.1282,LASER,"Deelchand et al., 2018",A
+Cre,Cre_CH3,,2018_deelchand_79,2,10.1002/mrm.26826,Human,3,175,8,5.7143,PRESS,"Deelchand et al., 2018",B
+Cre_CH3,Cre_CH3,,2020_deelchand_95,1,10.1016/j.neurobiolaging.2020.07.017,Human,3,183,7,5.4645,,"Deelchand et al., 2020",A
+Cre_CH3,Cre_CH3,,2020_deelchand_95,2,10.1016/j.neurobiolaging.2020.07.017,Human,3,178,6,5.618,,"Deelchand et al., 2020",B
+Cre_CH3,Cre_CH3,,2020_deelchand_95,3,10.1016/j.neurobiolaging.2020.07.017,Human,3,194,7,5.1546,,"Deelchand et al., 2020",C
+Cre_CH3,Cre_CH3,,2020_deelchand_95,4,10.1016/j.neurobiolaging.2020.07.017,Human,3,174,7,5.7471,,"Deelchand et al., 2020",D
+Cre_CH3,Cre_CH3,,2020_deelchand_95,5,10.1016/j.neurobiolaging.2020.07.017,Human,3,171,7,5.848,,"Deelchand et al., 2020",E
+Cre_CH3,Cre_CH3,,2020_deelchand_95,6,10.1016/j.neurobiolaging.2020.07.017,Human,3,198,11,5.0505,,"Deelchand et al., 2020",F
+Cre,Cre_CH3,3.05,2005_dumoulin,1,ISMRM_1179_2005,Human,3,140.8,16.4,7.1023,Aged,"Dumoulin et al., 2005",A
+Cre,Cre_CH3,3.05,2005_dumoulin,2,ISMRM_1179_2005,Human,3,147.06,15.55,6.7999,MCI,"Dumoulin et al., 2005",B
+Cre,Cre_CH3,3.05,2005_dumoulin,3,ISMRM_1179_2005,Human,3,151.05,20.72,6.6203,AD,"Dumoulin et al., 2005",C
+Cre,Cre_CH3,,2019_fleysher_27,1,10.1016/j.mri.2009.05.033,Phantom,3,261,37.5,3.8314,,,
+Cre,Cre_CH3,,2019_fleysher_27,2,10.1016/j.mri.2009.05.033,Phantom,3,261,34,3.8314,,,
+Cre,Cre_CH3,,2019_fleysher_27,3,10.1016/j.mri.2009.05.033,Phantom,3,288,40.5,3.4722,,,
+Cre,Cre_CH3,,2019_fleysher_27,4,10.1016/j.mri.2009.05.033,Phantom,3,318,48.5,3.1447,,,
+Cre,Cre_CH3,,2019_fleysher_27,5,10.1016/j.mri.2009.05.033,Phantom,3,318,48.5,3.1447,,,
+Cre,Cre_CH3,,2019_fleysher_27,6,10.1016/j.mri.2009.05.033,Phantom,3,345,64.5,2.8986,,,
+Cre,Cre_CH3,,2019_fleysher_27,7,10.1016/j.mri.2009.05.033,Phantom,3,344,60,2.907,,,
+Cre,Cre_CH3,,2019_fleysher_27,8,10.1016/j.mri.2009.05.033,Phantom,3,313,47,3.1949,,,
+Cre,Cre_CH3,,2019_fleysher_27,9,10.1016/j.mri.2009.05.033,Phantom,3,332,54,3.012,,,
+Cre,Cre_CH3,,2019_fleysher_27,10,10.1016/j.mri.2009.05.033,Phantom,3,322,50.5,3.1056,,,
+Cre_CH3,Cre_CH3,3.03,2012_ganji_25,1,10.1002/nbm.1767,Human,3,147,10,6.8027,,"Ganji et al., 2012",A
+Cre_CH3,Cre_CH3,3.03,2012_ganji_25,2,10.1002/nbm.1767,Human,3,156,7,6.4103,,"Ganji et al., 2012",B
+tCr,Cre_CH3,,2002_hanstock_198,1,10.1016/S0022-510X(02)00074-6,Human,3,184,42,5.4348,Control,"Hanstock et al,. 2002",A
+tCr,Cre_CH3,,2002_hanstock_198,2,10.1016/S0022-510X(02)00074-6,Human,3,132,17,7.5758,ALS,"Hanstock et al,. 2002",C
+Cre,Cre_CH3,,2004_hurd_51,1,10.1002/mrm.20007,Human,3,143,7,6.993,,,
+Cre,Cre_CH3,,2004_hurd_51,2,10.1002/mrm.20007,Human,3,176,13,5.6818,,,
+Cre,Cre_CH3,,2016_jiru_29,1,10.1002/nbm.3456,Human,3,170.7,6.8,5.8582,,"Jiru et al., 2016",A
+Cre,Cre_CH3,,2016_jiru_29,2,10.1002/nbm.3456,Human,3,159,11.1,6.2893,,"Jiru et al., 2016",B
+Cre,Cre_CH3,,2008_kirov_60,1,10.1002/mrm.21715,Human,3,194,16.97,5.1546,Caudate,"Kirov et al., 2008",A
+Cre,Cre_CH3,,2008_kirov_60,2,10.1002/mrm.21715,Human,3,152,11.31,6.5789,Thalamus,"Kirov et al., 2008",B
+Cre,Cre_CH3,,2008_kirov_60,3,10.1002/mrm.21715,Human,3,160,41.14,6.25,Cingulate,"Kirov et al., 2008",C
+Cre,Cre_CH3,,2008_kirov_60,4,10.1002/mrm.21715,Human,3,141,14.14,7.0922,Globus Pallidus,"Kirov et al., 2008",D
+Cre,Cre_CH3,,2008_kirov_60,5,10.1002/mrm.21715,Human,3,157,16.97,6.3694,Putamen,"Kirov et al., 2008",E
+Cre,Cre_CH3,,2008_kirov_60,6,10.1002/mrm.21715,Human,3,164,11.31,6.0976,Splenium,"Kirov et al., 2008",F
+Cre,Cre_CH3,,2008_kirov_60,7,10.1002/mrm.21715,Human,3,202,48.08,4.9505,Genu,"Kirov et al., 2008",G
+Cre,Cre_CH3,,2008_kirov_60,8,10.1002/mrm.21715,Human,3,187,5.66,5.3476,Centrum Semiovale,"Kirov et al., 2008",H
+Cre,Cre_CH3,,2008_kirov_60,9,10.1002/mrm.21715,Human,3,175,14.14,5.7143,Occipital,"Kirov et al., 2008",I
+Cre,Cre_CH3,,2008_kirov_60,10,10.1002/mrm.21715,Human,3,173,14.14,5.7803,Corona Radiata,"Kirov et al., 2008",J
+Cre,Cre_CH3,,2008_kirov_60,11,10.1002/mrm.21715,Human,3,184,24.49,5.4348,Caudate,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,12,10.1002/mrm.21715,Human,3,162,41.64,6.1728,Thalamus,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,13,10.1002/mrm.21715,Human,3,162,22.05,6.1728,Cingulate,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,14,10.1002/mrm.21715,Human,3,144,22.05,6.9444,Globus Pallidus,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,15,10.1002/mrm.21715,Human,3,161,22.05,6.2112,Putamen,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,16,10.1002/mrm.21715,Human,3,205,24.49,4.878,Splenium,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,17,10.1002/mrm.21715,Human,3,251,88.18,3.9841,Genu,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,18,10.1002/mrm.21715,Human,3,190,4.9,5.2632,Centrum Semiovale,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,19,10.1002/mrm.21715,Human,3,188,26.94,5.3191,Occipital,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,20,10.1002/mrm.21715,Human,3,180,17.15,5.5556,Corona Radiata,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,21,10.1002/mrm.21715,Human,3,147,72,6.8027,Caudate,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,22,10.1002/mrm.21715,Human,3,152,8,6.5789,Thalamus,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,23,10.1002/mrm.21715,Human,3,173,66,5.7803,Cingulate,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,24,10.1002/mrm.21715,Human,3,149,54,6.7114,Globus Pallidus,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,25,10.1002/mrm.21715,Human,3,151,22,6.6225,Putamen,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,26,10.1002/mrm.21715,Human,3,183,28,5.4645,Splenium,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,27,10.1002/mrm.21715,Human,3,175,30,5.7143,Genu,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,28,10.1002/mrm.21715,Human,3,186,22,5.3763,Centrum Semiovale,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,29,10.1002/mrm.21715,Human,3,197,64,5.0761,Occipital,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,30,10.1002/mrm.21715,Human,3,180,42,5.5556,Corona Radiata,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,31,10.1002/mrm.21715,Human,3,184,39.6,5.4348,Caudate,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,32,10.1002/mrm.21715,Human,3,164,7.07,6.0976,Thalamus,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,33,10.1002/mrm.21715,Human,3,147,8.48,6.8027,Cingulate,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,34,10.1002/mrm.21715,Human,3,145,12.73,6.8966,Globus Pallidus,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,35,10.1002/mrm.21715,Human,3,132,12.73,7.5758,Putamen,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,36,10.1002/mrm.21715,Human,3,193,16.97,5.1813,Splenium,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,37,10.1002/mrm.21715,Human,3,162,14.14,6.1728,Genu,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,38,10.1002/mrm.21715,Human,3,186,9.9,5.3763,Centrum Semiovale,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,39,10.1002/mrm.21715,Human,3,169,14.14,5.9172,Occipital,"Kirov et al., 2008",
+Cre,Cre_CH3,,2008_kirov_60,40,10.1002/mrm.21715,Human,3,174,11.31,5.7471,Corona Radiata,"Kirov et al., 2008",
+Cre,Cre_CH3,3.02,2008_li_28,1,10.1002/jmri.21453,Human,3,139,16,7.1942,,"Li et al., 2008",C
+Cre,Cre_CH3,,2012_li,1,10.4172/2155-9937.S1-002,Human,3,151,15,6.6225,,"Li et al., 2012",B
+Cre,Cre_CH3,3.03,2015_madan_73,1,10.1002/mrm.25352,Human,3,149,15,6.7114,Control,"Madan et al., 2015",A
+Cre,Cre_CH3,3.03,2015_madan_73,2,10.1002/mrm.25352,Human,3,175,24,5.7143,Low Grade Tumor,"Madan et al., 2015",B
+Cre,Cre_CH3,3.03,2015_madan_73,3,10.1002/mrm.25352,Human,3,168,18,5.9524,High Grade Tumor,"Madan et al., 2015",C
+Cre_CH3,Cre_CH3,3.03,2001_mlynarik_14,1,10.1002/nbm.713,Human,3,152,15.65,6.5789,,"Mlyanarik et al., 2001",A
+Cre_CH3,Cre_CH3,3.03,2001_mlynarik_14,2,10.1002/nbm.713,Human,3,156,44.72,6.4103,,"Mlyanarik et al., 2001",B
+Cre_CH3,Cre_CH3,,2021_nosrati_85,1,10.1002/mrm.28644,Human,3,162.07,15.5,6.1702,,,
+Cre_CH3,Cre_CH3,,2021_nosrati_85,2,10.1002/mrm.28644,Human,3,165.29,15.85,6.05,,,
+Cre_CH3,Cre_CH3,,2021_nosrati_85,3,10.1002/mrm.28644,Human,3,198.81,52.17,5.0299,,,
+Cre_CH3,Cre_CH3,,2014_prescot_27,1,10.1002/nbm.3115,Human,3,154,7,6.4935,,,
+Cre_CH3,Cre_CH3,,2014_prescot_27,2,10.1002/nbm.3115,Human,3,167,9,5.988,,,
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,4,10.1002/jmri.20053,Human,3,178,9,5.618,,"Traber et al., 2004",E
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,5,10.1002/jmri.20053,Human,3,162,16,6.1728,,"Traber et al., 2004",F
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,6,10.1002/jmri.20053,Human,3,161,10,6.2112,,"Traber et al., 2004",G
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,7,10.1002/jmri.20053,Human,3,169,9,5.9172,,"Traber et al., 2004",H
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,8,10.1002/jmri.20053,Human,3,143,13,6.993,,"Traber et al., 2004",I
+Cre_CH3,Cre_CH3,3.03,2004_traber_19,9,10.1002/jmri.20053,Human,3,178,13,5.618,,"Traber et al., 2004",J
+Cre,Cre_CH3,,2007_tsai_57,1,10.1002/mrm.21225,Human,3,156,7,6.4103,,"Tsai et al., 2007",A
+Cre,Cre_CH3,,2007_tsai_57,2,10.1002/mrm.21225,Human,3,152,5,6.5789,,"Tsai et al., 2007",B
+Cre,Cre_CH3,,2007_tsai_57,3,10.1002/mrm.21225,Human,3,157,15,6.3694,,"Tsai et al., 2007",C
+Cre,Cre_CH3,,2007_tsai_57,4,10.1002/mrm.21225,Human,3,155,7,6.4516,,"Tsai et al., 2007",D
+Cre,Cre_CH3,,2007_tsai_57,5,10.1002/mrm.21225,Human,3,151,5,6.6225,,"Tsai et al., 2007",E
+tCr,Cre_CH3,,2009_tuncskarka_48,1,10.1016/j.neuroimage.2009.06.061,Human,3,173.52,13.51,5.763,,,
+tCr,Cre_CH3,,2009_tuncskarka_48,2,10.1016/j.neuroimage.2009.06.061,Human,3,167.52,18.55,5.9694,,,
+Cre_CH3,Cre_CH3,3.03,2018_wyss_80,1,10.1002/mrm.27067,Human,3,166,11,6.0241,,"Wyss et al., 2018",A
+Cre_CH3,Cre_CH3,3.03,2018_wyss_80,2,10.1002/mrm.27067,Human,3,144,17,6.9444,,"Wyss et al., 2018",B
+Cre_CH3,Cre_CH3,3.03,2018_wyss_80,3,10.1002/mrm.27067,Human,3,148,22,6.7568,,"Wyss et al., 2018",C
+Cre,Cre_CH3,3.03,2007_zaaraoui_57,1,10.1002/mrm.21250,Human,3,163,50.91,6.135,Caudate,"Zaaraoui et al., 2007",A
+Cre,Cre_CH3,3.03,2007_zaaraoui_57,2,10.1002/mrm.21250,Human,3,135,28.28,7.4074,Thalamus,"Zaaraoui et al., 2007",B
+Cre,Cre_CH3,3.03,2007_zaaraoui_57,3,10.1002/mrm.21250,Human,3,131,31.11,7.6336,Cingulate,"Zaaraoui et al., 2007",C
+Cre,Cre_CH3,3.03,2007_zaaraoui_57,4,10.1002/mrm.21250,Human,3,159,39.6,6.2893,Splenium,"Zaaraoui et al., 2007",D
+Cre,Cre_CH3,3.03,2007_zaaraoui_57,5,10.1002/mrm.21250,Human,3,137,45.25,7.2993,Genu,"Zaaraoui et al., 2007",E
+Cre,Cre_CH3,3.03,2007_zaaraoui_57,6,10.1002/mrm.21250,Human,3,155,11.31,6.4516,Centrum Semiovale,"Zaaraoui et al., 2007",F
+Cre,Cre_CH3,3.03,2007_zaaraoui_57,7,10.1002/mrm.21250,Human,3,159,16.97,6.2893,Parietal,"Zaaraoui et al., 2007",G
+Cre,Cre_CH3,3.03,2007_zaaraoui_57,8,10.1002/mrm.21250,Human,3,151,25.46,6.6225,Occipital,"Zaaraoui et al., 2007",H
+Cre,Cre_CH3,,2015_zhang_76,1,10.1002/mrm.25922,Human,3,175,7,5.7143,,"Zhang et al., 2015",A
+Cre,Cre_CH3,,2015_zhang_76,2,10.1002/mrm.25922,Human,3,153,9,6.5359,,"Zhang et al., 2015",B
+Cr,Cre_CH3,,2022_chen,1,10.1093/schbul/sbab149,Human,4,145.59,8.04,6.8687,,,
+Cr,Cre_CH3,,2022_chen,2,10.1093/schbul/sbab149,Human,4,150.88,13.6,6.6277,,,
+Cr,Cre_CH3,,2022_chen,3,10.1093/schbul/sbab149,Human,4,149.77,17.45,6.6769,,,
+Cr,Cre_CH3,,2022_chen,4,10.1093/schbul/sbab149,Human,4,144.94,12.81,6.8996,,,
+Cr,Cre_CH3,,2022_chen,5,10.1093/schbul/sbab149,Human,4,140.49,7.85,7.1179,,,
+Cr,Cre_CH3,,2022_chen,6,10.1093/schbul/sbab149,Human,4,149.58,16.86,6.6856,,,
+Cr,Cre_CH3,,2022_chen,7,10.1093/schbul/sbab149,Human,4,149.84,16.21,6.6739,,,
+Cr,Cre_CH3,,2022_chen,8,10.1093/schbul/sbab149,Human,4,147.16,11.18,6.7955,,,
+Cre,Cre_CH3,3.03,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,232.9,5.9,4.2937,,"de Graaf et al., 2006",D
+tCr_CH3,Cre_CH3,3.03,2012_deelchand_67,1,10.1002/mrm.23080,Human,4,176,11,5.6818,,"Deelchand et al., 2012",A
+Cre,Cre_CH3,,2011_emir_24,1,10.1002/nbm.1583,Human,4,109,10.9,9.1743,Assumed 10% Std.Dev.,"Emir et al., 2010",A
+Cre,Cre_CH3,3.03,2013_marjanska_8,1,10.1371/journal.pone.0077572,Human,4,157,14,6.3694,Young,"Marjanska et al., 2013",A
+Cre,Cre_CH3,3.03,2013_marjanska_8,2,10.1371/journal.pone.0077572,Human,4,132,11,7.5758,Aged,"Marjanska et al., 2013",B
+Cre,Cre_CH3,3.03,2002_michaeli_47,1,10.1002/mrm.10135,Human,4,150,11,6.6667,PRESS,"Michaeli et al., 2002",A
+Cre,Cre_CH3,3.03,2002_michaeli_47,3,10.1002/mrm.10135,Human,4,273,27,3.663,CP-LASER,"Michaeli et al., 2002",C
+Cre,Cre_CH3,,2010_ongur_63,1,10.1002/mrm.22148,Human,4,146,22,6.8493,,"Ongur et al., 2010",A
+Cre,Cre_CH3,,2010_ongur_63,2,10.1002/mrm.22148,Human,4,124,29,8.0645,,"Ongur et al., 2010",B
+Cre,Cre_CH3,,1995_posse_33,2,10.1002/mrm.1910330215,Human,4,140,13,7.1429,,"Posse et al., 1995",D
+Cre,Cre_CH3,,2000_sammi_44,1,10.1002/1522-2594(200007)44:1<35::AID-MRM7>3.0.CO;2-G,Human,4,148,20,6.7568,,,
+Cre,Cre_CH3,3.03,1994_hetherington_32,1,10.1002/mrm.1910320504,Human,4.1,140,16,7.1429,,"Hetherington et al., 1994",C
+Cre,Cre_CH3,3.03,1994_hetherington_32,2,10.1002/mrm.1910320504,Human,4.1,141,18,7.0922,,"Hetherington et al., 1994",D
+Cre,Cre_CH3,3.03,1995_mason_107,1,10.1006/jmrb.1995.1059,Human,4.1,149,10,6.7114,,,
+Cre,Cre_CH3,3.03,1995_mason_107,2,10.1006/jmrb.1995.1059,Human,4.1,143,8,6.993,,,
+Cre,Cre_CH3,3.03,2008_cudalba_11,1,10.1016/j.crci.2007.08.013,Rat,4.7,238,31,4.2017,,"Cudalba et al., 2008",B
+Cre,Cre_CH3,3.03,2008_cudalba_11,3,10.1016/j.crci.2007.08.013,Phantom,4.7,762,40,1.3123,,"Cudalba et al., 2008",
+tCr,Cre_CH3,3.03,1998_dreher_39,1,10.1002/mrm.1910390605,Rat,4.7,149,27,6.7114,,,
+tCr,Cre_CH3,3.03,1998_dreher_39,2,10.1002/mrm.1910390605,Rat,4.7,139,19,7.1942,,,
+tCr,Cre_CH3,3.03,1998_dreher_39,3,10.1002/mrm.1910390605,Rat,4.7,163,22,6.135,,,
+tCr,Cre_CH3,3.03,1998_dreher_39,4,10.1002/mrm.1910390605,Rat,4.7,211,41,4.7393,,,
+tCr,Cre_CH3,3.03,2006_madhu_8,1,10.1593/neo.06319,Mouse,4.7,142,29.39,7.0423,,,
+tCr,Cre_CH3,3.03,2006_madhu_8,2,10.1593/neo.06319,Mouse,4.7,133,39.19,7.5188,,,
+tCr,Cre_CH3,3.03,2006_madhu_8,3,10.1593/neo.06319,Mouse,4.7,138,29.39,7.2464,,,
+tCr,Cre_CH3,3.03,2006_madhu_8,4,10.1593/neo.06319,Mouse,4.7,116,31.84,8.6207,,,
+tCr,Cre_CH3,3,1992_rose_23,2,10.1002/mrm.1910230213,Rat,4.7,220,18,4.5455,,,
+Cre,Cre_CH3,,1995_vandertoorn_8,3,10.1002/nbm.1940080604,Rat,4.7,172,26,5.814,Measure at Time1 - Control,"van der Toorn et al., 1995",N
+Cre,Cre_CH3,,1995_vandertoorn_8,5,10.1002/nbm.1940080604,Rat,4.7,181,20,5.5249,Measure at Time2 - Control,"van der Toorn et al., 1995",N
+Cre,Cre_CH3,,1995_vandertoorn_8,7,10.1002/nbm.1940080604,Rat,4.7,180,3,5.5556,Measure at Time3 - Control,"van der Toorn et al., 1995",J
+Cre,Cre_CH3,,1995_vandertoorn_8,11,10.1002/nbm.1940080604,Rat,4.7,191,17,5.2356,Measure at Time1 - Ischemia,"van der Toorn et al., 1995",U
+Cre,Cre_CH3,,1995_vandertoorn_8,13,10.1002/nbm.1940080604,Rat,4.7,205,27,4.878,Measure at Time2 - Ischemia,"van der Toorn et al., 1995",U
+Cre,Cre_CH3,,1995_vandertoorn_8,15,10.1002/nbm.1940080604,Rat,4.7,178,26,5.618,Measure at Time3 - Ischemia,"van der Toorn et al., 1995",Q
+tCr,Cre_CH3,,2021_wang_35,1,10.1002/nbm.4617,Rat,4.7,169.9,9.9,5.8858,,,
+tCr,Cre_CH3,,2021_wang_35,2,10.1002/nbm.4617,Rat,4.7,153.7,18.6,6.5062,,,
+tCr,Cre_CH3,,2021_wang_35,3,10.1002/nbm.4617,Rat,4.7,150,17.8,6.6667,,,
+tCr,Cre_CH3,,2021_wang_35,4,10.1002/nbm.4617,Phantom,4.7,333.33,0,3,,,
+Cre,Cre_CH3,,2012_li,2,10.4172/2155-9937.S1-002,Human,7,121,12,8.2645,,"Li et al., 2012",D
+Cre,Cre_CH3,,2017_an_78,1,10.1002/mrm.26612,Human,7,127,6,7.874,,"An et al., 2017",E
+Cre,Cre_CH3,,2017_an_78,2,10.1002/mrm.26612,Human,7,109,7,9.1743,,"An et al., 2017",F
+Cre,Cre_CH3,,2017_an_78,3,10.1002/mrm.26612,Human,7,126,12,7.9365,Conventional Method,"An et al., 2017",G
+Cre,Cre_CH3,,2017_an_78,4,10.1002/mrm.26612,Human,7,109,10,9.1743,Conventional Method,"An et al., 2017",H
+Cre,Cre_CH3,,2013_andreychenko_26,1,10.1002/nbm.2997,Human,7,109,8,9.1743,,"Andreychenko et al., 2013",B
+tCr,Cre_CH3,,2014_branzoli_27,1,10.1002/nbm.3085,Human,7,109.6,26,9.1241,,,
+tCr,Cre_CH3,,2014_branzoli_27,2,10.1002/nbm.3085,Human,7,111.1,26.4,9.0009,,,
+tCr,Cre_CH3,,2014_branzoli_27,3,10.1002/nbm.3085,Human,7,114.1,48.8,8.7642,,,
+tCr,Cre_CH3,,2014_branzoli_27,4,10.1002/nbm.3085,Human,7,105.7,19.2,9.4607,,,
+tCr,Cre_CH3,,2014_branzoli_27,5,10.1002/nbm.3085,Human,7,104.6,28.8,9.5602,,,
+tCr,Cre_CH3,,2014_branzoli_27,6,10.1002/nbm.3085,Human,7,84,23.2,11.9048,,,
+tCr,Cre_CH3,,2014_branzoli_27,7,10.1002/nbm.3085,Human,7,86.2,14,11.6009,,,
+tCr,Cre_CH3,,2014_branzoli_27,8,10.1002/nbm.3085,Human,7,89.2,14,11.2108,,,
+tCr,Cre_CH3,,2014_branzoli_27,9,10.1002/nbm.3085,Human,7,98.2,17.2,10.1833,,,
+tCr,Cre_CH3,,2014_branzoli_27,10,10.1002/nbm.3085,Human,7,102.5,13.6,9.7561,,,
+Cre,Cre_CH3,3,1994_cady_182,1,10.1007/bf01705293,Pig,7,160,23,6.25,,,
+Cre,Cre_CH3,3,1994_cady_182,2,10.1007/bf01705293,Pig,7,263,51,3.8023,,,
+Cre,Cre_CH3,3,1994_cady_182,3,10.1007/bf01705293,Pig,7,226,88,4.4248,,,
+Cre,Cre_CH3,3.03,2008_cudalba_11,2,10.1016/j.crci.2007.08.013,Rat,7,126,16,7.9365,,"Cudalba et al., 2008",D
+Cre,Cre_CH3,3.03,2008_cudalba_11,4,10.1016/j.crci.2007.08.013,Phantom,7,425,52,2.3529,,"Cudalba et al., 2008",
+Cre,Cre_CH3,,2018_li_79,1,10.1002/mrm.26941,Human,7,113,9,8.8496,Standard Multi-TE,"Li et al., 2018",C
+Cre,Cre_CH3,,2018_li_79,2,10.1002/mrm.26941,Human,7,185,24,5.4054,MARZss,"Li et al., 2018",D
+Cre,Cre_CH3,,2018_li_79,3,10.1002/mrm.26941,Solution,7,310,24,3.2258,Standard Multi-TE,"Li et al., 2018",E
+Cre,Cre_CH3,,2018_li_79,4,10.1002/mrm.26941,Solution,7,275,31,3.6364,MARZss,"Li et al., 2018",F
+Cre,Cre_CH3,,2008_liu_59,1,10.1002/mrm.21574,Primate,7,109,26,9.1743,,,
+Cre,Cre_CH3,,2008_liu_59,2,10.1002/mrm.21574,Primate,7,118,8,8.4746,,,
+Cre,Cre_CH3,,2008_liu_59,3,10.1002/mrm.21574,Primate,7,116,12,8.6207,,,
+Cre,Cre_CH3,,2008_liu_59,4,10.1002/mrm.21574,Primate,7,126,8,7.9365,,,
+Cre,Cre_CH3,,2008_liu_59,5,10.1002/mrm.21574,Primate,7,112,8,8.9286,,,
+Cre,Cre_CH3,,2008_liu_59,6,10.1002/mrm.21574,Primate,7,119,12,8.4034,,,
+Cre_CH3,Cre_CH3,3.03,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,95,3,10.5263,,"Marjanska et al., 2011",A
+Cre_CH3,Cre_CH3,3.03,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,113,2,8.8496,,"Marjanska et al., 2011",B
+Cre_CH3,Cre_CH3,3.03,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,90,11,11.1111,,"Marjanska et al., 2011",C
+Cre_CH3,Cre_CH3,3.03,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,131,8,7.6336,,"Marjanska et al., 2011",D
+Cre,Cre_CH3,3.03,2002_michaeli_47,2,10.1002/mrm.10135,Human,7,109,12,9.1743,PRESS,"Michaeli et al., 2002",B
+Cre,Cre_CH3,3.03,2002_michaeli_47,4,10.1002/mrm.10135,Human,7,221,19,4.5249,CP-LASER,"Michaeli et al., 2002",D
+tCr,Cre_CH3,3,2013_ronen_26,1,10.1002/nbm.2951,Human,7,109.2,3.2,9.1575,,"Ronen et al., 2013",A
+tCr,Cre_CH3,3,2013_ronen_26,2,10.1002/nbm.2951,Human,7,104.2,7.7,9.5969,,"Ronen et al., 2013",B
+tCr,Cre_CH3,3,2013_ronen_26,5,10.1002/nbm.2951,Human,7,146.1,7.1,6.8446,CPMG,"Ronen et al., 2013",E
+tCr,Cre_CH3,3,2013_ronen_26,6,10.1002/nbm.2951,Human,7,150.9,5.3,6.6269,CPMG,"Ronen et al., 2013",F
+Cre,Cre_CH3,3.03,2018_swanberg_290,1,10.1016/j.jmr.2018.02.017,Human,7,153,19.9,6.5359,,"Swanberg et al., 2018",A
+Cre_CH3,Cre_CH3,3.03,2001_tkac_46,1,10.1002/mrm.1213,Human,7,87,5,11.4943,,"Tkac et al., 2001",A
+Cr_CH3,Cre_CH3,,2018_wong_31,1,10.1002/nbm.4002,Human,7,120,1,8.3333,,,
+tCr,Cre_CH3,,2020_yoo_33,1,10.1007/s10334-020-00840-w,Rat,7,148.39,14.84,6.739,Multi-TE - Estimated StdDev to be 10%,,
+tCr,Cre_CH3,,2020_yoo_33,2,10.1007/s10334-020-00840-w,Rat,7,145.5,14.55,6.8729,OpQT2 - Estimated StdDev to be 10%,,
+tCr,Cre_CH3,3.022,2008_chassain_105,1,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,85,13,11.7647,Control,"Chassain et al., 2008",B
+tCr,Cre_CH3,3.022,2008_chassain_105,2,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,85,13,11.7647,Parkinson's,"Chassain et al., 2008",E
+Cre_CH3,Cre_CH3,3.027,2010_deelchand_206,1,10.1016/j.jmr.2010.06.006,Human,9.4,71.9,5,13.9082,,"Deelchand et al., 2010",B
+Cre_CH3,Cre_CH3,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,170,12,5.8824,,"Deelchand et al., 2015",A
+Cre_CH3,Cre_CH3,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,224,7,4.4643,,"Deelchand et al., 2015",B
+Cre_CH3,Cre_CH3,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,231,16,4.329,,"Deelchand et al., 2015",C
+Cre,Cre_CH3,3.03,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,171.1,3.9,5.8445,,"de Graaf et al., 2006",E
+Cre,Cre_CH3,,2016_fisher_29,1,10.1002/nbm.3588,Rat,9.4,152,12,6.5789,,,
+Cre,Cre_CH3,,2003_lei_49,1,10.1002/mrm.10490,Rat,9.4,134.3,7,7.446,Control,"Lei et al., 2003",A
+Cre,Cre_CH3,,2003_lei_49,2,10.1002/mrm.10490,Rat,9.4,137.4,14,7.278,Ischemia,"Lei et al., 2003",B
+Cre,Cre_CH3,,2003_lei_49,3,10.1002/mrm.10490,Rat,9.4,137.7,8,7.2622,Reperfusion,"Lei et al., 2003",C
+Cre,Cre_CH3,,2003_lei_49,4,10.1002/mrm.10490,Rat,9.4,134.3,12.1,7.446,Control-23,"Lei et al., 2003",D
+Cre_CH3,Cre_CH3,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,100.2,16,9.98,,"Murali-Manohar et al., 2019",A
+Cre_CH3,Cre_CH3,3.025,1999_pfeuffer_141,1,10.1006/jmre.1999.1895,Rat,9.4,104,4,9.6154,,,
+Cre,Cre_CH3,3.03,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,114,3,8.7719,,"Xin et al., 2007",A
+tCr,tCr,3.03,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,113,3,8.8496,,"Xin et al., 2007",A
+Cre,Cre_CH3,3.03,2007_xin_21,2,10.1002/nbm.1205,Phantom,9.4,376,19,2.6596,,"Xin et al., 2007",
+Cre,Cre_CH3,3.03,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,159.1,6.6,6.2854,,"de Graaf et al., 2006",F
+tCr_CH3,Cre_CH3,3.03,2013_xin_26,1,10.1007/s10334-013-0378-3,Rat,14.1,107,2,9.3458,,,
+Cre_CH3,Cre_CH3,3.03,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,141,7,7.0922,,"Lopez-Kolkovsky et al., 2015",B
+tCr,Cre_CH3,,2009_weiss_22,,10.1007/s10334-008-0142-2,Mouse,17.6,160,14,6.25,,"Weiss et al., 2009",A
+tCr,Cre_CH3,,2017_rosenberg_77,1,10.1002/mrm.26132,Rat,21.1,115,5,8.6957,Contralateral Hemi from Stroke Model,"Rosenberg et al., 2017",A
+Cre_CH2,Cre_CH2,3.911,1989_frahm_11,1,10.1002/mrm.1910110105,Human,1.5,160,16,6.25,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",E
+Cre_CH2,Cre_CH2,3.911,1989_frahm_11,2,10.1002/mrm.1910110105,Human,1.5,190,19,5.2632,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",F
+Cre_CH2,Cre_CH2,3.911,1989_frahm_11,3,10.1002/mrm.1910110105,Human,1.5,120,12,8.3333,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",G
+Cr2,Cre_CH2,,2005_kreis_54,1,10.1002/mrm.20673,Human,1.5,120,10,8.3333,,,
+Cre_CH2,Cre_CH2,,1998_fujimori_39,1,10.1002/mrm.1910390419,Rat,2.4,136,24,7.3529,,"Fujimori et al., 1998",
+Cre_CH2,Cre_CH2,,1998_fujimori_39,5,10.1002/mrm.1910390419,Rat,2.4,135,18,7.4074,,"Fujimori et al., 1998",
+Cre_CH2,Cre_CH2,,1998_fujimori_39,8,10.1002/mrm.1910390419,Rat,2.4,115,23,8.6957,,"Fujimori et al., 1998",
+Cre,Cre_CH2,,2018_deelchand_79,1,10.1002/mrm.26826,Human,3,161,6,6.2112,LASER,"Deelchand et al., 2018",A
+Cre,Cre_CH2,,2018_deelchand_79,2,10.1002/mrm.26826,Human,3,128,8,7.8125,PRESS,"Deelchand et al., 2018",B
+Cre_CH2,Cre_CH2,,2020_deelchand_95,1,10.1016/j.neurobiolaging.2020.07.017,Human,3,148,7,6.7568,,"Deelchand et al., 2020",A
+Cre_CH2,Cre_CH2,,2020_deelchand_95,2,10.1016/j.neurobiolaging.2020.07.017,Human,3,140,6,7.1429,,"Deelchand et al., 2020",B
+Cre_CH2,Cre_CH2,,2020_deelchand_95,3,10.1016/j.neurobiolaging.2020.07.017,Human,3,158,9,6.3291,,"Deelchand et al., 2020",C
+Cre_CH2,Cre_CH2,,2020_deelchand_95,4,10.1016/j.neurobiolaging.2020.07.017,Human,3,132,7,7.5758,,"Deelchand et al., 2020",D
+Cre_CH2,Cre_CH2,,2020_deelchand_95,5,10.1016/j.neurobiolaging.2020.07.017,Human,3,129,6,7.7519,,"Deelchand et al., 2020",E
+Cre_CH2,Cre_CH2,,2020_deelchand_95,6,10.1016/j.neurobiolaging.2020.07.017,Human,3,144,11,6.9444,,"Deelchand et al., 2020",F
+Cre_CH2,Cre_CH2,,2012_ganji_25,1,10.1002/nbm.1767,Human,3,124,6,8.0645,,"Ganji et al., 2012",A
+Cre_CH2,Cre_CH2,,2012_ganji_25,2,10.1002/nbm.1767,Human,3,123,11,8.1301,,"Ganji et al., 2012",B
+Cre_CH2,Cre_CH2,3.911,2001_mlynarik_14,1,10.1002/nbm.713,Human,3,116,20.12,8.6207,,"Mlyanarik et al., 2001",A
+Cre_CH2,Cre_CH2,3.911,2001_mlynarik_14,2,10.1002/nbm.713,Human,3,141,35.78,7.0922,,"Mlyanarik et al., 2001",B
+Cre_CH2,Cre_CH2,3.93,2004_traber_19,4,10.1002/jmri.20053,Human,3,127,13,7.874,,"Traber et al., 2004",E
+Cre_CH2,Cre_CH2,3.93,2004_traber_19,5,10.1002/jmri.20053,Human,3,121,13,8.2645,,"Traber et al., 2004",F
+Cre_CH2,Cre_CH2,3.93,2004_traber_19,6,10.1002/jmri.20053,Human,3,128,11,7.8125,,"Traber et al., 2004",G
+Cre_CH2,Cre_CH2,3.93,2004_traber_19,7,10.1002/jmri.20053,Human,3,137,7,7.2993,,"Traber et al., 2004",H
+Cre_CH2,Cre_CH2,3.93,2004_traber_19,8,10.1002/jmri.20053,Human,3,112,14,8.9286,,"Traber et al., 2004",I
+Cre_CH2,Cre_CH2,3.93,2004_traber_19,9,10.1002/jmri.20053,Human,3,134,16,7.4627,,"Traber et al., 2004",J
+Cre_CH2,Cre_CH2,3.91,2018_wyss_80,1,10.1002/mrm.27067,Human,3,129,13,7.7519,,"Wyss et al., 2018",A
+Cre_CH2,Cre_CH2,3.91,2018_wyss_80,2,10.1002/mrm.27067,Human,3,112,18,8.9286,,"Wyss et al., 2018",B
+Cre_CH2,Cre_CH2,3.91,2018_wyss_80,3,10.1002/mrm.27067,Human,3,134,15,7.4627,,"Wyss et al., 2018",C
+tCr,Cre_CH2,3.03,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,140.7,11.5,7.1073,,"de Graaf et al., 2006",D
+tCr_CH2,Cre_CH2,3.93,2012_deelchand_67,1,10.1002/mrm.23080,Human,4,124,9,8.0645,,"Deelchand et al., 2012",A
+Cre_CH2,Cre_CH2,3.93,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,84,2,11.9048,,"Marjanska et al., 2011",A
+Cre_CH2,Cre_CH2,3.93,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,108,5,9.2593,,"Marjanska et al., 2011",B
+Cre_CH2,Cre_CH2,3.93,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,81,15,12.3457,,"Marjanska et al., 2011",C
+Cre_CH2,Cre_CH2,3.93,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,102,3,9.8039,,"Marjanska et al., 2011",D
+Cr_CH2,Cre_CH2,,2018_wong_31,1,10.1002/nbm.4002,Human,7,87,3,11.4943,,,
+Cre_CH2,Cre_CH2,3.9,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,81.8,10.8,12.2249,,"Murali-Manohar et al., 2019",A
+Cre_CH2,Cre_CH2,3.9,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,71.3,7.9,14.0252,,"Murali-Manohar et al., 2019",B
+Cre_CH2,Cre_CH2,3.9,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,61.7,3.1,16.2075,,"Murali-Manohar et al., 2019",C
+Cre_CH2,Cre_CH2,3.911,2010_deelchand_206,1,10.1016/j.jmr.2010.06.006,Human,9.4,68.3,6.4,14.6413,,"Deelchand et al., 2010",B
+Cre_CH2,Cre_CH2,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,146,16,6.8493,,"Deelchand et al., 2015",A
+Cre_CH2,Cre_CH2,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,175,9,5.7143,,"Deelchand et al., 2015",B
+Cre_CH2,Cre_CH2,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,183,20,5.4645,,"Deelchand et al., 2015",C
+tCr,Cre_CH2,3.92,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,127.8,5.7,7.8247,,"de Graaf et al., 2006",E
+Cre_CH2,Cre_CH2,3.916,1999_pfeuffer_141,1,10.1006/jmre.1999.1895,Rat,9.4,91,7,10.989,,,
+Cre,Cre_CH2,3.92,2007_xin_21,2,10.1002/nbm.1205,Phantom,9.4,354,9.5,2.8249,,"Xin et al., 2007",
+tCr,Cre_CH2,3.92,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,124.8,7.3,8.0128,,"de Graaf et al., 2006",F
+tCr_CH2,Cre_CH2,3.92,2013_xin_26,1,10.1007/s10334-013-0378-3,Rat,14.1,98,2,10.2041,,,
+tCr_CH2,Cre_CH2,3.91/3.93,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,132,10,7.5758,,"Lopez-Kolkovsky et al., 2015",B
+EtOH,EtOH_CH3,,1992_rose_23,3,10.1002/mrm.1910230213,Dog,2.4,335,20,2.9851,,,
+EtOH,EtOH_CH3,,2000_sammi_44,1,10.1002/1522-2594(200007)44:1<35::AID-MRM7>3.0.CO;2-G,Human,4,82,12,12.1951,,,
+EtOH,EtOH_CH3,1.18,1997_govindaraju_32,1,10.1093/oxfordjournals.alcalc.a008317,Rat,11.7,271,76,3.69,,,
+EtOH,EtOH_CH3,1.18,1997_govindaraju_32,2,10.1093/oxfordjournals.alcalc.a008317,Rat,11.7,218,82,4.5872,,,
+GABA,GABA,3,2012_edden_35,1,10.1002/jmri.22865,Human,3,88,12,11.3636,,"Edden et al., 2012",A
+GABA,GABA,"2.283, 1.889, 3.012",2018_wyss_80,2,10.1002/mrm.27067,Human,3,75,25,13.3333,,"Wyss et al., 2018",B
+GABA,GABA,"2.283, 1.889, 3.012",2018_wyss_80,3,10.1002/mrm.27067,Human,3,102,19,9.8039,,"Wyss et al., 2018",C
+GABA,GABA,,2013_andreychenko_26,1,10.1002/nbm.2997,Human,7,87,11,11.4943,,"Andreychenko et al., 2013",B
+GABA,GABA,,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,105,23,9.5238,,"Xin et al., 2007",A
+GABA,GABA,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,78,20,12.8205,,"Lopez-Kolkovsky et al., 2015",B
+Glc,Glc,,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,104,21,9.6154,,"Xin et al., 2007",A
+Glc,Glc,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,170,26,5.8824,,"Lopez-Kolkovsky et al., 2015",B
+Glu,Glu,2.35,2006_choi_56,1,10.1002/mrm.21055,Human,3,201,18,4.9751,,"Choi et al., 2006",A
+Glu,Glu,2.35,2006_choi_56,2,10.1002/mrm.21055,Human,3,198,22,5.0505,,"Choi et al., 2006",B
+Glu,Glu,,2018_deelchand_79,1,10.1002/mrm.26826,Human,3,170,10,5.8824,LASER,"Deelchand et al., 2018",A
+Glu,Glu,,2018_deelchand_79,2,10.1002/mrm.26826,Human,3,191,23,5.2356,PRESS,"Deelchand et al., 2018",B
+Glu,Glu,,2020_deelchand_95,1,10.1016/j.neurobiolaging.2020.07.017,Human,3,177,10,5.6497,,"Deelchand et al., 2020",A
+Glu,Glu,,2020_deelchand_95,2,10.1016/j.neurobiolaging.2020.07.017,Human,3,177,10,5.6497,,"Deelchand et al., 2020",B
+Glu,Glu,,2020_deelchand_95,3,10.1016/j.neurobiolaging.2020.07.017,Human,3,194,11,5.1546,,"Deelchand et al., 2020",C
+Glu,Glu,,2020_deelchand_95,4,10.1016/j.neurobiolaging.2020.07.017,Human,3,171,8,5.848,,"Deelchand et al., 2020",D
+Glu,Glu,,2020_deelchand_95,5,10.1016/j.neurobiolaging.2020.07.017,Human,3,168,13,5.9524,,"Deelchand et al., 2020",E
+Glu,Glu,,2020_deelchand_95,6,10.1016/j.neurobiolaging.2020.07.017,Human,3,190,24,5.2632,,"Deelchand et al., 2020",F
+Glu,Glu,2.35,2012_ganji_25,1,10.1002/nbm.1767,Human,3,181,16,5.5249,,"Ganji et al., 2012",A
+Glu,Glu,2.35,2012_ganji_25,2,10.1002/nbm.1767,Human,3,180,12,5.5556,,"Ganji et al., 2012",B
+Glu,Glu,"3.746, 2.042, 2.120, 2.336, 2.352",2018_wyss_80,1,10.1002/mrm.27067,Human,3,124,37,8.0645,,"Wyss et al., 2018",A
+Glu,Glu,"3.746, 2.042, 2.120, 2.336, 2.352",2018_wyss_80,2,10.1002/mrm.27067,Human,3,122,32,8.1967,,"Wyss et al., 2018",B
+Glu,Glu,"3.746, 2.042, 2.120, 2.336, 2.352",2018_wyss_80,3,10.1002/mrm.27067,Human,3,135,28,7.4074,,"Wyss et al., 2018",C
+Glu,Glu,2.35,2015_zhang_76,1,10.1002/mrm.25922,Human,3,185,12,5.4054,,"Zhang et al., 2015",A
+Glu,Glu,2.35,2015_zhang_76,2,10.1002/mrm.25922,Human,3,146,18,6.8493,,"Zhang et al., 2015",B
+Glu,Glu,,2012_deelchand_67,1,10.1002/mrm.23080,Human,4,125,10,8,,"Deelchand et al., 2012",A
+Glu,Glu,,2017_an_78,1,10.1002/mrm.26612,Human,7,184,18,5.4348,,"An et al., 2017",E
+Glu,Glu,,2017_an_78,2,10.1002/mrm.26612,Human,7,139,8,7.1942,,"An et al., 2017",F
+Glu,Glu,,2017_an_78,3,10.1002/mrm.26612,Human,7,175,30,5.7143,Conventional Method,"An et al., 2017",G
+Glu,Glu,,2017_an_78,4,10.1002/mrm.26612,Human,7,144,22,6.9444,Conventional Method,"An et al., 2017",H
+Glu,Glu,,2018_li_79,2,10.1002/mrm.26941,Human,7,155,45,6.4516,MARZss,"Li et al., 2018",D
+Glu,Glu,,2019_li_14,1,10.1371/journal.pone.0215210,Human,7,117.5,12.9,8.5106,,"Li et al., 2019",D
+Glu,Glu,,2019_li_14,2,10.1371/journal.pone.0215210,Human,7,107.3,12.1,9.3197,,"Li et al., 2019",E
+Glu,Glu,,2019_li_14,3,10.1371/journal.pone.0215210,Human,7,124.4,16.6,8.0386,,"Li et al., 2019",F
+Glu,Glu,,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,93,4,10.7527,,"Marjanska et al., 2011",A
+Glu,Glu,,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,98,4,10.2041,,"Marjanska et al., 2011",B
+Glu,Glu,,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,88,10,11.3636,,"Marjanska et al., 2011",C
+Glu,Glu,,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,139,8,7.1942,,"Marjanska et al., 2011",D
+Glu,Glu,,2018_swanberg_290,1,10.1016/j.jmr.2018.02.017,Human,7,164.1,48.5,6.0938,,"Swanberg et al., 2018",A
+Glu,Glu,,2018_wong_31,1,10.1002/nbm.4002,Human,7,72,5,13.8889,,,
+Glu,Glu,2.34,2020_yoo_33,1,10.1007/s10334-020-00840-w,Rat,7,71.58,7.16,13.9704,Multi-TE - Estimated StdDev to be 10%,,
+Glu,Glu,2.34,2020_yoo_33,2,10.1007/s10334-020-00840-w,Rat,7,67.75,6.78,14.7601,OpQT2 - Estimated StdDev to be 10%,,
+Glu,Glu,2.34,2020_yoo_33,3,10.1007/s10334-020-00840-w,Phantom,7,91.24,9.12,10.9601,Multi-TE - Estimated StdDev to be 10%,,
+Glu,Glu,2.34,2020_yoo_33,4,10.1007/s10334-020-00840-w,Phantom,7,93.28,9.32,10.7204,OpQT2 - Estimated StdDev to be 10%,,
+Glu,Glu,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,70,14,14.2857,,"Deelchand et al., 2015",A
+Glu,Glu,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,296,44,3.3784,,"Deelchand et al., 2015",B
+Glu,Glu,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,270,21,3.7037,,"Deelchand et al., 2015",C
+Glu,Glu,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,87,23.3,11.4943,,"Murali-Manohar et al., 2019",A
+Glu,Glu,"2.34,2.12,2.03",2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,89,8,11.236,,"Xin et al., 2007",A
+Glu,Glu,"2.34,2.12,2.03",2007_xin_21,2,10.1002/nbm.1205,Phantom,9.4,190,20,5.2632,,"Xin et al., 2007",
+Glu,Glu,2.34,2013_xin_26,1,10.1007/s10334-013-0378-3,Rat,14.1,72,8,13.8889,,,
+Glu,Glu,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,79,23,12.6582,,"Lopez-Kolkovsky et al., 2015",B
+Gln,Gln,"3.757, 2.135, 2.115, 2.434, 2.456",2018_wyss_80,1,10.1002/mrm.27067,Human,3,168,33,5.9524,,"Wyss et al., 2018",A
+Gln,Gln,"3.757, 2.135, 2.115, 2.434, 2.456",2018_wyss_80,2,10.1002/mrm.27067,Human,3,99,21,10.101,,"Wyss et al., 2018",B
+Gln,Gln,"3.757, 2.135, 2.115, 2.434, 2.456",2018_wyss_80,3,10.1002/mrm.27067,Human,3,122,19,8.1967,,"Wyss et al., 2018",C
+Gln,Gln,,2015_zhang_76,1,10.1002/mrm.25922,Human,3,145,26,6.8966,,"Zhang et al., 2015",A
+Gln,Gln,,2015_zhang_76,2,10.1002/mrm.25922,Human,3,134,33,7.4627,,"Zhang et al., 2015",B
+Gln,Gln,,2017_an_78,1,10.1002/mrm.26612,Human,7,84,25,11.9048,,"An et al., 2017",E
+Gln,Gln,,2017_an_78,3,10.1002/mrm.26612,Human,7,130,46,7.6923,Conventional Method,"An et al., 2017",G
+Gln,Gln,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,56,12,17.8571,,"Deelchand et al., 2015",A
+Gln,Gln,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,116,7,8.6207,,"Deelchand et al., 2015",B
+Gln,Gln,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,126,19,7.9365,,"Deelchand et al., 2015",C
+Gln,Gln,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,47,8.6,21.2766,,"Murali-Manohar et al., 2019",A
+Gln,Gln,,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,116,29,8.6207,,"Xin et al., 2007",A
+Gln,Gln,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,58,10,17.2414,,"Lopez-Kolkovsky et al., 2015",B
+Glx,Glx,2.29-2.41,2020_yoo_33,1,10.1007/s10334-020-00840-w,Rat,7,68.49,6.85,14.6007,Multi-TE - Estimated StdDev to be 10%,,
+Glx,Glx,2.29-2.41,2020_yoo_33,2,10.1007/s10334-020-00840-w,Rat,7,66.09,6.61,15.1309,OpQT2 - Estimated StdDev to be 10%,,
+Glx,Glx,3.75,2008_chassain_105,1,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,127,34,7.874,Control,"Chassain et al., 2008",B
+Glx,Glx,3.75,2008_chassain_105,2,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,102,31,9.8039,Parkinson's,"Chassain et al., 2008",E
+Gly,Gly,3.55,2012_liu_19,1,10.1016/j.acra.2012.02.019,Human,3,245.5,14.5,4.0733,,,
+Gly,Gly,3.547,2018_wyss_80,1,10.1002/mrm.27067,Human,3,152,27,6.5789,,"Wyss et al., 2018",A
+Gly,Gly,3.547,2018_wyss_80,2,10.1002/mrm.27067,Human,3,81,27,12.3457,,"Wyss et al., 2018",B
+Gly,Gly,3.547,2018_wyss_80,3,10.1002/mrm.27067,Human,3,102,22,9.8039,,"Wyss et al., 2018",C
+Gly,Gly,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,60.9,11.2,16.4204,,"Murali-Manohar et al., 2019",A
+GSH,GSH,3.77,2018_wyss_80,1,10.1002/mrm.27067,Human,3,145,21,6.8966,,"Wyss et al., 2018",A
+GSH,GSH,3.77,2018_wyss_80,2,10.1002/mrm.27067,Human,3,72,17,13.8889,,"Wyss et al., 2018",B
+GSH,GSH,3.77,2018_wyss_80,3,10.1002/mrm.27067,Human,3,99,16,10.101,,"Wyss et al., 2018",C
+GSH,GSH,4.561/2.926/2.975,2018_wyss_80,1,10.1002/mrm.27067,Human,3,145,21,6.8966,,"Wyss et al., 2018",A
+GSH,GSH,4.561/2.926/2.975,2018_wyss_80,2,10.1002/mrm.27067,Human,3,77,22,12.987,,"Wyss et al., 2018",B
+GSH,GSH,4.561/2.926/2.975,2018_wyss_80,3,10.1002/mrm.27067,Human,3,100,17,10,,"Wyss et al., 2018",C
+GSH,GSH,3.7/2.1/2.5,2018_wyss_80,1,10.1002/mrm.27067,Human,3,165,30,6.0606,,"Wyss et al., 2018",A
+GSH,GSH,3.7/2.1/2.5,2018_wyss_80,2,10.1002/mrm.27067,Human,3,76,21,13.1579,,"Wyss et al., 2018",B
+GSH,GSH,3.7/2.1/2.5,2018_wyss_80,3,10.1002/mrm.27067,Human,3,102,20,9.8039,,"Wyss et al., 2018",C
+GSH,GSH,2.95,2011_emir_24,1,10.1002/nbm.1583,Human,4,66.71,6.67,14.9903,Assumed 10% Std.Dev.,"Emir et al., 2010",A
+GSH,GSH,,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,61,3,16.3934,,"Marjanska et al., 2011",A
+GSH,GSH,,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,97,8,10.3093,,"Marjanska et al., 2011",B
+GSH,GSH,,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,80,10,12.5,,"Marjanska et al., 2011",D
+GSH,GSH,2.95,2018_swanberg_290,1,10.1016/j.jmr.2018.02.017,Human,7,145,20.1,6.8966,,"Swanberg et al., 2018",A
+GSH,GSH,,2018_wong_31,1,10.1002/nbm.4002,Human,7,63,16,15.873,,,
+GSH,GSH,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,74.8,34.2,13.369,,"Murali-Manohar et al., 2019",A
+GSH,GSH,,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,106,23,9.434,,"Xin et al., 2007",A
+GSH,GSH,,2013_xin_26,1,10.1007/s10334-013-0378-3,Rat,14.1,87,13,11.4943,,,
+GSH,GSH,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,105,39,9.5238,,"Lopez-Kolkovsky et al., 2015",B
+H2O,H2O,,2001_barker_45,1,10.1002/mrm.1104,Human,1.5,100,10,10,,"Barker et al., 2001",A
+H2O,H2O,,2019_carlin_49,1,10.1002/jmri.26054,Human,1.5,181,35,5.5249,,,
+H2O,H2O,,2019_carlin_49,4,10.1002/jmri.26054,Human,1.5,123,45,8.1301,,,
+H2O,H2O,,2019_carlin_49,7,10.1002/jmri.26054,Human,1.5,90,9,11.1111,,,
+H2O,H2O,,2019_carlin_49,9,10.1002/jmri.26054,Human,1.5,86,8,11.6279,,,
+H2O,H2O,,1993_christiansen_11,1,10.1016/0730-725x(93)90197-l,Human,1.5,93,9,10.7527,,,
+H2O,H2O,,1993_christiansen_11,2,10.1016/0730-725x(93)90197-l,Human,1.5,76,10,13.1579,,,
+H2O,H2O,,1993_christiansen_11,3,10.1016/0730-725x(93)90197-l,Human,1.5,100,18,10,,,
+H2O,H2O,,1993_christiansen_11,4,10.1016/0730-725x(93)90197-l,Human,1.5,85,6,11.7647,,,
+H2O,H2O,,1993_christiansen_11,5,10.1016/0730-725x(93)90197-l,Human,1.5,107,24,9.3458,,,
+H2O,H2O,,1993_christiansen_11,6,10.1016/0730-725x(93)90197-l,Human,1.5,81,16,12.3457,,,
+H2O,H2O,,1993_christiansen_11,7,10.1016/0730-725x(93)90197-l,Human,1.5,150,85,6.6667,,,
+H2O,H2O,,1993_christiansen_11,8,10.1016/0730-725x(93)90197-l,Human,1.5,106,34,9.434,,,
+H2O,H2O,,1992_gideon_10,1,10.1016/0730-725x(92)90453-7,Human,1.5,111.4,24.7,8.9767,,,
+H2O,H2O,,1992_gideon_10,2,10.1016/0730-725x(92)90453-7,Human,1.5,120.6,38.1,8.2919,,,
+H2O,H2O,,2004_haley_362,1,10.1016/j.neulet.2004.01.031,Human,1.5,86.66,5.24,11.5393,,,
+H2O_CSF,H2O_CSF,,2004_haley_362,2,10.1016/j.neulet.2004.01.031,Human,1.5,82.22,4.83,12.1625,,,
+H2O,H2O,,2004_haley_362,3,10.1016/j.neulet.2004.01.031,Human,1.5,80.58,5.46,12.41,,,
+H2O_CSF,H2O_CSF,,2004_haley_362,4,10.1016/j.neulet.2004.01.031,Human,1.5,73.23,7.69,13.6556,,,
+H2O,H2O,,2004_haley_362,5,10.1016/j.neulet.2004.01.031,Human,1.5,548.96,129.54,1.8216,,,
+H2O_CSF,H2O_CSF,,2004_haley_362,6,10.1016/j.neulet.2004.01.031,Human,1.5,724.68,232.16,1.3799,,,
+H2O,H2O,,2004_haley_362,7,10.1016/j.neulet.2004.01.031,Human,1.5,547.67,148.56,1.8259,,,
+H2O_CSF,H2O_CSF,,2004_haley_362,8,10.1016/j.neulet.2004.01.031,Human,1.5,649.97,208.7,1.5385,,,
+H2O,H2O,,2002_isobe_20,1,10.1016/S0730-725X(02)00500-3,Human,1.5,88.6,4.5,11.2867,,"Isobe et al., 2002",B
+H2O,H2O,,2007_isobe_51,2,10.1111/j.1440-1673.2007.01745.x,Phantom,1.5,1321,18,0.757,,,
+H2O,H2O,,2007_isobe_51,4,10.1111/j.1440-1673.2007.01745.x,Human,1.5,228,0,4.386,,,
+H2O,H2O,,1995_longo_30,3,10.1097/00004424-199504000-00001,Human,1.5,86,19,11.6279,,,
+H2O,H2O,,1995_longo_30,4,10.1097/00004424-199504000-00001,Human,1.5,109,23,9.1743,,,
+H2O,H2O,,2005_matsumura_107,1,10.1016/j.clineuro.2004.10.009,Human,1.5,209.4,80,4.7755,,,
+H2O,H2O,,2005_matsumura_107,2,10.1016/j.clineuro.2004.10.009,Human,1.5,228.3,79.1,4.3802,,,
+H2O,H2O,,2005_matsumura_107,3,10.1016/j.clineuro.2004.10.009,Human,1.5,573,12,1.7452,,,
+H2O,H2O,,2005_matsumura_107,4,10.1016/j.clineuro.2004.10.009,Human,1.5,138.7,9.5,7.2098,,,
+H2O,H2O,,2002_sarchielli_249,1,10.1007/s00415-002-0758-5,Human,1.5,86,5,11.6279,,,
+H2O,H2O,,2002_sarchielli_249,2,10.1007/s00415-002-0758-5,Human,1.5,81.1,12,12.3305,,,
+H2O,H2O,,2002_sarchielli_249,3,10.1007/s00415-002-0758-5,Human,1.5,79,11,12.6582,,,
+H2O,H2O,,2001_barker_45,2,10.1002/mrm.1104,Human,3,90,20,11.1111,,"Barker et al., 2001",B
+H2O,H2O,,2018_deelchand_79,1,10.1002/mrm.26826,Human,3,79,0.5,12.6582,,"Deelchand et al., 2018",A
+H2O,H2O,,2018_deelchand_79,2,10.1002/mrm.26826,Human,3,77.5,1.2,12.9032,,"Deelchand et al., 2018",B
+H2O,H2O,,2020_deelchand_95,1,10.1016/j.neurobiolaging.2020.07.017,Human,3,62,3,16.129,,"Deelchand et al., 2020",A
+H2O,H2O,,2020_deelchand_95,2,10.1016/j.neurobiolaging.2020.07.017,Human,3,56,3,17.8571,,"Deelchand et al., 2020",B
+H2O,H2O,,2020_deelchand_95,3,10.1016/j.neurobiolaging.2020.07.017,Human,3,65,2,15.3846,,"Deelchand et al., 2020",C
+H2O,H2O,,2020_deelchand_95,4,10.1016/j.neurobiolaging.2020.07.017,Human,3,53,6,18.8679,,"Deelchand et al., 2020",D
+H2O,H2O,,2020_deelchand_95,5,10.1016/j.neurobiolaging.2020.07.017,Human,3,50,6,20,,"Deelchand et al., 2020",E
+H2O,H2O,,2020_deelchand_95,6,10.1016/j.neurobiolaging.2020.07.017,Human,3,56,4,17.8571,,"Deelchand et al., 2020",F
+H2O_CSF,H2O_CSF,,2020_deelchand_95,1,10.1016/j.neurobiolaging.2020.07.017,Human,3,250,32,4,,"Deelchand et al., 2020",A
+H2O_CSF,H2O_CSF,,2020_deelchand_95,2,10.1016/j.neurobiolaging.2020.07.017,Human,3,225,28,4.4444,,"Deelchand et al., 2020",B
+H2O_CSF,H2O_CSF,,2020_deelchand_95,3,10.1016/j.neurobiolaging.2020.07.017,Human,3,280,31,3.5714,,"Deelchand et al., 2020",C
+H2O_CSF,H2O_CSF,,2020_deelchand_95,4,10.1016/j.neurobiolaging.2020.07.017,Human,3,308,102,3.2468,,"Deelchand et al., 2020",D
+H2O_CSF,H2O_CSF,,2020_deelchand_95,5,10.1016/j.neurobiolaging.2020.07.017,Human,3,271,34,3.69,,"Deelchand et al., 2020",E
+H2O_CSF,H2O_CSF,,2020_deelchand_95,6,10.1016/j.neurobiolaging.2020.07.017,Human,3,325,43,3.0769,,"Deelchand et al., 2020",F
+H2O,H2O,4.7,2005_dumoulin,1,ISMRM_1179_2005,Human,3,63.51,29.21,15.7456,Aged,"Dumoulin et al., 2005",A
+H2O,H2O,4.7,2005_dumoulin,2,ISMRM_1179_2005,Human,3,62.75,10.05,15.9363,MCI,"Dumoulin et al., 2005",B
+H2O,H2O,4.7,2005_dumoulin,3,ISMRM_1179_2005,Human,3,60.71,11.2,16.4718,AD,"Dumoulin et al., 2005",C
+H2O,H2O,,2012_ganji_25,1,10.1002/nbm.1767,Human,3,83,7,12.0482,,"Ganji et al., 2012",A
+H2O,H2O,,2012_ganji_25,2,10.1002/nbm.1767,Human,3,83,5,12.0482,,"Ganji et al., 2012",B
+Bulk_H2O,H2O,,2009_tuncskarka_48,1,10.1016/j.neuroimage.2009.06.061,Human,3,68.58,2.55,14.5815,,,
+Bulk_H2O,H2O,,2009_tuncskarka_48,2,10.1016/j.neuroimage.2009.06.061,Human,3,67.9,3.34,14.7275,,,
+H2O,H2O,,2002_bartha_47,1,10.1002/mrm.10112,Human,4,58,4,17.2414,GM,"Bartha et al., 2002",A
+H2O,H2O,,2002_bartha_47,2,10.1002/mrm.10112,Human,4,74,10,13.5135,WM,"Bartha et al., 2002",B
+H2O,H2O,,2002_bartha_47,3,10.1002/mrm.10112,Human,4,239,69,4.1841,CSF,"Bartha et al., 2002",C
+H2O,H2O,,2002_bartha_47,4,10.1002/mrm.10112,Human,4,93,13,10.7527,GM,"Bartha et al., 2002",D
+H2O,H2O,,2002_bartha_47,5,10.1002/mrm.10112,Human,4,102,15,9.8039,WM,"Bartha et al., 2002",E
+H2O,H2O,,2002_bartha_47,6,10.1002/mrm.10112,Human,4,255,61,3.9216,CSF,"Bartha et al., 2002",F
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,57.9,1.6,17.2712,,"de Graaf et al., 2006",D
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,65.2,2.4,15.3374,,"de Graaf et al., 2006",D
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,80.2,2,12.4688,,"de Graaf et al., 2006",D
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,72,1.3,13.8889,,"de Graaf et al., 2006",D
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,58.8,1.5,17.0068,,"de Graaf et al., 2006",D
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,65.3,2,15.3139,,"de Graaf et al., 2006",D
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,69.7,2,14.3472,,"de Graaf et al., 2006",D
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,61.7,2.1,16.2075,,"de Graaf et al., 2006",D
+H2O,H2O,,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,60.6,1.9,16.5017,,"de Graaf et al., 2006",D
+H2O,H2O,,2012_du_137,1,10.1016/j.schres.2012.01.026,Human,4,60.9,2.4,16.4204,,,
+H2O,H2O,,2012_du_137,2,10.1016/j.schres.2012.01.026,Human,4,65.8,5.3,15.1976,,,
+H2O,H2O,,2013_marjanska_8,1,10.1371/journal.pone.0077572,Human,4,52,2,19.2308,Young,"Marjanska et al., 2013",A
+H2O,H2O,,2013_marjanska_8,2,10.1371/journal.pone.0077572,Human,4,47,4,21.2766,Aged,"Marjanska et al., 2013",B
+H2O,H2O,,2002_michaeli_47,1,10.1002/mrm.10135,Human,4,83,5,12.0482,PRESS,"Michaeli et al., 2002",A
+H2O,H2O,,2002_michaeli_47,3,10.1002/mrm.10135,Human,4,97,10,10.3093,CP-LASER,"Michaeli et al., 2002",C
+H2O,H2O,,2006_madhu_8,1,10.1593/neo.06319,Mouse,4.7,53.3,2.45,18.7617,,,
+H2O,H2O,,2006_madhu_8,2,10.1593/neo.06319,Mouse,4.7,52.8,4.9,18.9394,,,
+H2O,H2O,,2006_madhu_8,3,10.1593/neo.06319,Mouse,4.7,51.4,2.45,19.4553,,,
+H2O,H2O,,2006_madhu_8,4,10.1593/neo.06319,Mouse,4.7,46.9,9.8,21.322,,,
+H2O,H2O,,1995_vandertoorn_8,3,10.1002/nbm.1940080604,Rat,4.7,57.8,3.3,17.301,Measure at Time1 - Control,"van der Toorn et al., 1995",N
+H2O,H2O,,1995_vandertoorn_8,5,10.1002/nbm.1940080604,Rat,4.7,60.4,5,16.5563,Measure at Time2 - Control,"van der Toorn et al., 1995",N
+H2O,H2O,,1995_vandertoorn_8,8,10.1002/nbm.1940080604,Rat,4.7,62.4,6,16.0256,Measure at Time3 - Control,"van der Toorn et al., 1995",K
+H2O,H2O,,1995_vandertoorn_8,11,10.1002/nbm.1940080604,Rat,4.7,58.9,2.5,16.9779,Measure at Time1 - Ischemia,"van der Toorn et al., 1995",U
+H2O,H2O,,1995_vandertoorn_8,13,10.1002/nbm.1940080604,Rat,4.7,74,10.5,13.5135,Measure at Time2 - Ischemia,"van der Toorn et al., 1995",U
+H2O,H2O,,1995_vandertoorn_8,16,10.1002/nbm.1940080604,Rat,4.7,88,8,11.3636,Measure at Time3 - Ischemia,"van der Toorn et al., 1995",R
+H2O,H2O,,2021_wang_35,1,10.1002/nbm.4617,Rat,4.7,54.7,1.5,18.2815,,,
+H2O,H2O,,2021_wang_35,2,10.1002/nbm.4617,Rat,4.7,51.4,0.8,19.4553,,,
+H2O,H2O,,2021_wang_35,3,10.1002/nbm.4617,Rat,4.7,48.2,1,20.7469,,,
+H2O,H2O,,2021_wang_35,4,10.1002/nbm.4617,Phantom,4.7,7.7,0,129.8701,,,
+H2O,H2O,,2002_bartha_47,7,10.1002/mrm.10112,Human,7,50,3,20,GM,"Bartha et al., 2002",G
+H2O,H2O,,2002_bartha_47,8,10.1002/mrm.10112,Human,7,55,4,18.1818,WM,"Bartha et al., 2002",H
+H2O,H2O,,2002_bartha_47,9,10.1002/mrm.10112,Human,7,141,27,7.0922,CSF,"Bartha et al., 2002",I
+H2O,H2O,,2002_bartha_47,10,10.1002/mrm.10112,Human,7,70,6,14.2857,GM,"Bartha et al., 2002",J
+H2O,H2O,,2002_bartha_47,11,10.1002/mrm.10112,Human,7,75,11,13.3333,WM,"Bartha et al., 2002",K
+H2O,H2O,,2002_bartha_47,12,10.1002/mrm.10112,Human,7,143,22,6.993,CSF,"Bartha et al., 2002",L
+H2O,H2O,,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,47,1,21.2766,,"Marjanska et al., 2011",A
+H2O,H2O,,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,47,1,21.2766,,"Marjanska et al., 2011",B
+H2O,H2O,,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,41.2,0.8,24.2718,,"Marjanska et al., 2011",C
+H2O,H2O,,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,48,3,20.8333,,"Marjanska et al., 2011",D
+H2O,H2O,,2002_michaeli_47,2,10.1002/mrm.10135,Human,7,60,5,16.6667,PRESS,"Michaeli et al., 2002",B
+H2O,H2O,,2002_michaeli_47,4,10.1002/mrm.10135,Human,7,88,13,11.3636,CP-LASER,"Michaeli et al., 2002",D
+H2O,H2O,,2018_swanberg_290,1,10.1016/j.jmr.2018.02.017,Human,7,90.3,21.7,11.0742,,"Swanberg et al., 2018",A
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,35.8,1.2,27.933,,"de Graaf et al., 2006",E
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,42.1,1.2,23.753,,"de Graaf et al., 2006",E
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,48.1,1.9,20.79,,"de Graaf et al., 2006",E
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,45.4,1.8,22.0264,,"de Graaf et al., 2006",E
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,37.2,2,26.8817,,"de Graaf et al., 2006",E
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,41.7,1.6,23.9808,,"de Graaf et al., 2006",E
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,43.5,2.4,22.9885,,"de Graaf et al., 2006",E
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,40.6,1.2,24.6305,,"de Graaf et al., 2006",E
+H2O,H2O,,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,40.3,1.4,24.8139,,"de Graaf et al., 2006",E
+H2O,H2O,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,44,2,22.7273,,"Deelchand et al., 2015",A
+H2O,H2O,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,48,2,20.8333,,"Deelchand et al., 2015",B
+H2O,H2O,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,50,2,20,,"Deelchand et al., 2015",C
+H2O,H2O,,2003_lei_49,1,10.1002/mrm.10490,Rat,9.4,42.4,0.8,23.5849,Control,"Lei et al., 2003",A
+H2O,H2O,,2003_lei_49,2,10.1002/mrm.10490,Rat,9.4,38.6,0.8,25.9067,Ischemia,"Lei et al., 2003",B
+H2O,H2O,,2003_lei_49,3,10.1002/mrm.10490,Rat,9.4,41.5,1.1,24.0964,Reperfusion,"Lei et al., 2003",C
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,30.7,1,32.5733,,"de Graaf et al., 2006",F
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,36.2,1,27.6243,,"de Graaf et al., 2006",F
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,38.9,1.1,25.7069,,"de Graaf et al., 2006",F
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,38.9,1.3,25.7069,,"de Graaf et al., 2006",F
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,27.1,1.3,36.9004,,"de Graaf et al., 2006",F
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,37.3,2.3,26.8097,,"de Graaf et al., 2006",F
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,36.4,2.2,27.4725,,"de Graaf et al., 2006",F
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,33.8,1.6,29.5858,,"de Graaf et al., 2006",F
+H2O,H2O,,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,33.8,1.9,29.5858,,"de Graaf et al., 2006",F
+Ins,Myo,3.5,1989_frahm_11,1,10.1002/mrm.1910110105,Human,1.5,130,13,7.6923,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",E
+Ins,Myo,3.5,1989_frahm_11,2,10.1002/mrm.1910110105,Human,1.5,110,11,9.0909,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",F
+Ins,Myo,3.5,1989_frahm_11,3,10.1002/mrm.1910110105,Human,1.5,150,15,6.6667,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",G
+Ins,Myo,3.5,1989_frahm_11,4,10.1002/mrm.1910110105,Human,1.5,130,13,7.6923,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",H
+Myo,Myo,3.56,1993_kreis_30,3,10.1002/mrm.1910300405,Human,1.5,270,60,3.7037,,"Kreis et al., 1993",B
+Myo,Myo,3.56,1993_kreis_30,6,10.1002/mrm.1910300405,Human,1.5,301,66,3.3223,,"Kreis et al., 1993",
+mI,Myo,,2005_kreis_54,1,10.1002/mrm.20673,Human,1.5,150,30,6.6667,,,
+Ins,Myo,,1995_posse_33,1,10.1002/mrm.1910330215,Human,1.5,66,6.6,15.1515,Assumed 10% Std.Dev.,"Posse et al., 1995",C
+Myo,Myo,3.5,2005_soher_53,1,10.1002/mrm.20491,Human,1.5,363,62,2.7548,,"Soher et al., 2005",A
+Ins,Myo,,1999_choi_41,1,10.1002/(SICI)1522-2594(199901)41:1<204::AID-MRM29>3.0.CO;2-7,Human,2,138,14,7.2464,,"Choi et al., 1999",B
+Ins,Myo,,1998_fujimori_39,3,10.1002/mrm.1910390419,Rat,2.4,125,23,8,,"Fujimori et al., 1998",
+Ins,Myo,,1998_fujimori_39,6,10.1002/mrm.1910390419,Rat,2.4,126,15,7.9365,,"Fujimori et al., 1998",
+Ins,Myo,,1998_fujimori_39,10,10.1002/mrm.1910390419,Rat,2.4,135,15,7.4074,,"Fujimori et al., 1998",
+Myo,Myo,,2018_deelchand_79,1,10.1002/mrm.26826,Human,3,194,11,5.1546,LASER,"Deelchand et al., 2018",A
+Myo,Myo,,2018_deelchand_79,2,10.1002/mrm.26826,Human,3,239,27,4.1841,PRESS,"Deelchand et al., 2018",B
+Myo,Myo,,2020_deelchand_95,1,10.1016/j.neurobiolaging.2020.07.017,Human,3,206,14,4.8544,,"Deelchand et al., 2020",A
+Myo,Myo,,2020_deelchand_95,2,10.1016/j.neurobiolaging.2020.07.017,Human,3,184,12,5.4348,,"Deelchand et al., 2020",B
+Myo,Myo,,2020_deelchand_95,3,10.1016/j.neurobiolaging.2020.07.017,Human,3,235,19,4.2553,,"Deelchand et al., 2020",C
+Myo,Myo,,2020_deelchand_95,4,10.1016/j.neurobiolaging.2020.07.017,Human,3,195,10,5.1282,,"Deelchand et al., 2020",D
+Myo,Myo,,2020_deelchand_95,5,10.1016/j.neurobiolaging.2020.07.017,Human,3,174,11,5.7471,,"Deelchand et al., 2020",E
+Myo,Myo,,2020_deelchand_95,6,10.1016/j.neurobiolaging.2020.07.017,Human,3,227,17,4.4053,,"Deelchand et al., 2020",F
+Myo,Myo,3.4- 3.65,2012_ganji_25,1,10.1002/nbm.1767,Human,3,197,14,5.0761,,"Ganji et al., 2012",A
+Myo,Myo,3.4- 3.65,2012_ganji_25,2,10.1002/nbm.1767,Human,3,196,17,5.102,,"Ganji et al., 2012",B
+Myo,Myo,"3.522, 4.054, 3.522, 3.614, 3.269, 3.614",2018_wyss_80,1,10.1002/mrm.27067,Human,3,161,37,6.2112,,"Wyss et al., 2018",A
+Myo,Myo,"3.522, 4.054, 3.522, 3.614, 3.269, 3.614",2018_wyss_80,2,10.1002/mrm.27067,Human,3,229,105,4.3668,,"Wyss et al., 2018",B
+Myo,Myo,"3.522, 4.054, 3.522, 3.614, 3.269, 3.614",2018_wyss_80,3,10.1002/mrm.27067,Human,3,244,61,4.0984,,"Wyss et al., 2018",C
+Ins,Myo,,2012_deelchand_67,1,10.1002/mrm.23080,Human,4,139,20,7.1942,,"Deelchand et al., 2012",A
+Ins,Myo,,1995_posse_33,2,10.1002/mrm.1910330215,Human,4,57,20,17.5439,,"Posse et al., 1995",D
+Myo,Myo,,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,95,2,10.5263,,"Marjanska et al., 2011",A
+Myo,Myo,,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,100,15,10,,"Marjanska et al., 2011",B
+Myo,Myo,,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,87,6,11.4943,,"Marjanska et al., 2011",C
+Myo,Myo,,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,160,20,6.25,,"Marjanska et al., 2011",D
+Myo,Myo,,2018_swanberg_290,1,10.1016/j.jmr.2018.02.017,Human,7,140.5,16,7.1174,,"Swanberg et al., 2018",A
+Myo,Myo,,2018_wong_31,1,10.1002/nbm.4002,Human,7,102,8,9.8039,,,
+mIns,Myo,3.61,2020_yoo_33,1,10.1007/s10334-020-00840-w,Rat,7,173.7,17.4,5.7571,Multi-TE - Estimated StdDev to be 10%,,
+mIns,Myo,3.61,2020_yoo_33,2,10.1007/s10334-020-00840-w,Rat,7,148.41,14.8,6.7381,OpQT2 - Estimated StdDev to be 10%,,
+Myo,Myo,"3.52,3.48",2008_chassain_105,1,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,142,22,7.0423,Control,"Chassain et al., 2008",B
+Myo,Myo,"3.52,3.48",2008_chassain_105,2,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,130,14,7.6923,Parkinson's,"Chassain et al., 2008",E
+Myo,Myo,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,161,26,6.2112,,"Deelchand et al., 2015",A
+Myo,Myo,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,584,94,1.7123,,"Deelchand et al., 2015",B
+Myo,Myo,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,600,90,1.6667,,"Deelchand et al., 2015",C
+Ins,Myo,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,90,18,11.1111,,"Murali-Manohar et al., 2019",A
+Myo,Myo,3.61,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,148,14,6.7568,,"Xin et al., 2007",A
+Ins,Myo,3.61,2013_xin_26,1,10.1007/s10334-013-0378-3,Rat,14.1,97,6,10.3093,,,
+Ins,Myo,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,170,15,5.8824,,"Lopez-Kolkovsky et al., 2015",B
+Lac,Lac,1.3,1989_frahm_11,2,10.1002/mrm.1910110105,Human,1.5,1200,12,0.8333,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",F
+Lac,Lac,1.33,2005_isobe_25,1,,Phantom,1.5,1037.5,4.5,0.9639,,,
+Lac,Lac,,2007_isobe_51,2,10.1111/j.1440-1673.2007.01745.x,Phantom,1.5,1040,23,0.9615,,,
+Lac,Lac,,2007_isobe_51,4,10.1111/j.1440-1673.2007.01745.x,Human,1.5,559,0,1.7889,,,
+Lac,Lac,1.33,2005_matsumura_107,1,10.1016/j.clineuro.2004.10.009,Human,1.5,453,145,2.2075,,,
+Lac,Lac,1.33,2005_matsumura_107,2,10.1016/j.clineuro.2004.10.009,Human,1.5,417.7,156.7,2.3941,,,
+Lac,Lac,1.33,2005_matsumura_107,3,10.1016/j.clineuro.2004.10.009,Human,1.5,617.5,104.5,1.6194,,,
+Lac,Lac,1.33,2005_matsumura_107,4,10.1016/j.clineuro.2004.10.009,Human,1.5,438,203.4,2.2831,,,
+Lac,Lac,1.3,2002_sijens_12,4,10.1007/s00330-001-1300-3,Human,1.5,83,12.73,12.0482,,,
+Lac,Lac,1.3,1992_sappey-marinier_26,2,10.1002/mrm.1910260211,Human,2,225,22.5,4.4444,Stroke (Assumed 10% Std.Dev),"Sappey-Marinier et al., 1992",C
+Lac,Lac,1.33,1994_blamire_12,2,10.1016/0730-725X(94)90087-8,Human,2.1,780,679.96,1.2821,,,
+Lac,Lac,1.3,1996_cady_21,1,10.1007/bf02532414,Human,2.4,232.1,55.9,4.3085,,,
+Lac,Lac,1.3,1996_cady_21,2,10.1007/bf02532414,Human,2.4,289.5,159.4,3.4542,,,
+Lac,Lac,1.3,1996_cady_21,3,10.1007/bf02532414,Human,2.4,325.1,80.6,3.076,,,
+Lac,Lac,1.3,1996_cady_36,2,10.1002/mrm.1910360610,Human,2.4,244.4,107.1,4.0917,,,
+Lac,Lac,1.3,1996_cady_36,4,10.1002/mrm.1910360610,Human,2.4,241.9,119.9,4.1339,,,
+Lac,Lac,1.31,2021_dacko_85,1,10.1002/mrm.28500,Human,3,171,19,5.848,,,
+Lac,Lac,1.31,2015_madan_73,2,10.1002/mrm.25352,Human,3,242,14,4.1322,Low Grade Tumor,"Madan et al., 2015",B
+Lac,Lac,1.31,2015_madan_73,3,10.1002/mrm.25352,Human,3,232,28,4.3103,High Grade Tumor,"Madan et al., 2015",C
+Lac,Lac,4.097/1.313,2018_wyss_80,1,10.1002/mrm.27067,Human,3,159,26,6.2893,,"Wyss et al., 2018",A
+Lac,Lac,4.097/1.313,2018_wyss_80,2,10.1002/mrm.27067,Human,3,99,19,10.101,,"Wyss et al., 2018",B
+Lac,Lac,4.097/1.313,2018_wyss_80,3,10.1002/mrm.27067,Human,3,110,24,9.0909,,"Wyss et al., 2018",C
+Lac,Lac,1.33,1998_dreher_39,4,10.1002/mrm.1910390605,Rat,4.7,292,40,3.4247,,,
+Lac,Lac,1.3,1994_cady_182,2,10.1007/bf01705293,Pig,7,223,17,4.4843,,,
+Lac,Lac,1.3,1994_cady_182,3,10.1007/bf01705293,Pig,7,206,58,4.8544,,,
+Lac,Lac,1.3,2017_chen,1,,Human,7,182,24.5,5.4945,"Did not list StdDev or SEM for T2 measures, but mentioned using SEM in a later figure. Assumed SEM.",,
+Lac,Lac,,2019_dehghani_83,1,10.1002/mrm.28066,Human,7,94,13,10.6383,,"Dehghani et al., 2019",B
+Lac,Lac,1.33,1992_kauppinen_58,1,10.1111/j.1471-4159.1992.tb09350.x,Guinea Pig,9.4,83.6,7.7,11.9617,,,
+Lac,Lac,1.33,1992_kauppinen_58,4,10.1111/j.1471-4159.1992.tb09350.x,Guinea Pig,9.4,1659,172,0.6028,,,
+Lac,Lac,1.3,2016_lin_76,2,10.1002/mrm.26066,Phantom,11.7,228,35,4.386,,,
+Lac,Lac,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,121,26,8.2645,,"Lopez-Kolkovsky et al., 2015",B
+Lac,Lac,1.33,2017_rosenberg_77,1,10.1002/mrm.26132,Rat,21.1,108,15,9.2593,Contralateral Hemi from Stroke Model,"Rosenberg et al., 2017",A
+MM,MM_General,,1999_pfeuffer_141,1,10.1006/jmre.1999.1895,Rat,9.4,26,2.6,38.4615,Assumed StdDev 10%,,
+MM,MM_General,,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,19,0.4,52.6316,MM was not specified,"Xin et al., 2007",A
+MM_093,MM_093,1.0-0.80,2005_soher_53,3,10.1002/mrm.20491,Human,1.5,89.2,19.8,11.2108,CPMG,"Soher et al., 2005",C
+MM_093,MM_093,1.0-0.80,2005_soher_53,4,10.1002/mrm.20491,Human,1.5,21.6,8.6,46.2963,non-CPMG,"Soher et al., 2005",D
+MM_093,MM_093,0.93,1994_behar_32,1,10.1002/mrm.1910320304,Human,2.1,44,4,22.7273,,"Behar et al., 1994",B
+MM_093,MM_093,0.92,2020_landheer_84,1,10.1002/mrm.28282,Human,3,28.1,0.4,35.5872,Female Frontal,"Landheer et al., 2020",A
+MM_093,MM_093,0.92,2020_landheer_84,2,10.1002/mrm.28282,Human,3,25.4,1.4,39.3701,Male Frontal,"Landheer et al., 2020",B
+MM_093,MM_093,0.92,2020_landheer_84,3,10.1002/mrm.28282,Human,3,27,1.2,37.037,Female Occipital,"Landheer et al., 2020",C
+MM_093,MM_093,0.92,2020_landheer_84,4,10.1002/mrm.28282,Human,3,25.9,1.6,38.61,Male Occipital,"Landheer et al., 2020",D
+M4,MM_093,0.9,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,22.7,2.5,44.0529,,"de Graaf et al., 2006",E
+MM_093,MM_093,0.93,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,36.4,7,27.4725,,"Murali-Manohar et al., 2019",B
+MM_093,MM_093,0.93,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,35.1,10,28.49,,"Murali-Manohar et al., 2019",C
+M4,MM_093,0.9,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,19.9,2.3,50.2513,,"de Graaf et al., 2006",F
+Lip_090,MM_093,0.9,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,45.75,5.05,21.8579,,,
+MM_090,MM_093,0.9,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,33.65,3.35,29.7177,,,
+MM_1,MM_General,0.87/.94/1.20/1.39/1.67/1.81,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,20,2,50,,"Lopez-Kolkovsky et al., 2015",B
+MM_121,MM_121,1.21,2020_landheer_84,1,10.1002/mrm.28282,Human,3,42,15.8,23.8095,Female Frontal,"Landheer et al., 2020",A
+MM_121,MM_121,1.21,2020_landheer_84,2,10.1002/mrm.28282,Human,3,42.6,21.3,23.4742,Male Frontal,"Landheer et al., 2020",B
+MM_121,MM_121,1.21,2020_landheer_84,3,10.1002/mrm.28282,Human,3,35.3,0.5,28.3286,Female Occipital,"Landheer et al., 2020",C
+MM_121,MM_121,1.21,2020_landheer_84,4,10.1002/mrm.28282,Human,3,35.6,14,28.0899,Male Occipital,"Landheer et al., 2020",D
+MM_122,MM_121,1.22,1996_hakumaki_212,1,10.1016/0304-3940(96)12797-x,Rat,9.4,86,31.8,11.6279,Assumed 6 subjects,,
+MM_122,MM_121,1.22,1996_hakumaki_212,2,10.1016/0304-3940(96)12797-x,Rat,9.4,101,24.5,9.901,Assumed 6 subjects,,
+MM_122,MM_121,1.22,1996_hakumaki_212,3,10.1016/0304-3940(96)12797-x,Rat,9.4,90,36.7,11.1111,Assumed 6 subjects,,
+MM_122,MM_121,1.22,1996_hakumaki_212,4,10.1016/0304-3940(96)12797-x,Rat,9.4,99,39.2,10.101,Assumed 6 subjects,,
+MM_122,MM_121,1.22,1996_hakumaki_212,5,10.1016/0304-3940(96)12797-x,Rat,9.4,88,9.8,11.3636,Assumed 6 subjects,,
+MM_122,MM_121,1.22,1992_kauppinen_58,2,10.1111/j.1471-4159.1992.tb09350.x,Guinea Pig,9.4,51.3,10.1,19.4932,,,
+MM_122,MM_121,1.22,1992_kauppinen_58,6,10.1111/j.1471-4159.1992.tb09350.x,Guinea Pig,9.4,191,14,5.2356,,,
+MM_121,MM_121,1.21,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,34.3,13.1,29.1545,,"Murali-Manohar et al., 2019",B
+MM_121,MM_121,1.21,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,25.3,0,39.5257,,"Murali-Manohar et al., 2019",C
+MM_121_140,MM_121,"1.21,1.39",2020_landheer_84,1,10.1002/mrm.28282,Human,3,22.2,0.8,45.045,Female Frontal,"Landheer et al., 2020",A
+MM_121_140,MM_121,"1.21,1.39",2020_landheer_84,2,10.1002/mrm.28282,Human,3,23.9,2.3,41.841,Male Frontal,"Landheer et al., 2020",B
+MM_121_140,MM_121,"1.21,1.39",2020_landheer_84,3,10.1002/mrm.28282,Human,3,19.9,4.9,50.2513,Female Occipital,"Landheer et al., 2020",C
+MM_121_140,MM_121,"1.21,1.39",2020_landheer_84,4,10.1002/mrm.28282,Human,3,20,1.2,50,Male Occipital,"Landheer et al., 2020",D
+MM_140,MM_140,1.39,2020_landheer_84,1,10.1002/mrm.28282,Human,3,18.6,1.8,53.7634,Female Frontal,"Landheer et al., 2020",A
+MM_140,MM_140,1.39,2020_landheer_84,2,10.1002/mrm.28282,Human,3,20.3,1.9,49.2611,Male Frontal,"Landheer et al., 2020",B
+MM_140,MM_140,1.39,2020_landheer_84,3,10.1002/mrm.28282,Human,3,16.2,5.7,61.7284,Female Occipital,"Landheer et al., 2020",C
+MM_140,MM_140,1.39,2020_landheer_84,4,10.1002/mrm.28282,Human,3,16.6,3.1,60.241,Male Occipital,"Landheer et al., 2020",D
+M2/M3,MM_140,"1.4,1.1",2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,31.7,2.5,31.5457,,"de Graaf et al., 2006",D
+M2/M3,MM_140,"1.4,1.1",2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,33.5,1.9,29.8507,,"de Graaf et al., 2006",E
+MM_144,MM_140,1.44,1996_hakumaki_212,1,10.1016/0304-3940(96)12797-x,Rat,9.4,73,14.7,13.6986,Assumed 6 subjects,,
+MM_144,MM_140,1.44,1996_hakumaki_212,2,10.1016/0304-3940(96)12797-x,Rat,9.4,71,7.3,14.0845,Assumed 6 subjects,,
+MM_144,MM_140,1.44,1996_hakumaki_212,3,10.1016/0304-3940(96)12797-x,Rat,9.4,83,26.9,12.0482,Assumed 6 subjects,,
+MM_144,MM_140,1.44,1996_hakumaki_212,4,10.1016/0304-3940(96)12797-x,Rat,9.4,75,4.9,13.3333,Assumed 6 subjects,,
+MM_144,MM_140,1.44,1996_hakumaki_212,5,10.1016/0304-3940(96)12797-x,Rat,9.4,82,26.9,12.1951,Assumed 6 subjects,,
+MM_140,MM_140,1.4,1992_kauppinen_58,1,10.1111/j.1471-4159.1992.tb09350.x,Guinea Pig,9.4,54.3,3.1,18.4162,,,
+MM_140,MM_140,1.4,1992_kauppinen_58,3,10.1111/j.1471-4159.1992.tb09350.x,Guinea Pig,9.4,163,19,6.135,,,
+MM_140,MM_140,1.39,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,31.5,7.4,31.746,,"Murali-Manohar et al., 2019",A
+MM_140,MM_140,1.39,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,39.6,24.2,25.2525,,"Murali-Manohar et al., 2019",B
+M2/M3,MM_140,"1.4,1.1",2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,31.4,2.1,31.8471,,"de Graaf et al., 2006",F
+Lip_130,MM_140,1.3,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,39.96,3.35,25.0282,,,
+MM_140,MM_140,1.4,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,25.55,3.35,39.1389,,,
+MM_170,MM_170,1.7-1.5,2005_soher_53,3,10.1002/mrm.20491,Human,1.5,46.1,6.5,21.692,CPMG,"Soher et al., 2005",C
+MM_170,MM_170,1.7-1.5,2005_soher_53,4,10.1002/mrm.20491,Human,1.5,46.1,11.8,21.692,non-CPMG,"Soher et al., 2005",D
+MM_170,MM_170,1.67,2020_landheer_84,1,10.1002/mrm.28282,Human,3,16.8,2.3,59.5238,Female Frontal,"Landheer et al., 2020",A
+MM_170,MM_170,1.67,2020_landheer_84,2,10.1002/mrm.28282,Human,3,15.6,1.8,64.1026,Male Frontal,"Landheer et al., 2020",B
+MM_170,MM_170,1.67,2020_landheer_84,3,10.1002/mrm.28282,Human,3,18,4.2,55.5556,Female Occipital,"Landheer et al., 2020",C
+MM_170,MM_170,1.67,2020_landheer_84,4,10.1002/mrm.28282,Human,3,15.8,3.3,63.2911,Male Occipital,"Landheer et al., 2020",D
+M1,MM_170,1.7,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,23.4,1.1,42.735,,"de Graaf et al., 2006",D
+M1,MM_170,1.7,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,27.4,2.3,36.4964,,"de Graaf et al., 2006",E
+MM_170,MM_170,1.67,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,17.6,3.6,56.8182,,"Murali-Manohar et al., 2019",B
+MM_170,MM_170,1.67,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,17.5,7.5,57.1429,,"Murali-Manohar et al., 2019",C
+M1,MM_170,1.7,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,25.3,1.9,39.5257,,"de Graaf et al., 2006",F
+MM_150,MM_170,1.5,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,22.4,5.8,44.6429,,,
+MM_170,MM_170,1.7,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,37.2,3.72,26.8817,Assumed StdDev 10%,,
+MM_204,MM_204,2.04,2020_landheer_84,1,10.1002/mrm.28282,Human,3,14.1,0.5,70.922,Female Frontal,"Landheer et al., 2020",A
+MM_204,MM_204,2.04,2020_landheer_84,2,10.1002/mrm.28282,Human,3,14.7,0.8,68.0272,Male Frontal,"Landheer et al., 2020",B
+MM_204,MM_204,2.04,2020_landheer_84,3,10.1002/mrm.28282,Human,3,14.7,1.8,68.0272,Female Occipital,"Landheer et al., 2020",C
+MM_204,MM_204,2.04,2020_landheer_84,4,10.1002/mrm.28282,Human,3,13.8,0.9,72.4638,Male Occipital,"Landheer et al., 2020",D
+MM_204,MM_204,2.04,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,15.8,2.1,63.2911,,"Murali-Manohar et al., 2019",B
+MM_204,MM_204,2.04,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,18.9,1.5,52.9101,,"Murali-Manohar et al., 2019",C
+Lip_205,MM_204,2.05,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,57.45,7.95,17.4064,,,
+MM_205,MM_204,2.05,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,23.65,2.95,42.2833,,,
+MM_2,MM_General,"1.91,1.93,2.04,2.13,2.26,2.36,2.46,2.51,2.56,2.68,2.74",2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,28,3,35.7143,,"Lopez-Kolkovsky et al., 2015",B
+MM_226,MM_226,2.35-2.20,2005_soher_53,3,10.1002/mrm.20491,Human,1.5,73.3,4.9,13.6426,CPMG,"Soher et al., 2005",C
+MM_226,MM_226,2.35-2.20,2005_soher_53,4,10.1002/mrm.20491,Human,1.5,30,8.5,33.3333,non-CPMG,"Soher et al., 2005",D
+MM_226,MM_226,2.26,2020_landheer_84,1,10.1002/mrm.28282,Human,3,20.6,2.4,48.5437,Female Frontal,"Landheer et al., 2020",A
+MM_226,MM_226,2.26,2020_landheer_84,2,10.1002/mrm.28282,Human,3,19.8,1.2,50.5051,Male Frontal,"Landheer et al., 2020",B
+MM_226,MM_226,2.26,2020_landheer_84,3,10.1002/mrm.28282,Human,3,19.5,2.3,51.2821,Female Occipital,"Landheer et al., 2020",C
+MM_226,MM_226,2.26,2020_landheer_84,4,10.1002/mrm.28282,Human,3,19.7,2.7,50.7614,Male Occipital,"Landheer et al., 2020",D
+MM_226,MM_226,2.26,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,18.4,1.5,54.3478,,"Murali-Manohar et al., 2019",B
+MM_226,MM_226,2.26,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,18.1,1,55.2486,,"Murali-Manohar et al., 2019",C
+MM_225,MM_226,2.25,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,19.9,0.3,50.2513,,,
+MM_256,MM_256,2.56,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,20.1,3.2,49.7512,,"Murali-Manohar et al., 2019",B
+MM_256,MM_256,2.56,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,23.9,3.4,41.841,,"Murali-Manohar et al., 2019",C
+MM_270,MM_270,2.7,2020_landheer_84,1,10.1002/mrm.28282,Human,3,25.4,4.4,39.3701,Female Frontal,"Landheer et al., 2020",A
+MM_270,MM_270,2.7,2020_landheer_84,2,10.1002/mrm.28282,Human,3,23.3,4.1,42.9185,Male Frontal,"Landheer et al., 2020",B
+MM_270,MM_270,2.7,2020_landheer_84,3,10.1002/mrm.28282,Human,3,27.4,2.2,36.4964,Female Occipital,"Landheer et al., 2020",C
+MM_270,MM_270,2.7,2020_landheer_84,4,10.1002/mrm.28282,Human,3,26,5.5,38.4615,Male Occipital,"Landheer et al., 2020",D
+MM_270,MM_270,2.7,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,13.9,2.9,71.9424,,"Murali-Manohar et al., 2019",B
+MM_270,MM_270,2.7,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,13.4,1.9,74.6269,,"Murali-Manohar et al., 2019",C
+MM_280,MM_270,2.8,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,50.3,1.5,19.8807,,,
+MM_299,MM_299,2.99,2020_landheer_84,1,10.1002/mrm.28282,Human,3,21.7,6.5,46.0829,Female Frontal,"Landheer et al., 2020",A
+MM_299,MM_299,2.99,2020_landheer_84,2,10.1002/mrm.28282,Human,3,21.8,3.3,45.8716,Male Frontal,"Landheer et al., 2020",B
+MM_299,MM_299,2.99,2020_landheer_84,3,10.1002/mrm.28282,Human,3,22.1,3.2,45.2489,Female Occipital,"Landheer et al., 2020",C
+MM_299,MM_299,2.99,2020_landheer_84,4,10.1002/mrm.28282,Human,3,18.3,3.5,54.6448,Male Occipital,"Landheer et al., 2020",D
+MM_299,MM_299,2.99,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,18.8,1.6,53.1915,,"Murali-Manohar et al., 2019",B
+MM_299,MM_299,2.99,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,18,19.1,55.5556,,"Murali-Manohar et al., 2019",C
+MM_3,MM_General,"2.97,3.02,3.09,3.22,3.28,3.54,3.62",2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,55,5,18.1818,,"Lopez-Kolkovsky et al., 2015",B
+MM_321,MM_321,3.21,2020_landheer_84,1,10.1002/mrm.28282,Human,3,17.2,3.1,58.1395,Female Frontal,"Landheer et al., 2020",A
+MM_321,MM_321,3.21,2020_landheer_84,2,10.1002/mrm.28282,Human,3,20.7,3,48.3092,Male Frontal,"Landheer et al., 2020",B
+MM_321,MM_321,3.21,2020_landheer_84,3,10.1002/mrm.28282,Human,3,14.3,6.1,69.9301,Female Occipital,"Landheer et al., 2020",C
+MM_321,MM_321,3.21,2020_landheer_84,4,10.1002/mrm.28282,Human,3,18.6,5.2,53.7634,Male Occipital,"Landheer et al., 2020",D
+MM_321,MM_321,3.21,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,18.4,3.2,54.3478,,"Murali-Manohar et al., 2019",B
+MM_321,MM_321,3.21,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,16.3,5.4,61.3497,,"Murali-Manohar et al., 2019",C
+MM_320,MM_321,3.2,2008_opstad_60,1,10.1002/mrm.21496,Tumor,14.1,17.6,3.2,56.8182,,,
+MM_362,MM_362,3.62,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,13.9,6.4,71.9424,,"Murali-Manohar et al., 2019",B
+MM_362,MM_362,3.62,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,15.9,4.8,62.8931,,"Murali-Manohar et al., 2019",C
+MM_375,MM_375,3.8-3.65,2005_soher_53,3,10.1002/mrm.20491,Human,1.5,90,4.6,11.1111,CPMG,"Soher et al., 2005",C
+MM_375,MM_375,3.8-3.65,2005_soher_53,4,10.1002/mrm.20491,Human,1.5,36.6,6.2,27.3224,non-CPMG,"Soher et al., 2005",D
+MM_375,MM_375,3.75,2020_landheer_84,1,10.1002/mrm.28282,Human,3,21.8,2.6,45.8716,Female Frontal,"Landheer et al., 2020",A
+MM_375,MM_375,3.75,2020_landheer_84,2,10.1002/mrm.28282,Human,3,22.1,2.6,45.2489,Male Frontal,"Landheer et al., 2020",B
+MM_375,MM_375,3.75,2020_landheer_84,3,10.1002/mrm.28282,Human,3,20,1.3,50,Female Occipital,"Landheer et al., 2020",C
+MM_375,MM_375,3.75,2020_landheer_84,4,10.1002/mrm.28282,Human,3,20.2,2,49.505,Male Occipital,"Landheer et al., 2020",D
+MM_375,MM_375,3.75,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,25.4,6.8,39.3701,,"Murali-Manohar et al., 2019",B
+MM_375,MM_375,3.75,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,24.5,6.8,40.8163,,"Murali-Manohar et al., 2019",C
+MM_4,MM_General,"3.75,3.86,3.95,4.05,4.17,4.26,4.33,4.42",2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,43,6,23.2558,,"Lopez-Kolkovsky et al., 2015",B
+MM_386,MM_386,3.86,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,22,5.3,45.4545,,"Murali-Manohar et al., 2019",B
+MM_386,MM_386,3.86,2020_murali-manohar_84,3,10.1002/mrm.28174,Human,9.4,24.2,5.2,41.3223,,"Murali-Manohar et al., 2019",C
+MM_403,MM_403,4.03,2020_murali-manohar_84,2,10.1002/mrm.28174,Human,9.4,20.7,8.2,48.3092,,"Murali-Manohar et al., 2019",B
+NAA_CH1,NAA_CH1,4.38,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,182,22,5.4945,,"Lopez-Kolkovsky et al., 2015",B
+NAA,NAA_Asp,2.6,2005_soher_53,1,10.1002/mrm.20491,Human,1.5,147,32,6.8027,,"Soher et al., 2005",A
+NAA,NAA_Asp,,2018_deelchand_79,1,10.1002/mrm.26826,Human,3,229,16,4.3668,LASER,"Deelchand et al., 2018",A
+NAA,NAA_Asp,,2018_deelchand_79,2,10.1002/mrm.26826,Human,3,287,91,3.4843,PRESS,"Deelchand et al., 2018",B
+NAA,NAA_Asp,,2012_ganji_25,1,10.1002/nbm.1767,Human,3,222,33,4.5045,,"Ganji et al., 2012",A
+NAA,NAA_Asp,,2012_ganji_25,2,10.1002/nbm.1767,Human,3,284,23,3.5211,,"Ganji et al., 2012",B
+NAA1,NAA_Asp,"4.382, 2.673, 2.486",2018_wyss_80,1,10.1002/mrm.27067,Human,3,310,33,3.2258,,"Wyss et al., 2018",A
+NAA1,NAA_Asp,"4.382, 2.673, 2.486",2018_wyss_80,2,10.1002/mrm.27067,Human,3,229,38,4.3668,,"Wyss et al., 2018",B
+NAA1,NAA_Asp,"4.382, 2.673, 2.486",2018_wyss_80,3,10.1002/mrm.27067,Human,3,223,57,4.4843,,"Wyss et al., 2018",C
+NAA_CH2,NAA_Asp,"2.6,2.3",2012_deelchand_67,1,10.1002/mrm.23080,Human,4,149,12,6.7114,,"Deelchand et al., 2012",A
+NAA_CH2,NAA_Asp,"2.673, 2.486",2017_an_78,1,10.1002/mrm.26612,Human,7,141,17,7.0922,,"An et al., 2017",E
+NAA_CH2,NAA_Asp,"2.673, 2.486",2017_an_78,2,10.1002/mrm.26612,Human,7,122,14,8.1967,,"An et al., 2017",F
+NAA_CH2,NAA_Asp,"2.673, 2.486",2017_an_78,3,10.1002/mrm.26612,Human,7,226,115,4.4248,Conventional Method,"An et al., 2017",G
+NAA_CH2,NAA_Asp,"2.673, 2.486",2017_an_78,4,10.1002/mrm.26612,Human,7,140,22,7.1429,Conventional Method,"An et al., 2017",H
+NAA_CH2,NAA_Asp,,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,90,11,11.1111,,"Marjanska et al., 2011",A
+NAA_CH2,NAA_Asp,,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,110,30,9.0909,,"Marjanska et al., 2011",B
+NAA_CH2,NAA_Asp,,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,69,12,14.4928,,"Marjanska et al., 2011",C
+NAA_CH2,NAA_Asp,,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,170,12,5.8824,,"Marjanska et al., 2011",D
+NAA_CH2,NAA_Asp,,2018_wong_31,1,10.1002/nbm.4002,Human,7,69,4,14.4928,,,
+NAA_CH2,NAA_Asp,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,321,30,3.1153,,"Deelchand et al., 2015",A
+NAA_CH2,NAA_Asp,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,456,26,2.193,,"Deelchand et al., 2015",B
+NAA_CH2,NAA_Asp,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,449,32,2.2272,,"Deelchand et al., 2015",C
+NAA_CH2,NAA_Asp,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,102.2,23.8,9.7847,,"Murali-Manohar et al., 2019",A
+NAA_CH2,NAA_Asp,"2.67,2.49",2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,172,14,5.814,,"Lopez-Kolkovsky et al., 2015",B
+NAA,NAA_CH3,,2001_barker_45,1,10.1002/mrm.1104,Human,1.5,480,80,2.0833,,"Barker et al., 2001",A
+NAA,NAA_CH3,,1998_block_55,1,10.1001/archneur.55.7.931,Human,1.5,317,32,3.1546,,"Block et al., 1998",
+NAA,NAA_CH3,,1998_block_55,2,10.1001/archneur.55.7.931,Human,1.5,315,31,3.1746,,"Block et al., 1998",
+NAA,NAA_CH3,2,2005_brief_18,1,10.1002/nbm.916,Human,1.5,256,18.97,3.9063,,"Brief et al., 2005",A
+NAA,NAA_CH3,2,2005_brief_18,2,10.1002/nbm.916,Human,1.5,300,25.3,3.3333,,"Brief et al., 2005",B
+NAA,NAA_CH3,,2001_brooks_11,1,10.1093/cercor/11.7.598,Human,1.5,369,56,2.71,,,
+tNAA,NAA_CH3,2,2019_carlin_49,2,10.1002/jmri.26054,Human,1.5,191,56,5.2356,,,
+tNAA,NAA_CH3,2,2019_carlin_49,6,10.1002/jmri.26054,Human,1.5,333,124,3.003,,,
+tNAA,NAA_CH3,2,2019_carlin_49,7,10.1002/jmri.26054,Human,1.5,436,140,2.2936,,,
+tNAA,NAA_CH3,2,2019_carlin_49,10,10.1002/jmri.26054,Human,1.5,423,113,2.3641,,,
+NAA,NAA_CH3,,1993_christiansen_11,1,10.1016/0730-725x(93)90197-l,Human,1.5,344,84,2.907,,,
+NAA,NAA_CH3,,1993_christiansen_11,2,10.1016/0730-725x(93)90197-l,Human,1.5,268,75,3.7313,,,
+NAA,NAA_CH3,,1993_christiansen_11,3,10.1016/0730-725x(93)90197-l,Human,1.5,368,164,2.7174,,,
+NAA,NAA_CH3,,1993_christiansen_11,4,10.1016/0730-725x(93)90197-l,Human,1.5,385,113,2.5974,,,
+NAA,NAA_CH3,,1993_christiansen_11,5,10.1016/0730-725x(93)90197-l,Human,1.5,302,117,3.3113,,,
+NAA,NAA_CH3,,1993_christiansen_11,6,10.1016/0730-725x(93)90197-l,Human,1.5,246,103,4.065,,,
+NAA,NAA_CH3,,1993_christiansen_11,7,10.1016/0730-725x(93)90197-l,Human,1.5,222,121,4.5045,,,
+NAA,NAA_CH3,,1993_christiansen_11,8,10.1016/0730-725x(93)90197-l,Human,1.5,318,92,3.1447,,,
+NAA,NAA_CH3,,1995_christiansen_13,1,10.1016/0730-725x(94)00113-h,Human,1.5,272,58,3.6765,,,
+NAA,NAA_CH3,,1995_christiansen_13,2,10.1016/0730-725x(94)00113-h,Human,1.5,469,262,2.1322,,,
+NAA_CH3,NAA_CH3,2.008,1989_frahm_11,1,10.1002/mrm.1910110105,Human,1.5,330,33,3.0303,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",E
+NAA_CH3,NAA_CH3,2.008,1989_frahm_11,2,10.1002/mrm.1910110105,Human,1.5,450,45,2.2222,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",F
+NAA_CH3,NAA_CH3,2.008,1989_frahm_11,3,10.1002/mrm.1910110105,Human,1.5,340,34,2.9412,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",G
+NAA_CH3,NAA_CH3,2.008,1989_frahm_11,4,10.1002/mrm.1910110105,Human,1.5,300,30,3.3333,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",H
+NAA,NAA_CH3,2,1992_gideon_10,1,10.1016/0730-725x(92)90453-7,Human,1.5,273.8,80.7,3.6523,,,
+NAA,NAA_CH3,2,1992_gideon_10,2,10.1016/0730-725x(92)90453-7,Human,1.5,286.5,114.4,3.4904,,,
+NAA,NAA_CH3,2.02,2002_isobe_20,1,10.1016/S0730-725X(02)00500-3,Human,1.5,368.8,22.6,2.7115,,"Isobe et al., 2002",B
+NAA,NAA_CH3,,1994_kamada_31,1,10.1002/mrm.1910310510,Human,1.5,348.81,70.75,2.8669,,,
+NAA,NAA_CH3,,1994_kamada_31,2,10.1002/mrm.1910310510,Human,1.5,155.93,58.11,6.4131,,,
+NAA,NAA_CH3,,1994_kamada_31,3,10.1002/mrm.1910310510,Human,1.5,172.53,60.87,5.7961,,,
+NAA,NAA_CH3,,1993_kreis_30,1,10.1002/mrm.1910300405,Human,1.5,388,29.1,2.5773,,"Kreis et al., 1993",B
+NAA,NAA_CH3,,1993_kreis_30,5,10.1002/mrm.1910300405,Human,1.5,524,187.83,1.9084,,"Kreis et al., 1993",B
+NAA3,NAA_CH3,,2005_kreis_54,1,10.1002/mrm.20673,Human,1.5,270,70,3.7037,,,
+NAA,NAA_CH3,,1995_longo_30,1,10.1097/00004424-199504000-00001,Human,1.5,357,104,2.8011,,,
+NAA,NAA_CH3,,1995_longo_30,2,10.1097/00004424-199504000-00001,Human,1.5,359,93,2.7855,,,
+NAA,NAA_CH3,2.07,2002_mascalchi_16,1,10.1002/jmri.10189,Human,1.5,286,42,3.4965,,,
+NAA,NAA_CH3,2.07,2002_mascalchi_16,2,10.1002/jmri.10189,Human,1.5,330,46,3.0303,,,
+NAA,NAA_CH3,2.07,2002_mascalchi_16,3,10.1002/jmri.10189,Human,1.5,323,72,3.096,,,
+NAA,NAA_CH3,2.07,2002_mascalchi_16,4,10.1002/jmri.10189,Human,1.5,341,82,2.9326,,,
+NAA,NAA_CH3,,1996_mulkern_6,1,10.1002/jmri.1880060221,Human,1.5,435,113,2.2989,,,
+NAA,NAA_CH3,2,1991_narayana_9,1,10.1016/0730-725x(91)90415-i,Human,1.5,320,35,3.125,,,
+NAA,NAA_CH3,,1995_posse_33,1,10.1002/mrm.1910330215,Human,1.5,440,44,2.2727,Assumed 10% Std.Dev.,"Posse et al., 1995",C
+NAA,NAA_CH3,2,2002_rutgers_15,1,10.1002/nbm.762,Human,1.5,336,46,2.9762,,,
+NAA,NAA_CH3,,2002_sarchielli_249,1,10.1007/s00415-002-0758-5,Human,1.5,385,30,2.5974,,,
+NAA,NAA_CH3,,2002_sarchielli_249,2,10.1007/s00415-002-0758-5,Human,1.5,368,34,2.7174,,,
+NAA,NAA_CH3,,2002_sarchielli_249,3,10.1007/s00415-002-0758-5,Human,1.5,361,40,2.7701,,,
+NAA,NAA_CH3,2.01,2002_sijens_12,1,10.1007/s00330-001-1300-3,Human,1.5,338,60.85,2.9586,,,
+NAA,NAA_CH3,2.01,2002_sijens_12,2,10.1007/s00330-001-1300-3,Human,1.5,225,60.85,4.4444,,,
+NAA,NAA_CH3,2.01,2002_sijens_12,3,10.1007/s00330-001-1300-3,Human,1.5,228,147.22,4.386,,,
+NAA,NAA_CH3,1.9- 2.1,2004_sijens_14,2,10.1007/s00330-004-2388-z,Human,1.5,327,66,3.0581,,,
+NAA,NAA_CH3,2.01,2005_soher_53,1,10.1002/mrm.20491,Human,1.5,416,105,2.4038,,"Soher et al., 2005",A
+NAA,NAA_CH3,2.02,2004_traber_19,1,10.1002/jmri.20053,Human,1.5,361,39,2.7701,,"Traber et al., 2004",A
+NAA,NAA_CH3,2.02,2004_traber_19,2,10.1002/jmri.20053,Human,1.5,317,25,3.1546,,"Traber et al., 2004",B
+NAA,NAA_CH3,2.02,2004_traber_19,3,10.1002/jmri.20053,Human,1.5,357,26,2.8011,,"Traber et al., 2004",C
+NAA,NAA_CH3,2.02,2004_walker_220,1,10.1016/j.jns.2004.01.012,Human,1.5,393,27,2.5445,,,
+NAA,NAA_CH3,2.02,2004_walker_220,2,10.1016/j.jns.2004.01.012,Human,1.5,226,48,4.4248,,,
+NAA,NAA_CH3,2.02,2004_walker_220,3,10.1016/j.jns.2004.01.012,Human,1.5,396,41,2.5253,,,
+NAA,NAA_CH3,2.02,2004_walker_220,4,10.1016/j.jns.2004.01.012,Human,1.5,317,28,3.1546,,,
+NAA,NAA_CH3,2.02,2004_walker_220,5,10.1016/j.jns.2004.01.012,Human,1.5,381,37,2.6247,,,
+NAA,NAA_CH3,,1999_choi_41,1,10.1002/(SICI)1522-2594(199901)41:1<204::AID-MRM29>3.0.CO;2-7,Human,2,283,62,3.5336,,"Choi et al., 1999",B
+NAA,NAA_CH3,2.02,1992_hennig_5,1,10.1002/nbm.1940050406,Human,2,352,93,2.8409,,"Hennig et al., 1992",A
+NAA,NAA_CH3,2.02,1992_hennig_5,2,10.1002/nbm.1940050406,Human,2,329,124,3.0395,,"Hennig et al., 1992",B
+NAA,NAA_CH3,2.02,1992_hennig_5,3,10.1002/nbm.1940050406,Human,2,358,122,2.7933,,"Hennig et al., 1992",C
+NAA,NAA_CH3,2.02,1992_hennig_5,4,10.1002/nbm.1940050406,Human,2,383,108,2.611,,"Hennig et al., 1992",D
+NAA,NAA_CH3,,1992_sappey-marinier_26,1,10.1002/mrm.1910260211,Human,2,263,29.39,3.8023,Control,"Sappey-Marinier et al., 1992",A
+NAA,NAA_CH3,,1992_sappey-marinier_26,2,10.1002/mrm.1910260211,Human,2,231,93.08,4.329,Stroke,"Sappey-Marinier et al., 1992",C
+NAA,NAA_CH3,,1992_sappey-marinier_26,3,10.1002/mrm.1910260211,Human,2,233,64.85,4.2918,WMSH,"Sappey-Marinier et al., 1992",E
+NAA,NAA_CH3,2.02,1994_blamire_12,1,10.1016/0730-725X(94)90087-8,Human,2.1,339,144.22,2.9499,,,
+NAA,NAA_CH3,2.02,1994_blamire_12,2,10.1016/0730-725X(94)90087-8,Human,2.1,259,74.08,3.861,,,
+NAA,NAA_CH3,2,1996_cady_21,1,10.1007/bf02532414,Human,2.4,316.9,77.2,3.1556,,,
+NAA,NAA_CH3,2,1996_cady_21,2,10.1007/bf02532414,Human,2.4,395.2,24.8,2.5304,,,
+NAA,NAA_CH3,2,1996_cady_21,3,10.1007/bf02532414,Human,2.4,458.1,149.9,2.1829,,,
+NAA,NAA_CH3,2,1996_cady_36,1,10.1002/mrm.1910360610,Human,2.4,331,90.6,3.0211,,,
+NAA,NAA_CH3,2,1996_cady_36,3,10.1002/mrm.1910360610,Human,2.4,463.5,129.6,2.1575,,,
+NAA_CH3,NAA_CH3,,1998_fujimori_39,1,10.1002/mrm.1910390419,Rat,2.4,406,82,2.4631,,"Fujimori et al., 1998",
+NAA_CH3,NAA_CH3,,1998_fujimori_39,4,10.1002/mrm.1910390419,Rat,2.4,339,35,2.9499,,"Fujimori et al., 1998",
+NAA_CH3,NAA_CH3,,1998_fujimori_39,8,10.1002/mrm.1910390419,Rat,2.4,359,71,2.7855,,"Fujimori et al., 1998",
+NAA,NAA_CH3,2,1992_rose_23,1,10.1002/mrm.1910230213,Dog,2.4,490,35,2.0408,,,
+NAA,NAA_CH3,,2001_barker_45,2,10.1002/mrm.1104,Human,3,210,20,4.7619,,"Barker et al., 2001",B
+tNAA,NAA_CH3,,2021_dacko_85,1,10.1002/mrm.28500,Human,3,220,12,4.5455,,,
+NAA,NAA_CH3,,2018_deelchand_79,1,10.1002/mrm.26826,Human,3,369,24,2.71,LASER,"Deelchand et al., 2018",A
+NAA,NAA_CH3,,2018_deelchand_79,2,10.1002/mrm.26826,Human,3,298,20,3.3557,PRESS,"Deelchand et al., 2018",B
+NAA,NAA_CH3,,2020_deelchand_95,1,10.1016/j.neurobiolaging.2020.07.017,Human,3,322,16,3.1056,,"Deelchand et al., 2020",A
+NAA,NAA_CH3,,2020_deelchand_95,2,10.1016/j.neurobiolaging.2020.07.017,Human,3,304,13,3.2895,,"Deelchand et al., 2020",B
+NAA,NAA_CH3,,2020_deelchand_95,3,10.1016/j.neurobiolaging.2020.07.017,Human,3,355,17,2.8169,,"Deelchand et al., 2020",C
+NAA,NAA_CH3,,2020_deelchand_95,4,10.1016/j.neurobiolaging.2020.07.017,Human,3,286,14,3.4965,,"Deelchand et al., 2020",D
+NAA,NAA_CH3,,2020_deelchand_95,5,10.1016/j.neurobiolaging.2020.07.017,Human,3,279,17,3.5842,,"Deelchand et al., 2020",E
+NAA,NAA_CH3,,2020_deelchand_95,6,10.1016/j.neurobiolaging.2020.07.017,Human,3,316,25,3.1646,,"Deelchand et al., 2020",F
+NAA,NAA_CH3,2.01,2005_dumoulin,1,ISMRM_1179_2005,Human,3,235.4,23.96,4.2481,Aged,"Dumoulin et al., 2005",A
+NAA,NAA_CH3,2.01,2005_dumoulin,2,ISMRM_1179_2005,Human,3,254.18,33.76,3.9342,MCI,"Dumoulin et al., 2005",B
+NAA,NAA_CH3,2.01,2005_dumoulin,3,ISMRM_1179_2005,Human,3,254.05,35.58,3.9362,AD,"Dumoulin et al., 2005",C
+NAA,NAA_CH3,,2019_fleysher_27,1,10.1016/j.mri.2009.05.033,Phantom,3,338,56,2.9586,,,
+NAA,NAA_CH3,,2019_fleysher_27,2,10.1016/j.mri.2009.05.033,Phantom,3,359,58,2.7855,,,
+NAA,NAA_CH3,,2019_fleysher_27,3,10.1016/j.mri.2009.05.033,Phantom,3,484,99,2.0661,,,
+NAA,NAA_CH3,,2019_fleysher_27,4,10.1016/j.mri.2009.05.033,Phantom,3,561,131,1.7825,,,
+NAA,NAA_CH3,,2019_fleysher_27,5,10.1016/j.mri.2009.05.033,Phantom,3,561,131,1.7825,,,
+NAA,NAA_CH3,,2019_fleysher_27,6,10.1016/j.mri.2009.05.033,Phantom,3,642,201,1.5576,,,
+NAA,NAA_CH3,,2019_fleysher_27,7,10.1016/j.mri.2009.05.033,Phantom,3,705,219,1.4184,,,
+NAA,NAA_CH3,,2019_fleysher_27,8,10.1016/j.mri.2009.05.033,Phantom,3,661,179,1.5129,,,
+NAA,NAA_CH3,,2019_fleysher_27,9,10.1016/j.mri.2009.05.033,Phantom,3,681,194,1.4684,,,
+NAA,NAA_CH3,,2019_fleysher_27,10,10.1016/j.mri.2009.05.033,Phantom,3,599,151,1.6694,,,
+NAA,NAA_CH3,,2012_ganji_25,1,10.1002/nbm.1767,Human,3,258,11,3.876,,"Ganji et al., 2012",A
+NAA,NAA_CH3,,2012_ganji_25,2,10.1002/nbm.1767,Human,3,309,16,3.2362,,"Ganji et al., 2012",B
+NAA,NAA_CH3,,2002_hanstock_198,1,10.1016/S0022-510X(02)00074-6,Human,3,351,58,2.849,Control,"Hanstock et al,. 2002",A
+NAA,NAA_CH3,,2002_hanstock_198,2,10.1016/S0022-510X(02)00074-6,Human,3,272,10,3.6765,ALS,"Hanstock et al,. 2002",C
+NA_tot,NAA_CH3,,2004_hurd_51,1,10.1002/mrm.20007,Human,3,213,21,4.6948,,,
+NA_tot,NAA_CH3,,2004_hurd_51,2,10.1002/mrm.20007,Human,3,328,51,3.0488,,,
+NAA,NAA_CH3,,2016_jiru_29,1,10.1002/nbm.3456,Human,3,320.7,17.7,3.1182,,"Jiru et al., 2016",A
+NAA,NAA_CH3,,2016_jiru_29,2,10.1002/nbm.3456,Human,3,276.5,25,3.6166,,"Jiru et al., 2016",B
+NAA,NAA_CH3,,2008_kirov_60,1,10.1002/mrm.21715,Human,3,306,53.74,3.268,Caudate,"Kirov et al., 2008",A
+NAA,NAA_CH3,,2008_kirov_60,2,10.1002/mrm.21715,Human,3,267,39.6,3.7453,Thalamus,"Kirov et al., 2008",B
+NAA,NAA_CH3,,2008_kirov_60,3,10.1002/mrm.21715,Human,3,277,31.11,3.6101,Cingulate,"Kirov et al., 2008",C
+NAA,NAA_CH3,,2008_kirov_60,4,10.1002/mrm.21715,Human,3,252,22.63,3.9683,Globus Pallidus,"Kirov et al., 2008",D
+NAA,NAA_CH3,,2008_kirov_60,5,10.1002/mrm.21715,Human,3,263,36.77,3.8023,Putamen,"Kirov et al., 2008",E
+NAA,NAA_CH3,,2008_kirov_60,6,10.1002/mrm.21715,Human,3,375,67.88,2.6667,Splenium,"Kirov et al., 2008",F
+NAA,NAA_CH3,,2008_kirov_60,7,10.1002/mrm.21715,Human,3,326,59.4,3.0675,Genu,"Kirov et al., 2008",G
+NAA,NAA_CH3,,2008_kirov_60,8,10.1002/mrm.21715,Human,3,397,45.25,2.5189,Centrum Semiovale,"Kirov et al., 2008",H
+NAA,NAA_CH3,,2008_kirov_60,9,10.1002/mrm.21715,Human,3,366,36.77,2.7322,Occipital,"Kirov et al., 2008",I
+NAA,NAA_CH3,,2008_kirov_60,10,10.1002/mrm.21715,Human,3,362,59.4,2.7624,Corona Radiata,"Kirov et al., 2008",J
+NAA,NAA_CH3,,2008_kirov_60,11,10.1002/mrm.21715,Human,3,300,56.34,3.3333,Caudate,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,12,10.1002/mrm.21715,Human,3,277,31.84,3.6101,Thalamus,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,13,10.1002/mrm.21715,Human,3,421,97.98,2.3753,Cingulate,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,14,10.1002/mrm.21715,Human,3,275,12.25,3.6364,Globus Pallidus,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,15,10.1002/mrm.21715,Human,3,310,63.69,3.2258,Putamen,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,16,10.1002/mrm.21715,Human,3,405,78.38,2.4691,Splenium,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,17,10.1002/mrm.21715,Human,3,361,71.04,2.7701,Genu,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,18,10.1002/mrm.21715,Human,3,458,26.94,2.1834,Centrum Semiovale,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,19,10.1002/mrm.21715,Human,3,461,48.99,2.1692,Occipital,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,20,10.1002/mrm.21715,Human,3,400,51.44,2.5,Corona Radiata,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,21,10.1002/mrm.21715,Human,3,203,90,4.9261,Caudate,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,22,10.1002/mrm.21715,Human,3,288,88,3.4722,Thalamus,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,23,10.1002/mrm.21715,Human,3,271,18,3.69,Cingulate,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,24,10.1002/mrm.21715,Human,3,219,48,4.5662,Globus Pallidus,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,25,10.1002/mrm.21715,Human,3,205,30.75,4.878,Putamen; Assumed 15% StdDev,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,26,10.1002/mrm.21715,Human,3,327,38,3.0581,Splenium,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,27,10.1002/mrm.21715,Human,3,405,148,2.4691,Genu,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,28,10.1002/mrm.21715,Human,3,401,44,2.4938,Centrum Semiovale,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,29,10.1002/mrm.21715,Human,3,493,162,2.0284,Occipital,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,30,10.1002/mrm.21715,Human,3,389,134,2.5707,Corona Radiata,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,31,10.1002/mrm.21715,Human,3,280,46.67,3.5714,Caudate,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,32,10.1002/mrm.21715,Human,3,285,21.21,3.5088,Thalamus,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,33,10.1002/mrm.21715,Human,3,215,25.46,4.6512,Cingulate,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,34,10.1002/mrm.21715,Human,3,255,11.31,3.9216,Globus Pallidus,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,35,10.1002/mrm.21715,Human,3,223,21.21,4.4843,Putamen,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,36,10.1002/mrm.21715,Human,3,314,21.21,3.1847,Splenium,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,37,10.1002/mrm.21715,Human,3,310,77.78,3.2258,Genu,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,38,10.1002/mrm.21715,Human,3,391,18.38,2.5575,Centrum Semiovale,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,39,10.1002/mrm.21715,Human,3,360,25.46,2.7778,Occipital,"Kirov et al., 2008",
+NAA,NAA_CH3,,2008_kirov_60,40,10.1002/mrm.21715,Human,3,383,31.11,2.611,Corona Radiata,"Kirov et al., 2008",
+NAA,NAA_CH3,2.02,2008_li_28,1,10.1002/jmri.21453,Human,3,249,53,4.0161,,"Li et al., 2008",C
+NAA,NAA_CH3,,2012_li,1,10.4172/2155-9937.S1-002,Human,3,262,37,3.8168,,"Li et al., 2012",B
+NAA,NAA_CH3,2.01,2015_madan_73,1,10.1002/mrm.25352,Human,3,291,36,3.4364,Control,"Madan et al., 2015",A
+NAA,NAA_CH3,2.01,2015_madan_73,2,10.1002/mrm.25352,Human,3,262,28,3.8168,Low Grade Tumor,"Madan et al., 2015",B
+NAA,NAA_CH3,2.01,2015_madan_73,3,10.1002/mrm.25352,Human,3,256,41,3.9063,High Grade Tumor,"Madan et al., 2015",C
+NAA,NAA_CH3,2.01,2001_mlynarik_14,1,10.1002/nbm.713,Human,3,247,42.49,4.0486,,"Mlyanarik et al., 2001",A
+NAA,NAA_CH3,2.01,2001_mlynarik_14,2,10.1002/nbm.713,Human,3,295,64.85,3.3898,,"Mlyanarik et al., 2001",B
+NAA,NAA_CH3,,2021_nosrati_85,1,10.1002/mrm.28644,Human,3,263.16,32.55,3.8,,,
+NAA,NAA_CH3,,2021_nosrati_85,2,10.1002/mrm.28644,Human,3,255.75,132.47,3.9101,,,
+NAA,NAA_CH3,,2021_nosrati_85,3,10.1002/mrm.28644,Human,3,255.75,56.9,3.9101,,,
+NAA,NAA_CH3,,2014_prescot_27,1,10.1002/nbm.3115,Human,3,256,19,3.9063,,,
+NAA,NAA_CH3,,2014_prescot_27,2,10.1002/nbm.3115,Human,3,278,16,3.5971,,,
+NAA,NAA_CH3,2.02,2004_traber_19,4,10.1002/jmri.20053,Human,3,301,18,3.3223,,"Traber et al., 2004",E
+NAA,NAA_CH3,2.02,2004_traber_19,5,10.1002/jmri.20053,Human,3,247,13,4.0486,,"Traber et al., 2004",F
+NAA,NAA_CH3,2.02,2004_traber_19,6,10.1002/jmri.20053,Human,3,254,15,3.937,,"Traber et al., 2004",G
+NAA,NAA_CH3,2.02,2004_traber_19,7,10.1002/jmri.20053,Human,3,279,16,3.5842,,"Traber et al., 2004",H
+NAA,NAA_CH3,2.02,2004_traber_19,8,10.1002/jmri.20053,Human,3,221,18,4.5249,,"Traber et al., 2004",I
+NAA,NAA_CH3,2.02,2004_traber_19,9,10.1002/jmri.20053,Human,3,287,14,3.4843,,"Traber et al., 2004",J
+NAA,NAA_CH3,,2007_tsai_57,1,10.1002/mrm.21225,Human,3,295,12,3.3898,,"Tsai et al., 2007",A
+NAA,NAA_CH3,,2007_tsai_57,2,10.1002/mrm.21225,Human,3,287,16,3.4843,,"Tsai et al., 2007",B
+NAA,NAA_CH3,,2007_tsai_57,3,10.1002/mrm.21225,Human,3,235,18,4.2553,,"Tsai et al., 2007",C
+NAA,NAA_CH3,,2007_tsai_57,4,10.1002/mrm.21225,Human,3,238,12,4.2017,,"Tsai et al., 2007",D
+NAA,NAA_CH3,,2007_tsai_57,5,10.1002/mrm.21225,Human,3,262,13,3.8168,,"Tsai et al., 2007",E
+tNAA,NAA_CH3,,2009_tuncskarka_48,1,10.1016/j.neuroimage.2009.06.061,Human,3,338.57,26.74,2.9536,,,
+tNAA,NAA_CH3,,2009_tuncskarka_48,2,10.1016/j.neuroimage.2009.06.061,Human,3,316.98,32.18,3.1548,,,
+NAA,NAA_CH3,2.008,2018_wyss_80,1,10.1002/mrm.27067,Human,3,343,34,2.9155,,"Wyss et al., 2018",A
+NAA,NAA_CH3,2.008,2018_wyss_80,2,10.1002/mrm.27067,Human,3,263,43,3.8023,,"Wyss et al., 2018",B
+NAA,NAA_CH3,2.008,2018_wyss_80,3,10.1002/mrm.27067,Human,3,253,64,3.9526,,"Wyss et al., 2018",C
+NAA,NAA_CH3,2.02,2007_zaaraoui_57,1,10.1002/mrm.21250,Human,3,254,70.71,3.937,Caudate,"Zaaraoui et al., 2007",A
+NAA,NAA_CH3,2.02,2007_zaaraoui_57,2,10.1002/mrm.21250,Human,3,229,42.43,4.3668,Thalamus,"Zaaraoui et al., 2007",B
+NAA,NAA_CH3,2.02,2007_zaaraoui_57,3,10.1002/mrm.21250,Human,3,216,45.25,4.6296,Cingulate,"Zaaraoui et al., 2007",C
+NAA,NAA_CH3,2.02,2007_zaaraoui_57,4,10.1002/mrm.21250,Human,3,284,48.08,3.5211,Splenium,"Zaaraoui et al., 2007",D
+NAA,NAA_CH3,2.02,2007_zaaraoui_57,5,10.1002/mrm.21250,Human,3,234,65.05,4.2735,Genu,"Zaaraoui et al., 2007",E
+NAA,NAA_CH3,2.02,2007_zaaraoui_57,6,10.1002/mrm.21250,Human,3,263,19.8,3.8023,Centrum Semiovale,"Zaaraoui et al., 2007",F
+NAA,NAA_CH3,2.02,2007_zaaraoui_57,7,10.1002/mrm.21250,Human,3,268,28.28,3.7313,Parietal,"Zaaraoui et al., 2007",G
+NAA,NAA_CH3,2.02,2007_zaaraoui_57,8,10.1002/mrm.21250,Human,3,262,36.77,3.8168,Occipital,"Zaaraoui et al., 2007",H
+NAA,NAA_CH3,,2015_zhang_76,1,10.1002/mrm.25922,Human,3,318,8,3.1447,,"Zhang et al., 2015",A
+NAA,NAA_CH3,,2015_zhang_76,2,10.1002/mrm.25922,Human,3,287,6,3.4843,,"Zhang et al., 2015",B
+NAA,NAA_CH3,,2022_chen,1,10.1093/schbul/sbab149,Human,4,261.28,25.04,3.8273,,,
+NAA,NAA_CH3,,2022_chen,2,10.1093/schbul/sbab149,Human,4,278.24,20.64,3.594,,,
+NAA,NAA_CH3,,2022_chen,3,10.1093/schbul/sbab149,Human,4,277.28,42.24,3.6065,,,
+NAA,NAA_CH3,,2022_chen,4,10.1093/schbul/sbab149,Human,4,256.48,33.92,3.8989,,,
+NAA,NAA_CH3,,2022_chen,5,10.1093/schbul/sbab149,Human,4,257.28,27.36,3.8868,,,
+NAA,NAA_CH3,,2022_chen,6,10.1093/schbul/sbab149,Human,4,260,26.4,3.8462,,,
+NAA,NAA_CH3,,2022_chen,7,10.1093/schbul/sbab149,Human,4,271.2,42.24,3.6873,,,
+NAA,NAA_CH3,,2022_chen,8,10.1093/schbul/sbab149,Human,4,256.96,19.02,3.8917,,,
+NAA,NAA_CH3,2.01,2006_degraaf_56,1,10.1002/mrm.20946,Rat,4,391.9,15.1,2.5517,,"de Graaf et al., 2006",D
+NAA,NAA_CH3,2.01,2012_deelchand_67,1,10.1002/mrm.23080,Human,4,264,9,3.7879,,"Deelchand et al., 2012",A
+NAA,NAA_CH3,,2012_du_137,1,10.1016/j.schres.2012.01.026,Human,4,209.5,23.8,4.7733,,,
+NAA,NAA_CH3,,2012_du_137,2,10.1016/j.schres.2012.01.026,Human,4,189.7,23.3,5.2715,,,
+NAA,NAA_CH3,,2011_emir_24,1,10.1002/nbm.1583,Human,4,205,20.5,4.878,Assumed 10% Std.Dev.,"Emir et al., 2010",A
+NAA,NAA_CH3,2.01,2013_marjanska_8,1,10.1371/journal.pone.0077572,Human,4,208,18,4.8077,Young,"Marjanska et al., 2013",A
+NAA,NAA_CH3,2.01,2013_marjanska_8,2,10.1371/journal.pone.0077572,Human,4,161,19,6.2112,Aged,"Marjanska et al., 2013",B
+NAA,NAA_CH3,2.01,2002_michaeli_47,1,10.1002/mrm.10135,Human,4,239,22,4.1841,PRESS,"Michaeli et al., 2002",A
+NAA,NAA_CH3,2.01,2002_michaeli_47,3,10.1002/mrm.10135,Human,4,401,13,2.4938,CP-LASER,"Michaeli et al., 2002",C
+NAA,NAA_CH3,,2010_ongur_63,1,10.1002/mrm.22148,Human,4,240,43,4.1667,,"Ongur et al., 2010",A
+NAA,NAA_CH3,,2010_ongur_63,2,10.1002/mrm.22148,Human,4,196,41,5.102,,"Ongur et al., 2010",B
+NAA,NAA_CH3,,1995_posse_33,2,10.1002/mrm.1910330215,Human,4,185,24,5.4054,,"Posse et al., 1995",D
+NAA,NAA_CH3,2.02,2000_sammi_44,1,10.1002/1522-2594(200007)44:1<35::AID-MRM7>3.0.CO;2-G,Human,4,227,25,4.4053,,,
+NAA,NAA_CH3,2.02,1994_hetherington_32,1,10.1002/mrm.1910320504,Human,4.1,227,27,4.4053,,"Hetherington et al., 1994",C
+NAA,NAA_CH3,2.02,1994_hetherington_32,2,10.1002/mrm.1910320504,Human,4.1,233,27,4.2918,,"Hetherington et al., 1994",D
+NAA,NAA_CH3,2.023,1995_mason_107,1,10.1006/jmrb.1995.1059,Human,4.1,232,15,4.3103,,,
+NAA,NAA_CH3,2.023,1995_mason_107,2,10.1006/jmrb.1995.1059,Human,4.1,228,16,4.386,,,
+NAA,NAA_CH3,2.02,2008_cudalba_11,1,10.1016/j.crci.2007.08.013,Rat,4.7,193,25,5.1813,,"Cudalba et al., 2008",B
+NAA,NAA_CH3,2.02,2008_cudalba_11,3,10.1016/j.crci.2007.08.013,Phantom,4.7,704,42,1.4205,,"Cudalba et al., 2008",
+NAA,NAA_CH3,2.02,1998_dreher_39,1,10.1002/mrm.1910390605,Rat,4.7,285,69,3.5088,,,
+NAA,NAA_CH3,2.02,1998_dreher_39,2,10.1002/mrm.1910390605,Rat,4.7,305,55,3.2787,,,
+NAA,NAA_CH3,2.02,1998_dreher_39,3,10.1002/mrm.1910390605,Rat,4.7,275,54,3.6364,,,
+NAA,NAA_CH3,2.02,1998_dreher_39,4,10.1002/mrm.1910390605,Rat,4.7,326,74,3.0675,,,
+NAA,NAA_CH3,2,1992_rose_23,2,10.1002/mrm.1910230213,Rat,4.7,490,37,2.0408,,,
+NAA,NAA_CH3,,1995_vandertoorn_8,2,10.1002/nbm.1940080604,Rat,4.7,258,53,3.876,Measure at Time1 - Control,"van der Toorn et al., 1995",M
+NAA,NAA_CH3,,1995_vandertoorn_8,4,10.1002/nbm.1940080604,Rat,4.7,250,76,4,Measure at Time2 - Control,"van der Toorn et al., 1995",M
+NAA,NAA_CH3,,1995_vandertoorn_8,6,10.1002/nbm.1940080604,Rat,4.7,243,36.45,4.1152,Measure at Time3 - Control - Assumed 15% Std.Dev.,"van der Toorn et al., 1995",H
+NAA,NAA_CH3,,1995_vandertoorn_8,10,10.1002/nbm.1940080604,Rat,4.7,261,63,3.8314,Measure at Time1 - Ischemia,"van der Toorn et al., 1995",T
+NAA,NAA_CH3,,1995_vandertoorn_8,12,10.1002/nbm.1940080604,Rat,4.7,200,52,5,Measure at Time2 - Ischemia,"van der Toorn et al., 1995",T
+NAA,NAA_CH3,,1995_vandertoorn_8,14,10.1002/nbm.1940080604,Rat,4.7,165,24.75,6.0606,Measure at Time3 - Ischemia - Assumed 15% Std.Dev.,"van der Toorn et al., 1995",O
+NAA,NAA_CH3,,2021_wang_35,1,10.1002/nbm.4617,Rat,4.7,287.4,35.2,3.4795,,,
+NAA,NAA_CH3,,2021_wang_35,2,10.1002/nbm.4617,Rat,4.7,250.5,29.1,3.992,,,
+NAA,NAA_CH3,,2021_wang_35,3,10.1002/nbm.4617,Rat,4.7,212.7,38.1,4.7015,,,
+NAA,NAA_CH3,,2021_wang_35,4,10.1002/nbm.4617,Phantom,4.7,36.23,0,27.6014,,,
+NAA,NAA_CH3,,2012_li,2,10.4172/2155-9937.S1-002,Human,7,170,11,5.8824,,"Li et al., 2012",D
+NAA_CH3,NAA_CH3,2.008,2017_an_78,1,10.1002/mrm.26612,Human,7,203,17,4.9261,,"An et al., 2017",E
+NAA_CH3,NAA_CH3,2.008,2017_an_78,2,10.1002/mrm.26612,Human,7,169,16,5.9172,,"An et al., 2017",F
+NAA_CH3,NAA_CH3,2.008,2017_an_78,3,10.1002/mrm.26612,Human,7,199,21,5.0251,Conventional Method,"An et al., 2017",G
+NAA_CH3,NAA_CH3,2.008,2017_an_78,4,10.1002/mrm.26612,Human,7,164,19,6.0976,Conventional Method,"An et al., 2017",H
+tNAA,NAA_CH3,,2014_branzoli_27,1,10.1002/nbm.3085,Human,7,180.4,58.8,5.5432,,,
+tNAA,NAA_CH3,,2014_branzoli_27,2,10.1002/nbm.3085,Human,7,177.1,62.8,5.6465,,,
+tNAA,NAA_CH3,,2014_branzoli_27,3,10.1002/nbm.3085,Human,7,180.4,65.2,5.5432,,,
+tNAA,NAA_CH3,,2014_branzoli_27,4,10.1002/nbm.3085,Human,7,163.8,53.6,6.105,,,
+tNAA,NAA_CH3,,2014_branzoli_27,5,10.1002/nbm.3085,Human,7,158.4,57.2,6.3131,,,
+tNAA,NAA_CH3,,2014_branzoli_27,6,10.1002/nbm.3085,Human,7,134.1,29.2,7.4571,,,
+tNAA,NAA_CH3,,2014_branzoli_27,7,10.1002/nbm.3085,Human,7,136,34,7.3529,,,
+tNAA,NAA_CH3,,2014_branzoli_27,8,10.1002/nbm.3085,Human,7,140.4,26.4,7.1225,,,
+tNAA,NAA_CH3,,2014_branzoli_27,9,10.1002/nbm.3085,Human,7,147.2,33.6,6.7935,,,
+tNAA,NAA_CH3,,2014_branzoli_27,10,10.1002/nbm.3085,Human,7,147.2,27.2,6.7935,,,
+NAA,NAA_CH3,2,1994_cady_182,1,10.1007/bf01705293,Pig,7,215,34,4.6512,,,
+NAA,NAA_CH3,2,1994_cady_182,2,10.1007/bf01705293,Pig,7,231,29,4.329,,,
+NAA,NAA_CH3,2,1994_cady_182,3,10.1007/bf01705293,Pig,7,226,58,4.4248,,,
+NAA,NAA_CH3,2,2017_chen,1,,Human,7,169,19.6,5.9172,"Did not list StdDev or SEM for T2 measures, but mentioned using SEM in a later figure. Assumed SEM.",,
+NAA,NAA_CH3,2.02,2008_cudalba_11,2,10.1016/j.crci.2007.08.013,Rat,7,143,21,6.993,,"Cudalba et al., 2008",D
+NAA,NAA_CH3,2.02,2008_cudalba_11,4,10.1016/j.crci.2007.08.013,Phantom,7,427,20,2.3419,,"Cudalba et al., 2008",
+NAA,NAA_CH3,,2018_li_79,1,10.1002/mrm.26941,Human,7,171,17,5.848,Standard Multi-TE,"Li et al., 2018",C
+NAA,NAA_CH3,,2018_li_79,2,10.1002/mrm.26941,Human,7,270,36,3.7037,MARZss,"Li et al., 2018",D
+NAA,NAA_CH3,,2018_li_79,3,10.1002/mrm.26941,Solution,7,530,37,1.8868,Standard Multi-TE,"Li et al., 2018",E
+NAA,NAA_CH3,,2018_li_79,4,10.1002/mrm.26941,Solution,7,494,58,2.0243,MARZss,"Li et al., 2018",F
+NAA,NAA_CH3,,2008_liu_59,1,10.1002/mrm.21574,Primate,7,173,26,5.7803,,,
+NAA,NAA_CH3,,2008_liu_59,2,10.1002/mrm.21574,Primate,7,184,28,5.4348,,,
+NAA,NAA_CH3,,2008_liu_59,3,10.1002/mrm.21574,Primate,7,174,24,5.7471,,,
+NAA,NAA_CH3,,2008_liu_59,4,10.1002/mrm.21574,Primate,7,169,12,5.9172,,,
+NAA,NAA_CH3,,2008_liu_59,5,10.1002/mrm.21574,Primate,7,180,6,5.5556,,,
+NAA,NAA_CH3,,2008_liu_59,6,10.1002/mrm.21574,Primate,7,167,8,5.988,,,
+NAA_CH3,NAA_CH3,2.01,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,132,6,7.5758,,"Marjanska et al., 2011",A
+NAA_CH3,NAA_CH3,2.01,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,168,6,5.9524,,"Marjanska et al., 2011",B
+NAA_CH3,NAA_CH3,2.01,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,130,11,7.6923,,"Marjanska et al., 2011",C
+NAA_CH3,NAA_CH3,2.01,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,191,7,5.2356,,"Marjanska et al., 2011",D
+NAA,NAA_CH3,2.01,2002_michaeli_47,2,10.1002/mrm.10135,Human,7,158,22,6.3291,PRESS,"Michaeli et al., 2002",B
+NAA,NAA_CH3,2.01,2002_michaeli_47,4,10.1002/mrm.10135,Human,7,341,25,2.9326,CP-LASER,"Michaeli et al., 2002",D
+tNAA,NAA_CH3,,2013_ronen_26,1,10.1002/nbm.2951,Human,7,175.9,11.9,5.685,,"Ronen et al., 2013",A
+tNAA,NAA_CH3,,2013_ronen_26,2,10.1002/nbm.2951,Human,7,187.4,23.9,5.3362,,"Ronen et al., 2013",B
+tNAA,NAA_CH3,,2013_ronen_26,5,10.1002/nbm.2951,Human,7,234,21.6,4.2735,CPMG,"Ronen et al., 2013",E
+tNAA,NAA_CH3,,2013_ronen_26,6,10.1002/nbm.2951,Human,7,245.5,13.4,4.0733,CPMG,"Ronen et al., 2013",F
+NAA,NAA_CH3,,2018_swanberg_290,1,10.1016/j.jmr.2018.02.017,Human,7,222.1,24.7,4.5025,,"Swanberg et al., 2018",A
+NAA_CH3,NAA_CH3,,2001_tkac_46,1,10.1002/mrm.1213,Human,7,141,11,7.0922,,"Tkac et al., 2001",A
+NAA_CH3,NAA_CH3,2.01,2018_wong_31,1,10.1002/nbm.4002,Human,7,138,11,7.2464,,,
+tNAA,NAA_CH3,,2020_yoo_33,1,10.1007/s10334-020-00840-w,Rat,7,195.31,19.53,5.1201,Multi-TE - Estimated StdDev to be 10%,,
+tNAA,NAA_CH3,,2020_yoo_33,2,10.1007/s10334-020-00840-w,Rat,7,191.83,19.18,5.2129,OpQT2 - Estimated StdDev to be 10%,,
+NAA,NAA_CH3,2.008,2008_chassain_105,1,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,171,55,5.848,Control,"Chassain et al., 2008",B
+NAA,NAA_CH3,2.008,2008_chassain_105,2,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,160,38,6.25,Parkinson's,"Chassain et al., 2008",E
+NAA_CH3,NAA_CH3,2.008,2010_deelchand_206,1,10.1016/j.jmr.2010.06.006,Human,9.4,98,8.4,10.2041,,"Deelchand et al., 2010",B
+NAA_CH3,NAA_CH3,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,157,41,6.3694,,"Deelchand et al., 2015",A
+NAA_CH3,NAA_CH3,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,187,16,5.3476,,"Deelchand et al., 2015",B
+NAA_CH3,NAA_CH3,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,167,25,5.988,,"Deelchand et al., 2015",C
+NAA,NAA_CH3,2.01,2006_degraaf_56,2,10.1002/mrm.20946,Rat,9.4,294.3,5.1,3.3979,,"de Graaf et al., 2006",E
+NAA,NAA_CH3,,2016_fisher_29,1,10.1002/nbm.3588,Rat,9.4,231,36,4.329,,,
+NAA,NAA_CH3,,1996_hakumaki_212,1,10.1016/0304-3940(96)12797-x,Rat,9.4,263,73.5,3.8023,Assumed 6 subjects,,
+NAA,NAA_CH3,,1996_hakumaki_212,2,10.1016/0304-3940(96)12797-x,Rat,9.4,352,235.2,2.8409,Assumed 6 subjects,,
+NAA,NAA_CH3,,1996_hakumaki_212,3,10.1016/0304-3940(96)12797-x,Rat,9.4,351,291.5,2.849,Assumed 6 subjects,,
+NAA,NAA_CH3,,1996_hakumaki_212,4,10.1016/0304-3940(96)12797-x,Rat,9.4,282,112.7,3.5461,Assumed 6 subjects,,
+NAA,NAA_CH3,,1996_hakumaki_212,5,10.1016/0304-3940(96)12797-x,Rat,9.4,424,279.4,2.3585,Assumed 6 subjects,,
+NAA,NAA_CH3,2.023,1992_kauppinen_58,1,10.1111/j.1471-4159.1992.tb09350.x,Guinea Pig,9.4,93.2,5.9,10.7296,,,
+NAA,NAA_CH3,2.023,1992_kauppinen_58,5,10.1111/j.1471-4159.1992.tb09350.x,Guinea Pig,9.4,1768,240,0.5656,,,
+NAA,NAA_CH3,,2003_lei_49,1,10.1002/mrm.10490,Rat,9.4,225,20.3,4.4444,Control,"Lei et al., 2003",A
+NAA,NAA_CH3,,2003_lei_49,2,10.1002/mrm.10490,Rat,9.4,197.6,23.8,5.0607,Ischemia,"Lei et al., 2003",B
+NAA,NAA_CH3,,2003_lei_49,3,10.1002/mrm.10490,Rat,9.4,206,22.9,4.8544,Reperfusion,"Lei et al., 2003",C
+NAA,NAA_CH3,,2003_lei_49,4,10.1002/mrm.10490,Rat,9.4,223.4,34.2,4.4763,Control-23,"Lei et al., 2003",D
+NAA_CH3,NAA_CH3,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,110.5,27.7,9.0498,,"Murali-Manohar et al., 2019",A
+NAA_CH3,NAA_CH3,2.009,1999_pfeuffer_141,1,10.1006/jmre.1999.1895,Rat,9.4,144,7,6.9444,,,
+NAA,NAA_CH3,2.01,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,202,12,4.9505,,"Xin et al., 2007",A
+NAA,NAA_CH3,2.01,2006_degraaf_56,3,10.1002/mrm.20946,Rat,11.7,285.2,26.5,3.5063,,"de Graaf et al., 2006",F
+NAA,NAA_CH3,2,2016_lin_76,1,10.1002/mrm.26066,Phantom,11.7,143,21.45,6.993,Assumed 15% StdDev from Lactate Measure,,
+NAA,NAA_CH3,2,2016_lin_76,2,10.1002/mrm.26066,Phantom,11.7,135,20.25,7.4074,Assumed 15% StdDev from Lactate Measure,,
+NAA_CH3,NAA_CH3,2.01,2013_xin_26,1,10.1007/s10334-013-0378-3,Rat,14.1,142,7,7.0423,,,
+NAA_CH3,NAA_CH3,2.01,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,226,26,4.4248,,"Lopez-Kolkovsky et al., 2015",B
+NAA,NAA_CH3,,2009_weiss_22,,10.1007/s10334-008-0142-2,Mouse,17.6,206,51,4.8544,,"Weiss et al., 2009",A
+NAA,NAA_CH3,,2017_rosenberg_77,1,10.1002/mrm.26132,Rat,21.1,172,15,5.814,Contralateral Hemi from Stroke Model,"Rosenberg et al., 2017",A
+NAAG,NAAG_CH3,,2012_ganji_25,2,10.1002/nbm.1767,Human,3,292,35,3.4247,,"Ganji et al., 2012",B
+naag,NAAG_CH3,2.042,2018_wyss_80,1,10.1002/mrm.27067,Human,3,185,22,5.4054,,"Wyss et al., 2018",A
+naag,NAAG_CH3,2.042,2018_wyss_80,2,10.1002/mrm.27067,Human,3,107,19,9.3458,,"Wyss et al., 2018",B
+naag,NAAG_CH3,2.042,2018_wyss_80,3,10.1002/mrm.27067,Human,3,128,18,7.8125,,"Wyss et al., 2018",C
+naag1,NAAG_Asp,"4.607, 2.721, 2.519",2018_wyss_80,1,10.1002/mrm.27067,Human,3,180,27,5.5556,,"Wyss et al., 2018",A
+naag1,NAAG_Asp,"4.607, 2.721, 2.519",2018_wyss_80,2,10.1002/mrm.27067,Human,3,87,30,11.4943,,"Wyss et al., 2018",B
+naag1,NAAG_Asp,"4.607, 2.721, 2.519",2018_wyss_80,3,10.1002/mrm.27067,Human,3,108,25,9.2593,,"Wyss et al., 2018",C
+naag2,NAAG_Glu,4.128/1.881/2.049/2.1,2018_wyss_80,1,10.1002/mrm.27067,Human,3,157,23,6.3694,,"Wyss et al., 2018",A
+naag2,NAAG_Glu,4.128/1.881/2.049/2.1,2018_wyss_80,2,10.1002/mrm.27067,Human,3,78,21,12.8205,,"Wyss et al., 2018",B
+naag2,NAAG_Glu,4.128/1.881/2.049/2.1,2018_wyss_80,3,10.1002/mrm.27067,Human,3,110,25,9.0909,,"Wyss et al., 2018",C
+NAAG,NAAG_CH3,,2020_murali-manohar_84,1,10.1002/mrm.28174,Human,9.4,45,16.3,22.2222,,"Murali-Manohar et al., 2019",A
+Phe,Phe,7.3,2004_sijens_14,2,10.1007/s00330-004-2388-z,Human,1.5,215,120,4.6512,Phenylalanine in PKU,,
+tcho3,PCho,"4.282, 3.643",2018_wyss_80,1,10.1002/mrm.27067,Human,3,178,20,5.618,,"Wyss et al., 2018",A
+tcho3,PCho,"4.282, 3.643",2018_wyss_80,2,10.1002/mrm.27067,Human,3,191,49,5.2356,,"Wyss et al., 2018",B
+tcho3,PCho,"4.282, 3.643",2018_wyss_80,3,10.1002/mrm.27067,Human,3,243,51,4.1152,,"Wyss et al., 2018",C
+tcho4,PCho,3.2,2018_wyss_80,1,10.1002/mrm.27067,Human,3,213,25,4.6948,,"Wyss et al., 2018",A
+tcho4,PCho,3.2,2018_wyss_80,2,10.1002/mrm.27067,Human,3,221,51,4.5249,,"Wyss et al., 2018",B
+tcho4,PCho,3.2,2018_wyss_80,3,10.1002/mrm.27067,Human,3,274,60,3.6496,,"Wyss et al., 2018",C
+PCr,PCr_CH3,,2001_ke,1,,Phantom,1.5,453,4.8,2.2075,,,
+PCr,PCr_CH3,,2001_ke,1,,Human,1.5,143.3,28.7,6.9784,,,
+pCr,PCr_CH3,3.92,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,113,5,8.8496,,"Xin et al., 2007",A
+PE,PE,"3.977,3.216",2018_wyss_80,1,10.1002/mrm.27067,Human,3,158,25,6.3291,,"Wyss et al., 2018",A
+PE,PE,"3.977,3.216",2018_wyss_80,2,10.1002/mrm.27067,Human,3,86,26,11.6279,,"Wyss et al., 2018",B
+PE,PE,"3.977,3.216",2018_wyss_80,3,10.1002/mrm.27067,Human,3,119,25,8.4034,,"Wyss et al., 2018",C
+PE,PE,,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,96,12,10.4167,,"Xin et al., 2007",A
+Scy,Scy,3.34,2018_wyss_80,1,10.1002/mrm.27067,Human,3,170,28,5.8824,,"Wyss et al., 2018",A
+Scy,Scy,3.34,2018_wyss_80,2,10.1002/mrm.27067,Human,3,107,17,9.3458,,"Wyss et al., 2018",B
+Scy,Scy,3.34,2018_wyss_80,3,10.1002/mrm.27067,Human,3,125,19,8,,"Wyss et al., 2018",C
+Scy,Scy,,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,96,8,10.4167,,"Marjanska et al., 2011",A
+Scy,Scy,,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,112,4,8.9286,,"Marjanska et al., 2011",B
+Scy,Scy,,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,80,20,12.5,,"Marjanska et al., 2011",C
+Scy,Scy,,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,130,20,7.6923,,"Marjanska et al., 2011",D
+Tau,Tau,3.3,1989_frahm_11,2,10.1002/mrm.1910110105,Human,1.5,270,27,3.7037,"Frahm et al., provided approximate Std.Dev.","Frahm et al., 1989",F
+Tau,Tau,"3.42,3.246",2018_wyss_80,2,10.1002/mrm.27067,Human,3,102,18,9.8039,,"Wyss et al., 2018",B
+Tau,Tau,"3.42,3.246",2018_wyss_80,3,10.1002/mrm.27067,Human,3,123,23,8.1301,,"Wyss et al., 2018",C
+Tau,Tau,,2012_deelchand_67,1,10.1002/mrm.23080,Human,4,196,28,5.102,,"Deelchand et al., 2012",A
+Tau,Tau,,2011_marjanska_25,1,10.1002/nbm.1754,Human,7,93,7,10.7527,,"Marjanska et al., 2011",A
+Tau,Tau,,2011_marjanska_25,2,10.1002/nbm.1754,Human,7,90,16,11.1111,,"Marjanska et al., 2011",B
+Tau,Tau,,2011_marjanska_25,3,10.1002/nbm.1754,Human,7,85,10,11.7647,,"Marjanska et al., 2011",C
+Tau,Tau,,2011_marjanska_25,4,10.1002/nbm.1754,Human,7,120,20,8.3333,,"Marjanska et al., 2011",D
+Tau,Tau,,2020_yoo_33,1,10.1007/s10334-020-00840-w,Rat,7,127.54,12.8,7.8407,Multi-TE - Estimated StdDev to be 10%,,
+Tau,Tau,,2020_yoo_33,2,10.1007/s10334-020-00840-w,Rat,7,89.21,8.92,11.2095,OpQT2 - Estimated StdDev to be 10%,,
+Tau,Tau,"3.42,3.24",2008_chassain_105,1,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,92,6,10.8696,Control,"Chassain et al., 2008",B
+Tau,Tau,"3.42,3.24",2008_chassain_105,2,10.1111/j.1471-4159.2007.05185.x,Mouse,9.4,91,13,10.989,Parkinson's,"Chassain et al., 2008",E
+Tau,Tau,,2015_deelchand_73,1,10.1002/mrm.25088,Rat,9.4,162,28,6.1728,,"Deelchand et al., 2015",A
+Tau,Tau,,2015_deelchand_73,2,10.1002/mrm.25088,Rat,9.4,355,17,2.8169,,"Deelchand et al., 2015",B
+Tau,Tau,,2015_deelchand_73,3,10.1002/mrm.25088,Rat,9.4,343,27,2.9155,,"Deelchand et al., 2015",C
+Tau,Tau,,2016_fisher_29,1,10.1002/nbm.3588,Rat,9.4,105.8,10.6,9.4518,,,
+Tau,Tau,,2007_xin_21,1,10.1002/nbm.1205,Rat,9.4,93,9,10.7527,,"Xin et al., 2007",A
+Tau,Tau,,2013_xin_26,1,10.1007/s10334-013-0378-3,Rat,14.1,82,7,12.1951,,,
+Tau,Tau,,2015_lopez-kolkovsky_75,1,10.1002/mrm.25602,Rat,17.2,118,5,8.4746,,"Lopez-Kolkovsky et al., 2015",B
+Tau,Tau,,2009_weiss_22,1,10.1007/s10334-008-0142-2,Mouse,17.6,191,21,5.2356,,"Weiss et al., 2009",A
