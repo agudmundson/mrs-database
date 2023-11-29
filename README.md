@@ -7,7 +7,7 @@ For more information, see the [Publication at Analytical Biochemistry](https://d
 
 <hr style="height:5px; visibility:hidden;"/>
 
-## Publication Abstract
+## Publication Abstract:
 Proton (<sup>1</sup>H) Magnetic Resonance Spectroscopy (MRS) is a non-invasive tool capable of quantifying brain metabolite concentrations in vivo. Prioritization of standardization and accessibility in the field has led to the development of universal pulse sequences, methodological consensus recommendations, and the development of open-source analysis software packages. One on-going challenge is methodological validation with ground-truth data. As ground-truths are rarely available for <i>in vivo</i> measurements, data simulations have become an important tool. The diverse literature of metabolite measurements has made it challenging to define ranges to be used within simulations. Especially for the development of deep learning and machine learning algorithms, simulations must be able to produce accurate spectra capturing all the nuances of <i>in vivo</i> data. Therefore, we sought to determine the physiological ranges and relaxation rates of brain metabolites which can be used both in data simulations and as reference estimates. Using the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines, we've identified relevant MRS research articles and created an open-source database containing methods, results, and other article information as a resource. Using this database, expectation values and ranges for metabolite concentrations and T<sub>2</sub> relaxation times are established based upon a meta-analyses of healthy and diseased brains.
 
 <hr style="height:5px; visibility:hidden;"/>
@@ -18,7 +18,7 @@ If you use this database, please cite as:
 
 <hr style="height:5px; visibility:hidden;"/>
 
-## Keywords
+## Keywords:
 Human brain, Database, Meta-analysis, Proton MRS, In vivo
 
 <hr style="height:5px; visibility:hidden;"/>
@@ -123,3 +123,241 @@ Human brain, Database, Meta-analysis, Proton MRS, In vivo
 		  	</ul>
 	  	</ul>
 </ol>
+
+## Using the References and Values CSVs:
+The References and Values CSVs are to be used together. The references csv holds all of the 
+information about a given article, from study details to which analysis were performed. It's important to note that for each reference, there may be multiple entries (<b>ID</b>) if there were results given for multiple experiments (<i>i.e., different brain regions, different pulse sequences, etc.</i>).
+ 
+<ul>
+	<h3><li>References CSVs:</li></h3>
+	<table>
+		<tr>
+			<th>Column Name</th>
+			<th>Category   </th>
+			<th>Datatype   </th>
+			<th>Description</th>
+		</tr>
+		<tr>
+			<td>Complete   </td>
+			<td>           </td>
+			<td>Binary     </td>
+			<td>Whether the article has been fully added to the database</td>
+		</tr>
+		<tr>
+			<td>Download    </td>
+			<td>            </td>
+			<td>Binary      </td>
+			<td>Was used internally showing an article was downloaded</td>
+		</tr>
+		<tr>
+			<td>ID          </td>
+			<td>            </td>
+			<td>Integer     </td>
+			<td>An ID for each sub-experiment performed</td>
+		</tr>
+		<tr>
+			<td>Control_ID  </td>
+			<td>            </td>
+			<td>Integer     </td>
+			<td>For studies with multiple groups, this is the corresponding
+									      control group's ID for this experimental group. If there 
+									      was no control group or this ID is the Control Group, then
+									      'No Control' is used.</td>
+		</tr>
+		<tr>
+			<td>Treatment    </td>
+			<td>Study        </td>
+			<td>Binary       </td>
+			<td>Indicates this was a group treated with an intervention.</td>
+		</tr>
+		<tr>
+			<td>Group        </td>
+			<td>Study        </td>
+			<td>String       </td>
+			<td>Healthy or type of clinical population</td>
+		</tr>
+		<tr>
+			<td>Additional_Group_Description</td>
+			<td>Study        </td>
+			<td>String       </td>
+			<td>More information about the given population</td>
+		</tr>
+		<tr>
+			<td>Visit        </td>
+			<td>Study        </td>
+			<td>String       </td>
+			<td>If longitudinal study, this indicates which study visit or session number</td>
+		</tr>
+		<tr>
+			<td>Intervention</td>
+			<td>Study        </td>
+			<td>String       </td>
+			<td>If intervention was performed, this details what the intervention was</td>
+		</tr>
+		<tr>
+			<td>DOI          </td>
+			<td>Publication  </td>
+			<td>String       </td>
+			<td>Digital Object Identifier for the given article</td>
+		</tr>
+		<tr>
+			<td>Title        </td>
+			<td>Publication  </td>
+			<td>String       </td>
+			<td>Title of the article</td>
+		</tr>
+		<tr>
+			<td>Tesla        </td>
+			<td>Acquisition  </td>
+			<td>Float        </td>
+			<td>Field Strength in Tesla of MRI scanner</td>
+		</tr>
+		<tr>
+			<td>Scanner_Manufacturer</td>
+			<td>Acquisition  </td>
+			<td>String       </td>
+			<td>The manufacturer of the scanner</td>
+		</tr>
+		<tr>
+			<td>Scanner_Model</td>
+			<td>Acquisition  </td>
+			<td>String       </td>
+			<td>The model of the scanner</td>
+		</tr>
+		<tr>
+			<td>N_Exclusions</td>
+			<td>Study       </td>
+			<td>Integer     </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>N_Total</td>
+			<td>Study      </td>
+			<td>Integer     </td>
+			<td>Total number of subjects</td>
+		</tr>
+		<tr>
+			<td>Female</td>
+			<td>Study      </td>
+			<td>Integer     </td>
+			<td>Total number of female subjects</td>
+		</tr>
+		<tr>
+			<td>Male</td>
+			<td>Study      </td>
+			<td>Integer     </td>
+			<td>Total number of male subjects</td>
+		</tr>
+		<tr>
+			<td>Age        </td>
+			<td>Study      </td>
+			<td>Float      </td>
+			<td>Mean Age of subjects in years</td>
+		</tr>
+		<tr>
+			<td>Age_Std    </td>
+			<td>Study      </td>
+			<td>Float      </td>
+			<td>Standard Deviation for Age of subjects in years</td>
+		</tr>
+		<tr>
+			<td>Water_Suppresion</td>
+			<td>Acquisition</td>
+			<td>String     </td>
+			<td>Type of Water Suppression Used (i.e., CHESS, VAPOR, etc.)</td>
+		</tr>
+		<tr>
+			<td>Lipid_Suppression</td>
+			<td>Acquisition</td>
+			<td>String     </td>
+			<td>Type of additional Lipid Suppression Used</td>
+		</tr>
+		<tr>
+			<td>Localization</td>
+			<td>Acquisition</td>
+			<td>String     </td>
+			<td>Localization Method Used (i.e., PRESS, STEAM, LASER, sLASER, etc.)</td>
+		</tr>
+		<tr>
+			<td>Multi-Scan_Method</td>
+			<td>Acquisition</td>
+			<td>String     </td>
+			<td>Name of multi-part of scan (i.e., MEGA)</td>
+		</tr>
+		<tr>
+			<td>Water Reference</td>
+			<td>Acquisition</td>
+			<td>Binary     </td>
+			<td>Yes/No, was a water reference collected</td>
+		</tr>
+		<tr>
+			<td>Bandwidth (Hz)</td>
+			<td>Acquisition</td>
+			<td>Float     </td>
+			<td>Spectral width of acquisition in Hertz</td>
+		</tr>
+		<tr>
+			<td>Vector Size</td>
+			<td>Acquisition</td>
+			<td>Integer    </td>
+			<td>Number of datapoints in acquisition</td>
+		</tr>
+		<tr>
+			<td>N_Averages</td>
+			<td>Acquisition</td>
+			<td>Integer    </td>
+			<td>Number of transients collected</td>
+		</tr>
+		<tr>
+			<td>TR (ms)</td>
+			<td>Acquisition</td>
+			<td>Float     </td>
+			<td>Repetition Time in milliseconds</td>
+		</tr>
+		<tr>
+			<td>N_TR      </td>
+			<td>Acquisition</td>
+			<td>Integer   </td>
+			<td>Number of Repetition Times Used</td>
+		</tr>
+		<tr>
+			<td>TE (ms)</td>
+			<td>Acquisition</td>
+			<td>Float     </td>
+			<td>Echo Time in milliseconds</td>
+		</tr>
+		<tr>
+			<td>N_TR      </td>
+			<td>Acquisition</td>
+			<td>Integer   </td>
+			<td>Number of Echo Times Used</td>
+		</tr>
+		<tr>
+			<td>TI (ms)</td>
+			<td>Acquisition</td>
+			<td>Float     </td>
+			<td>Inversion Time in milliseconds</td>
+		</tr>
+		<tr>
+			<td>N_TI       </td>
+			<td>Acquisition</td>
+			<td>Integer    </td>
+			<td>Number of Inversion Times Used</td>
+		</tr>
+		<tr>
+			<td>Voxel_Region</td>
+			<td>Acquisition </td>
+			<td>String     </td>
+			<td>Brain region where voxel was placed</td>
+		</tr>
+	
+
+	</table>		
+	</ol>
+</ul>
+
+
+<br>Each article is named by the <b>PubYear_1stAuthor_JournalVolume</b></br>
+<br>For every article included, there is an assigned index <b>ID</b>.</br>
+Reference
+</ul>
