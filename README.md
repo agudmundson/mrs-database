@@ -131,8 +131,9 @@ Human brain, Database, Meta-analysis, Proton MRS, <i>In vivo</i>
 </ol>
 
 ## Using the References and Values CSVs:
-The References and Values CSVs are to be used together. The references csv holds all of the 
-information about a given article, from study details to which analysis were performed. It's important to note that for each reference, there may be multiple entries (<b>ID</b>) if there were results given for multiple experiments (<i>i.e., different brain regions, different pulse sequences, etc.</i>).
+The References and Values CSVs are to be used together.
+
+The references CSVs holds all of the information about a given article, from study details to which analysis were performed. It's important to note that for each reference, there may be multiple entries (<b>ID</b>) if there were results given for multiple sub-experiments (<i>i.e., different brain regions, different pulse sequences, etc.</i>).
  
 <ul>
 	<h3><li>References CSVs:</li></h3>
