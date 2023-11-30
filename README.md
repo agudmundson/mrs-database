@@ -56,7 +56,6 @@ Human brain, Database, Meta-analysis, Proton MRS, <i>In vivo</i>
 			listed in the References_T2.csv.</br>
 		</li>
   	</ul>
-  	
 	<h3><li>Python Scripts</li></h3>
 		<ul>
 	  		<li>
@@ -81,7 +80,6 @@ Human brain, Database, Meta-analysis, Proton MRS, <i>In vivo</i>
 				version of this software now lives on <a href="https://github.com/agudmundson/Figure_Reader">https://github.com/agudmundson/Figure_Reader</a></br>
 			</li>
 	  	</ul>
-  	
 	<h3><li>Jupyter Notebooks</li></h3>
 		<ul>
 	  		<li>
