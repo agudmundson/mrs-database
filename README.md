@@ -494,9 +494,3 @@ information about a given article, from study details to which analysis were per
 	</table>		
 	</ol>
 </ul>
-
-
-<br>Each article is named by the <b>PubYear_1stAuthor_JournalVolume</b></br>
-<br>For every article included, there is an assigned index <b>ID</b>.</br>
-Reference
-</ul>
