@@ -490,7 +490,6 @@ information about a given article, from study details to which analysis were per
 			<td>String         </td>
 			<td>Site or location data was collected</td>
 		</tr>
-
 	</table>		
 	</ol>
 </ul>
