@@ -379,7 +379,7 @@ The references CSVs holds all of the information about a given article, from stu
 			<td>Fitting        </td>
 			<td>Analysis       </td>
 			<td>String         </td>
-			<td>Software used to perform linear combination modeling</td>
+			<td>Software used to perform spectral fitting</td>
 		</tr>
 		<tr>
 			<td>Segmentation   </td>
