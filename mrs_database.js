@@ -117,9 +117,9 @@ function Calculate(form) {
 			for (let jj = 0; jj < all.length; jj++) {
 				let id  = all[jj].id + '_'
 				if (jj == 0 && sect_incl.contains(ss)) {
-					all[jj].innerHTML = all[jj].innerHTML + '<input type="text" id="text_' + id + (ii+2) + '" value="Group ' + (ii+2) + '" style="width: 100px;">';
+					all[jj].innerHTML = all[jj].innerHTML + '<input type="text" id="text_' + id + (ii+2) + '" ' + 'name="text_' + id + (ii+2) + '" ' + 'value="Group ' + (ii+2) + '" ' + 'style="width: 100px;">';
 				} else {
-					all[jj].innerHTML = all[jj].innerHTML + '<input type="text" id="text_' + id + (ii+2) + '"  style="width: 100px;">';
+					all[jj].innerHTML = all[jj].innerHTML + '<input type="text" id="text_' + id + (ii+2) + '" ' + 'name="text_' + id + (ii+2) + '" ' + 									 'style="width: 100px;">';
 				}
 			}
 		}
@@ -140,22 +140,21 @@ function Calculate(form) {
 				let id  = all[jj].id + '_'
 				if (jj == 0) {
 					all[jj].innerHTML = (all[jj].innerHTML + 
-										 '<input type="text" id="text_' + id + (ii+2) + '" value="Group ' + (ii+2) + 
-										 '" style="width: 100px;border: 0;text-align: center;">');
+										 '<input type="text" id="text_' + id + (ii+2) + '" value="Group ' + (ii+2) + '" ' + 'name="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 100px;border: 0;text-align: center;">');
 				} else if (jj == 1) {
 					all[jj].innerHTML = (all[jj].innerHTML +
-										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
-										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" style="width: 42px;border: 0;text-align: center;" value="Mean"  readonly>' +
-										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
-										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" style="width: 42px;border: 0;text-align: center;" value="Std."  readonly>' +	
-										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
+										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
+										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 											  'style="width: 42px;border: 0;text-align: center;" value="Mean"  readonly>' +
+										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 											  'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
+										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 											  'style="width: 42px;border: 0;text-align: center;" value="Std."  readonly>' +	
+										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
 				} else {
 					all[jj].innerHTML = (all[jj].innerHTML +
-										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
-										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" style="width: 42px;">'													 +
-										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
-										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" style="width: 42px;">' 													 +	
-										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
+										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
+										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'name="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;">'													 +
+										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 											  'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
+										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'name="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;">' 													 +	
+										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
 				}
 			}
 		}
