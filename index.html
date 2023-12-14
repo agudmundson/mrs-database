@@ -50,11 +50,14 @@
 
 			<div id='mainbody_div'>
 				<div id='body_div'>
-					<form method="post" name="contact" data-netlify="true">
+					<form method="post" name="contact" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true">
 						<div id='intro_text' class='div_style'>
 							<hr style="height:10px; visibility:hidden;"/>
 							<h1 style="color:#01719D;">Introduction</h1>
 							<hr  style='height: 3px; visibility:hidden;'>
+							<p style="display:none;">
+								<label>Don’t fill this out if you’re human:<input name="bot-field" /></label>
+							</p>
 							<p>
 								Thank you for submitting your results to our open-source database for <i>in vivo</i> brain MRS. Your contribution is helping researchers and clinicians advance our field, create a stronger community, and helping in standardizing resources.</br>
 							</p>
@@ -87,6 +90,11 @@
 						<div id='submission_info' class='div_style'>
 							<h1 style="color:#01719D;">Submission Information</h1>
 							<hr  style='height:10px; visibility:hidden;'>
+							<p class='align'>
+								<label for="submission_first_name">Your First Name:<a style="color:red">*</a></label>
+								<input type="text" id="submission_first_name" name="submission_first_name" style="width: 250px;" required>
+							</p>
+
 							<p class='align'>
 								<label for="submission_first_name">Your First Name:<a style="color:red">*</a></label>
 								<input type="text" id="submission_first_name" name="submission_first_name" style="width: 250px;" required>
