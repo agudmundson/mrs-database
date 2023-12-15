@@ -50,15 +50,15 @@
 
 			<div id='mainbody_div'>
 				<div id='body_div'>
-					<form method="post" name="contact" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true">
+					<!-- <form method="post" name="contact" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true"> -->
+					<form name="contact">
 						<div id='intro_text' class='div_style'>
 							<hr style="height:10px; visibility:hidden;"/>
 							<h1 style="color:#01719D;">Introduction</h1>
 							<hr  style='height: 3px; visibility:hidden;'>
-							<!-- <p style="display:none;"> -->
-							<p class="hidden" style="display:none;">
+							<!-- <p class="hidden" style="display:none;">
 								<label>Don’t fill this out if you’re human:<input name="bot-field" /></label>
-							</p>
+							</p> -->
 							<p>
 								Thank you for submitting your results to our open-source database for <i>in vivo</i> brain MRS. Your contribution is helping researchers and clinicians advance our field, create a stronger community, and helping in standardizing resources.</br>
 							</p>
@@ -93,7 +93,8 @@
 							<hr  style='height:10px; visibility:hidden;'>
 							<p class='align'>
 								<label for="submission_first_name">Your First Name:<a style="color:red">*</a></label>
-								<input type="text" id="submission_first_name" name="submission_first_name" style="width: 250px;" required>
+								<input type="text" id="submission_first_name" name="submission_first_name" style="width: 250px;">
+								<!-- <input type="text" id="submission_first_name" name="submission_first_name" style="width: 250px;" required> -->
 							</p>
 							<p class='align'>
 								<label for="submission_middle_name">Your Middle Initial(s):</label>
@@ -101,11 +102,13 @@
 							</p>
 							<p class='align'>
 								<label for="submission_last_name">Your Last Name:<a style="color:red">*</a></label>
-								<input type="text" id="submission_last_name" name="submission_last_name" style="width: 250px;" required>
+								<input type="text" id="submission_last_name" name="submission_last_name" style="width: 250px;" >
+								<!-- <input type="text" id="submission_last_name" name="submission_last_name" style="width: 250px;" required> -->
 							</p>
 							<p class='align'>
 								<label for="submission_email">Your Email Address:<a style="color:red">*</a></label>
-								<input type="text" id="submission_email" name="submission_email" style="width: 250px;" required>
+								<input type="text" id="submission_email" name="submission_email" style="width: 250px;" >
+								<!-- <input type="text" id="submission_email" name="submission_email" style="width: 250px;" required> -->
 							</p>          
 							<hr  style='height:25px; visibility:hidden;'>
 							<hr  class='solid'>
@@ -116,7 +119,8 @@
 							<hr  style='height:10px; visibility:hidden;'>
 							<p class='align'>
 								<label for="publication_author_first">Author's First Name:<a style="color:red">*</a></label>
-								<input type="text" id="publication_author_first" name="publication_author_first" style="width: 250px;" required>
+								<input type="text" id="publication_author_first" name="publication_author_first" style="width: 250px;" >
+								<!-- <input type="text" id="publication_author_first" name="publication_author_first" style="width: 250px;" required> -->
 							</p>
 							<p class='align'>
 								<label for="publication_author_middle">Author's Middle Initial(s):</label>
@@ -124,15 +128,18 @@
 							</p>
 							<p class='align'>
 								<label for="publication_author_last">Author's Last Name:<a style="color:red">*</a></label>
-								<input type="text" id="publication_author_last"   name="publication_author_last"   style="width: 250px;" required>
+								<input type="text" id="publication_author_last"   name="publication_author_last"   style="width: 250px;" >
+								<!-- <input type="text" id="publication_author_last"   name="publication_author_last"   style="width: 250px;" required> -->
 							</p>
 							<p class='align'>
 								<label for="publication_title">Publication Title:<a style="color:red">*</a></label>
-								<input type="text" id="publication_title"         name="publication_title"         style="width: 250px;" required>
+								<input type="text" id="publication_title"         name="publication_title"         style="width: 250px;" >
+								<!-- <input type="text" id="publication_title"         name="publication_title"         style="width: 250px;" required> -->
 							</p>
 							<p class='align'>
 								<label for="publication_year">Publication Year:<a style="color:red">*</a></label>
-								<input type="text" id="publication_year"          name="publication_year"          style="width: 250px;" required>
+								<input type="text" id="publication_year"          name="publication_year"          style="width: 250px;" >
+								<!-- <input type="text" id="publication_year"          name="publication_year"          style="width: 250px;" required> -->
 							</p>
 							<p class='align'>
 								<label for="publication_volume">Journal Volume:</label>
@@ -140,7 +147,8 @@
 							</p>
 							<p class='align'>
 								<label for="publication_doi">Digital Object Identifier (DOI):<a style="color:red">*</a></label>
-								<input type="text" id="publication_doi"           name="publication_doi"           style="width: 250px;" required>
+								<input type="text" id="publication_doi"           name="publication_doi"           style="width: 250px;" >
+								<!-- <input type="text" id="publication_doi"           name="publication_doi"           style="width: 250px;" required> -->
 							</p>          
 							<hr  style='height:25px; visibility:hidden;'>
 							<hr  class='solid'>
@@ -150,7 +158,7 @@
 
 							<h1 style="color:#01719D;">General Information</h1>
 							<hr style="height:10px; visibility:hidden;"/>
-							Let's determine how many rows we'll need for your data. The data within the spreadsheets is very carefully organized. 
+							Let's determine how many rows we'll need for your data. The data within the spreadsheets is very carefully organized.
 							Perhaps the easiest way to explain how things are organized is to give an example: 
 							<hr style="height:15px; visibility:hidden;"/>
 						
@@ -603,14 +611,14 @@
 								<p class='align'           id='analysis_partial_volume'>
 									<label style="width: 40px;" class="tooltip"><u class='dotted'>help</u><span class="tooltiptext"><b>Partial Voluming Performed:</b><br>Yes/No - Results were corrected for partial voluming, or differing tissue compositions within participants. </br></span></label>
 									<label for="text_analysis_partial_volume_1">Partial Voluming Performed:</label>
-									<input type="checkbox" id="check_analysis_partial_volume"                                                    onclick="return check_autofill(this)">
+									<input type="checkbox" id="check_analysis_partial_volume"     placeholder="yes/no"                           onclick="return check_autofill(this)">
 									<input type="text"     id="text_analysis_partial_volume_1"    name="text_analysis_partial_volume_1"          style="width: 100px;">
 								</p>	
 
 								<p class='align'           id='analysis_relaxation'>
 									<label style="width: 40px;" class="tooltip"><u class='dotted'>help</u><span class="tooltiptext"><b>Relaxation Correction Performed:</b><br>Yes/No - Results were corrected for effects of T<sub>1</sub> and T<sub>2</sub></br></span></label>
 									<label for="text_analysis_relaxation_1">Relaxation Correction Performed</label>
-									<input type="checkbox" id="check_analysis_relaxation"                                                        onclick="return check_autofill(this)">
+									<input type="checkbox" id="check_analysis_relaxation"     placeholder="yes/no"                               onclick="return check_autofill(this)">
 									<input type="text"     id="text_analysis_relaxation_1"    name="text_analysis_relaxation_1"                  style="width: 100px;">
 								</p>
 								<hr  style='height:25px; visibility:hidden;'>
@@ -673,7 +681,7 @@
 								<hr style="height:10px; visibility:hidden;"/>
 								<h3 style="color:#01719D;">Referenced to total Creatine (tCr)</h3>
 								<hr style="height:10px; visibility:hidden;"/>
-								<p class='align'           id='values_tcr_Group'>
+								<p class='align'           id='values_tcr_group'>
 									<label  for="text_values_tcr_group_1">Group Label</label>
 									<input type="checkbox" id="check_values_tcr_group"                                     style="opacity:0;">
 									<input type="text"     id="text_values_tcr_group_1"   name="text_values_tcr_group_1"   style="width: 100px;border: 0;text-align: center;" value="Group 1">
@@ -1136,7 +1144,7 @@
 								<hr style="height:10px; visibility:hidden;"/>
 								<h3 style="color:#01719D;">Institutional Units (IU)</h3>
 								<hr style="height:10px; visibility:hidden;"/>
-								<p class='align'           id='values_iu_Group'>
+								<p class='align'           id='values_iu_group'>
 									<label  for="text_values_iu_group_1">Group Label</label>
 									<input type="checkbox" id="check_values_iu_group"                                     style="opacity:0;">
 									<input type="text"     id="text_values_iu_group_1"   name="text_values_iu_group_1"    style="width: 100px;border: 0;text-align: center;" value="Group 1">
@@ -1599,7 +1607,7 @@
 								<hr style="height:10px; visibility:hidden;"/>
 								<h3 style="color:#01719D;">Millimolar (mM)</h3>
 								<hr style="height:10px; visibility:hidden;"/>
-								<p class='align'           id='values_mm_Group'>
+								<p class='align'           id='values_mm_group'>
 									<label  for="text_values_mm_group_1">Group Label</label>
 									<input type="checkbox" id="check_values_mm_group"                                     style="opacity:0;">
 									<input type="text"     id="text_values_mm_group_1"   name="text_values_mm_group_1"    style="width: 100px;border: 0;text-align: center;" value="Group 1">
@@ -2062,7 +2070,7 @@
 								<hr style="height:10px; visibility:hidden;"/>
 								<h3 style="color:#01719D;">T<sub>1</sub> Relaxation Results</h3>
 								<hr style="height:10px; visibility:hidden;"/>
-								<p class='align'           id='values_t1_Group'>
+								<p class='align'           id='values_t1_group'>
 									<label  for="text_values_t1_group_1">Group Label</label>
 									<input type="checkbox" id="check_values_t1_group"                                     style="opacity:0;">
 									<input type="text"     id="text_values_t1_group_1"   name="text_values_t1_group_1"    style="width: 100px;border: 0;text-align: center;" value="Group 1">
@@ -2525,7 +2533,7 @@
 								<hr style="height:10px; visibility:hidden;"/>
 								<h3 style="color:#01719D;">T<sub>2</sub> Relaxation Results</h3>
 								<hr style="height:10px; visibility:hidden;"/>
-								<p class='align'           id='values_t2_Group'>
+								<p class='align'           id='values_t2_group'>
 									<label  for="text_values_t2_group_1">Group Label</label>
 									<input type="checkbox" id="check_values_t2_group"                                     style="opacity:0;">
 									<input type="text"     id="text_values_t2_group_1"   name="text_values_t2_group_1"    style="width: 100px;border: 0;text-align: center;" value="Group 1">
@@ -3001,8 +3009,8 @@
 								<hr  style='height:15px; visibility:hidden;'>
 							</div>
 							<div id='submission_button'>
-								<div data-netlify-recaptcha="true"></div>
-								<button type="submit" style="width:150px;height: 25px">Submit</button>
+								<!-- <div data-netlify-recaptcha="true"></div> -->
+								<button onclick="collapse(this.form); return false;" type="submit" style="width:150px;height: 25px">Submit</button>
 								<!-- <button type="submit" style="width:150px;height: 25px">Submit</button> -->
 							</div>
 						</div>
