@@ -12,7 +12,6 @@ Array.prototype.contains = function(obj) {
 function collapse(form)
 {
 
-	alert('-- collapse ')
 	let healthy  = parseInt(document.getElementById("N_Healthy").value);
 	let clinical = parseInt(document.getElementById("N_Clinical").value);
 	let protcols = parseInt(document.getElementById("N_Protocols").value);
@@ -48,10 +47,7 @@ function collapse(form)
 	for (let ss = 0; ss < sect_extend_.length; ss++) {
 		var all     = document.getElementById(sect_extend_[ss]).getElementsByTagName('p');
 
-		// for (let ii   = 0; ii < (all.length-1); ii++) {
-		for (let ii   = 0; ii < 3; ii++) {
-			alert(ss + '  |  ' + sect_extend_[ss] + '  |  ' + all.length + '  |  ' + ii)
-			
+		for (let ii   = 0; ii < (all.length-1); ii++) {			
 			if (ii == 0){
 				var main_id   = document.getElementById('text_' + all[ii].id + '_1');
 
@@ -67,14 +63,10 @@ function collapse(form)
 				for (let jj = 0; jj < (total-1); jj++) {
 					var target_u_id = document.getElementById('text_' + all[ii].id + '_u' + '_' + (jj+2));
 					var target_s_id = document.getElementById('text_' + all[ii].id + '_s' + '_' + (jj+2));
-					alert('text_' + all[ii].id + '_u' + '_' + (jj+2) + ' ' + target_u_id.value)
-					// alert('text_' + all[ii].id + '_s' + '_' + (jj+2) + ' ' + target_s_id.value)
 
 					if (ii > 1){
 						main_u_id.value = main_u_id.value + ';_' + target_u_id.value;
 						main_s_id.value = main_s_id.value + ';_' + target_s_id.value;
-						alert(ii + ' ' + jj + ' ' + main_u_id.value)
-						// alert(ii + ' ' + jj + ' ' + main_s_id.value)
 					}
 				}
 			}
