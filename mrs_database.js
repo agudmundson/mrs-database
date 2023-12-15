@@ -9,6 +9,79 @@ Array.prototype.contains = function(obj) {
     return false;
 }
 
+function collapse(form)
+{
+
+	alert('-- collapse ')
+	let healthy  = parseInt(document.getElementById("N_Healthy").value);
+	let clinical = parseInt(document.getElementById("N_Clinical").value);
+	let protcols = parseInt(document.getElementById("N_Protocols").value);
+	let regions  = parseInt(document.getElementById("N_Regions").value);
+	let times    = parseInt(document.getElementById("N_Timepoints").value);
+	let treats   = parseInt(document.getElementById("N_Treatments").value);
+	let others   = parseInt(document.getElementById("other_conditions").value);
+	let total    = ((healthy + clinical) * protcols * regions * times * treats * others);
+
+	const sect_extend = ['subject_info'     ,
+						  'acquisition_info', 
+						  'analysis_info'   ];
+
+	for (let ss = 0; ss < sect_extend.length; ss++) {
+		var all     = document.getElementById(sect_extend[ss]).getElementsByTagName('p');
+
+		for (let ii   = 0; ii < (all.length-1); ii++) {
+			var main_id   = document.getElementById('text_' + all[ii].id + '_1');
+			
+			for (let jj = 0; jj < (total-1); jj++) {
+				var target_id = document.getElementById('text_' + all[ii].id + '_' + (jj+2));
+				main_id.value   = main_id.value + ';_' + target_id.value;
+			}
+		}	
+	}
+
+	const sect_extend_ = ['values_tcr'      ,
+						  'values_iu'       ,
+						  'values_mm'       ,
+						  'values_t1'       ,
+						  'values_t2'       ];
+
+	for (let ss = 0; ss < sect_extend_.length; ss++) {
+		var all     = document.getElementById(sect_extend_[ss]).getElementsByTagName('p');
+
+		// for (let ii   = 0; ii < (all.length-1); ii++) {
+		for (let ii   = 0; ii < 3; ii++) {
+			alert(ss + '  |  ' + sect_extend_[ss] + '  |  ' + all.length + '  |  ' + ii)
+			
+			if (ii == 0){
+				var main_id   = document.getElementById('text_' + all[ii].id + '_1');
+
+				for (let jj = 0; jj < (total-1); jj++) {
+					var target_id = document.getElementById('text_' + all[ii].id + '_' + (jj+2));
+					main_id.value   = main_id.value + ';_' + target_id.value;
+				}
+			} 
+			else {
+				var main_u_id   = document.getElementById('text_' + all[ii].id + '_u' + '_1');
+				var main_s_id   = document.getElementById('text_' + all[ii].id + '_s' + '_1');
+
+				for (let jj = 0; jj < (total-1); jj++) {
+					var target_u_id = document.getElementById('text_' + all[ii].id + '_u' + '_' + (jj+2));
+					var target_s_id = document.getElementById('text_' + all[ii].id + '_s' + '_' + (jj+2));
+					alert('text_' + all[ii].id + '_u' + '_' + (jj+2) + ' ' + target_u_id.value)
+					// alert('text_' + all[ii].id + '_s' + '_' + (jj+2) + ' ' + target_s_id.value)
+
+					if (ii > 1){
+						main_u_id.value = main_u_id.value + ';_' + target_u_id.value;
+						main_s_id.value = main_s_id.value + ';_' + target_s_id.value;
+						alert(ii + ' ' + jj + ' ' + main_u_id.value)
+						// alert(ii + ' ' + jj + ' ' + main_s_id.value)
+					}
+				}
+			}
+		}	
+	}
+}
+
 function checkmark(me) 
 {
 	var id_len = me.id.split('_').length
@@ -151,9 +224,9 @@ function Calculate(form) {
 				} else {
 					all[jj].innerHTML = (all[jj].innerHTML +
 										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
-										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'name="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;">'													 +
+										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'name="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;">'													  +
 										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 											  'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
-										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'name="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;">' 													 +	
+										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'name="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;">' 													  +	
 										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
 				}
 			}
