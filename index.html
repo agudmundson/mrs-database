@@ -308,64 +308,72 @@
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Group Label:</b><br>Add a unique group name. Default is Group 1.. Group 2.. Group 3.. etc.</br></span></label>
 									<label for="text_subject_group_1">Group Label</label>
+									<input type="text"     id="text_subject_group"               name="text_subject_group"                       style="visibility:hidden">
 									<input type="checkbox" id="check_subject_group"                                                              style="opacity:0;">
-									<input type="text"     id="text_subject_group_1"             name="text_subject_group_1"                     style="width: 100px;" value="Group 1">
+									<input type="text"     id="text_subject_group_1"                                                             style="width: 100px;" value="Group 1">
 								</p>	
 								<p class='align' id='subject_healthy_control'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Population:</b><br>The population associated with this group (e.g., Healthy, Bipolar Disorder, Type 2 Diabetes, Parkinson's Disease, Alzheimer's Disease, etc.)</br></span>
 								</label>
 									<label for="text_subject_healthy_control_1">Population</label>
+									<input type="text"     id="text_subject_healthy_control"     name="text_healthy_control"                     style="visibility:hidden">
 									<input type="checkbox" id="check_subject_healthy_control"                                                    onclick="return check_autofill(this)">
-									<input type="text"     id="text_subject_healthy_control_1"   name="text_healthy_control_1"                   style="width: 100px;">
+									<input type="text"     id="text_subject_healthy_control_1"                                                   style="width: 100px;">
 								</p>
 								<p class='align' id='subject_control_group'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Does this Group have a Control:</b><br>The Group Label or Number of the Control Group for the Current Group. If this group does not have a control group, please leave blank.</br></span>
 								</label>
 									<label for="text_subject_control_group_1">Does this Group have a Control:</label>
+									<input type="text"     id="text_subject_control_group"       name="text_subject_control_group"               style="visibility:hidden">
 									<input type="checkbox" id="check_subject_control_group"                                                      onclick="return check_autofill(this)">
-									<input type="text"     id="text_subject_control_group_1"     name="text_subject_control_group_1"             style="width: 100px;">
+									<input type="text"     id="text_subject_control_group_1"                                                     style="width: 100px;">
 								</p>
 								<p class='align' id='subject_female'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Number of Female Subjects:</b><br>This is the total number of female subjects</br></span>
 									</label>
 									<label for="text_subject_female_1">Number of Female Subjects:</label>
+									<input type="text"     id="text_subject_female"              name="text_subject_female"                      style="visibility:hidden">
 									<input type="checkbox" id="check_subject_female"                                                             onclick="return check_autofill(this)">
-									<input type="text"     id="text_subject_female_1"            name="text_subject_female"                      style="width: 100px;">
+									<input type="text"     id="text_subject_female_1"                                                            style="width: 100px;">
 								</p>
 								<p class='align' id='subject_male'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Number of Male Subjects:</b><br>This is the total number of male subjects</br></span>
 									</label>
 									<label for="text_subject_male_1">Number of Male Subjects:</label>
+									<input type="text"     id="text_subject_male"                name="text_subject_male"                        style="visibility:hidden">
 									<input type="checkbox" id="check_subject_male"                                                               onclick="return check_autofill(this)">
-									<input type="text"     id="text_subject_male_1"              name="text_subject_male_1"                      style="width: 100px;">
+									<input type="text"     id="text_subject_male_1"                                                              style="width: 100px;">
 								</p>
 								<p class='align' id='subject_total'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Total Number of Subjects:</b><br>This is the total number of subjects in the group</br></span>
 									</label>
 									<label for="text_subject_total_1">Total Number of Subjects:</label>
+									<input type="text"     id="text_subject_total"               name="text_subject_total"                       style="visibility:hidden">
 									<input type="checkbox" id="check_subject_total"                                                              onclick="return check_autofill(this)">
-									<input type="text"     id="text_subject_total_1"             name="text_subject_total_1"                     style="width: 100px;">
+									<input type="text"     id="text_subject_total_1"                                                             style="width: 100px;">
 								</p>
 								<p class='align' id='subject_age'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Age Mean of Subjects (Years):</b><br>This is the mean age of the group in years</br></span>
 									</label>
 									<label for="text_subject_age_1">Age Mean of Subjects (Years):</label>
+									<input type="text"     id="text_subject_age"                 name="text_subject_age"                         style="visibility:hidden">
 									<input type="checkbox" id="check_subject_age"                                                                onclick="return check_autofill(this)">
-									<input type="text"     id="text_subject_age_1"               name="text_subject_age_1"                       style="width: 100px;">
+									<input type="text"     id="text_subject_age_1"                                                               style="width: 100px;">
 								</p>
 								<p class='align' id='subject_age_std'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Age Std. Dev. of Subjects (Years):</b><br>This is the standard deviation of the age for the group in years</br></span>
 									</label>
 									<label for="text_subject_age_std_1">Age Std. Dev. of Subjects (Years):</label>
+									<input type="text"     id="text_subject_age_std"             name="text_subject_age_std"                     style="visibility:hidden">
 									<input type="checkbox" id="check_subject_age_std"                                                            onclick="return check_autofill(this)">
-									<input type="text"     id="text_subject_age_std_1"           name="text_subject_age_std_1"                   style="width: 100px;">
+									<input type="text"     id="text_subject_age_std_1"                                                           style="width: 100px;">
 								</p>
 								<hr  style='height:25px; visibility:hidden;'>
 								<hr  class='solid'>          
@@ -379,22 +387,25 @@
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Field Strength (Tesla):</b><br>The field strength of the scanner (e.g., 1.5 Tesla or 3.0 Tesla)</br></span>
 									</label>
 									<label for="text_acquisition_field_strength_1">Field Strength (T):</label>
+									<input type="text"     id="text_acquisition_field_strength"      name="text_acquisition_field_strength"      style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_field_strength"                                                 onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_field_strength_1"    name="text_acquisition_field_strength_1"    style="width: 100px;">
+									<input type="text"     id="text_acquisition_field_strength_1"                                                style="width: 100px;">
 								</p>					
 								<p class='align' id='acquisition_manufacturer'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Scanner Manufacturer:</b><br>The manufacturer or vendor of the scanner (e.g., Siemens, Philips, GE, etc.)</br></span>
 									</label>
 									<label for="text_acquisition_manufacturer_1">Scanner Manufacturer:</label>
+									<input type="text"     id="text_acquisition_manufacturer"        name="text_acquisition_manufacturer"        style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_manufacturer"                                                   onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_manufacturer_1"      name="text_acquisition_manufacturer_1"      style="width: 100px;">
+									<input type="text"     id="text_acquisition_manufacturer_1"                                                  style="width: 100px;">
 								</p>
 								<p class='align'  id=acquisition_model>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Scanner Model:</b><br>The model name for the scanner (e.g., PRISMA, Achieva, Optima, etc.)</br></span>
 									</label>
 									<label for="text_acquisition_model_1">Scanner Model:</label>
+									<input type="text"     id="text_acquisition_model"               name="text_acquisition_model"               style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_model"                                                          onclick="return check_autofill(this)">
 									<input type="text"     id="text_acquisition_model_1"             name="text_acquisition_model_1"             style="width: 100px;">
 								</p>
@@ -403,112 +414,126 @@
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Water Suppression:</b><br>The method of water suppression used during the acquisition (e.g., CHESS, VAPOR, etc.)</br></span>
 									</label>
 									<label for="text_acquisition_water_suppression_1">Water Suppression Method:</label>
+									<input type="text"     id="text_acquisition_water_suppression"   name="text_acquisition_water_suppression"   style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_water_suppression"                                              onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_water_suppression_1" name="text_acquisition_water_suppression_1" style="width: 100px;">
+									<input type="text"     id="text_acquisition_water_suppression_1"                                             style="width: 100px;">
 								</p>
 								<p class='align' id='acquisition_lipid_suppression'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Lipid Suppression:</b><br>The method of lipid suppression used during the acquisition</br></span>
 									</label>
 									<label for="text_acquisition_lipid_suppression_1">Lipid Suppression Method:</label>
+									<input type="text"     id="text_acquisition_lipid_suppression"   name="text_acquisition_lipid_suppression"   style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_lipid_suppression"                                              onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_lipid_suppression_1" name="text_acquisition_lipid_suppression_1" style="width: 100px;">
+									<input type="text"     id="text_acquisition_lipid_suppression_1"                                             style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_localization'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Localization:</b><br>The Localization method (e.g., PRESS, STEAM, ISIS, LASER, sLASER, etc.)</br></span>
 									</label>
 									<label for="text_acquisition_localization_1">Localization:</label>
+									<input type="text"     id="text_acquisition_localization"        name="text_acquisition_localization"        style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_localization"                                                   onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_localization_1"      name="text_acquisition_localization_1"      style="width: 100px;">
+									<input type="text"     id="text_acquisition_localization_1"                                                  style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_multi_scan'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Multi-Scan (e.g., MEGA)</b><br>If multiple experiments are performed to complete the acquisition (e.g., MEGA)</br></span>
 									</label>
 									<label for="text_acquisition_multi_scan_1">Multi-Scan (e.g., MEGA):</label>
+									<input type="text"     id="text_acquisition_multi_scan"          name="text_acquisition_multi_scan"        style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_multi_scan"                                                     onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_multi_scan_1"        name="text_acquisition_multi_scan_1"        style="width: 100px;">
+									<input type="text"     id="text_acquisition_multi_scan_1"                                                    style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_water_ref'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Water Reference Collected:</b><br>Whether a non-water-suppressed scan was acquired to be used as a reference. (Yes/No)</br></span>
 									</label>
 									<label for="text_acquisition_water_ref_1">Water Reference Collected:</label>
+									<input type="text"     id="text_acquisition_water_ref"           name="text_acquisition_water_ref"           style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_water_ref"                                                      onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_water_ref_1"         name="text_acquisition_water_ref_1"         style="width: 100px;" placeholder="  yes/no">
+									<input type="text"     id="text_acquisition_water_ref_1"                                                     style="width: 100px;" placeholder="  yes/no">
 								</p>
 								<p class='align'  id='acquisition_bandwidth'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Spectral Width (Hz):</b><br>The spectral width of the data acquisition in Hertz. This is equivalent the inverse of the dwell time, or sampling rate</br></span>
 									</label>
 									<label for="text_acquisition_bandwidth_1">Spectral Width (Hz):</label>
+									<input type="text"     id="text_acquisition_bandwidth"           name="text_acquisition_bandwidth"           style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_bandwidth"                                                      onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_bandwidth_1"         name="text_acquisition_bandwidth_1"         style="width: 100px;">
+									<input type="text"     id="text_acquisition_bandwidth_1"                                                     style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_vector_size'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Number of Datapoints:</b><br>The number of datapoints collected in time-domain signal (e.g., 1024, 2048, 4096, etc.)</br></span>
 									</label>
 									<label for="text_acquisition_vector_size_1">Number of Datapoints:</label>
+									<input type="text"     id="text_acquisition_vector_size"         name="text_acquisition_vector_size"         style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_vector_size"                                                    onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_vector_size_1"       name="text_acquisition_vector_size_1"       style="width: 100px;">
+									<input type="text"     id="text_acquisition_vector_size_1"                                                   style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_n_averages'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Number of Transients/Averages:</b><br>The number of transients collected (somtimes referred to as averages).</br></span>
 									</label>
 									<label for="text_acquisition_n_averages_1">Number of Transients/Averages:</label>
+									<input type="text"     id="text_acquisition_n_averages"          name="text_acquisition_n_averages"          style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_n_averages"                                                     onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_n_averages_1"        name="text_acquisition_n_averages_1"        style="width: 100px;">
+									<input type="text"     id="text_acquisition_n_averages_1"                                                    style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_tr'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Repetition Time</b><br>The repetition time (TR) or time between each transients.</br></span>
 									</label>
 									<label for="text_acquisition_tr_1">Repetition Time(s):</label>
+									<input type="text"     id="text_acquisition_tr"                  name="text_acquisition_tr"                  style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_tr"                                                             onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_tr_1"                name="text_acquisition_tr_1"                style="width: 100px;">
+									<input type="text"     id="text_acquisition_tr_1"                                                            style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_te'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Echo Time(s)</b><br>The echo time (TE) or amount of time between the excitation pulse and start of the acquisition. If a TE-series was used, please separate each value with a comma (TE1, TE2, TE3, etc.)</br></span>
 									</label>
 									<label for="text_acquisition_te_1">Echo Time(s):</label>
+									<input type="text"     id="text_acquisition_te"                  name="text_acquisition_te"                  style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_te"                                                             onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_te_1"                name="text_acquisition_te_1"                style="width: 100px;">
+									<input type="text"     id="text_acquisition_te_1"                                                            style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_ti'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Inversion Time(s)</b><br>The inversion time (TI) or amount of time between an inversion pulse and the excitation pulse. Please separate each value with a comma (TI1, TI2, TI3, etc.)</br></span>
 									</label>
 									<label for="text_acquisition_ti_1">Inversion Time(s):</label>
+									<input type="text"     id="text_acquisition_ti"                  name="text_acquisition_ti"                  style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_ti"                                                             onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_ti_1"                name="text_acquisition_ti_1"                style="width: 100px;">
+									<input type="text"     id="text_acquisition_ti_1"                                                            style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_region'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Brain Region</b><br>The brain region where the voxel was placed (e.g., Occipital, Parietal, medial Prefrontal, etc.)</br></span>
 									</label>
 									<label for="text_acquisition_region_1">Brain Region:</label>
+									<input type="text"     id="text_acquisition_region"              name="text_acquisition_region"              style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_region"                                                         onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_region_1"            name="text_acquisition_region_1"            style="width: 100px;">
+									<input type="text"     id="text_acquisition_region_1"                                                        style="width: 100px;">
 								</p>
 								<p class='align'  id='acquisition_hemisphere'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Hemisphere (Left/Right/Both)</b><br>Hemisphere where data was collected. If voxel was located in center, please select 'Both'</br></span>
 									</label>
 									<label for="text_acquisition_hemisphere_1">Hemisphere (Left/Right/Both):</label>
+									<input type="text"     id="text_acquisition_hemisphere"          name="text_acquisition_hemisphere"          style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_hemisphere"                                                     onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_hemisphere_1"        name="text_acquisition_hemisphere_1"        style="width: 100px;" placeholder="Left/Right/Both">
+									<input type="text"     id="text_acquisition_hemisphere_1"                                                    style="width: 100px;" placeholder="Left/Right/Both">
 								</p>
 								<p class='align'  id='acquisition_tissue'>
 									<label style="width: 40px;" class="tooltip">
 										<u class='dotted'>help</u><span class="tooltiptext"><b>Primary Tissue Type</b><br>The primary tissue type of the voxel (e.g., Gray matter, White Matter, or Mixed). If a tissue type did not occupy greater than or equal to 65%, then the voxel is 'Mixed.'</br></span>
 									</label>
 									<label for="text_acquisition_tissue_1">Primary Tissue Type:</label>
+									<input type="text"     id="text_acquisition_tissue"              name="text_acquisition_tissue"              style="visibility:hidden">
 									<input type="checkbox" id="check_acquisition_tissue"                                                         onclick="return check_autofill(this)">
-									<input type="text"     id="text_acquisition_tissue_1"            name="text_acquisition_tissue_1"            style="width: 100px;" placeholder="GM/ WM/ Mixed">
+									<input type="text"     id="text_acquisition_tissue_1"                                                        style="width: 100px;" placeholder="GM/ WM/ Mixed">
 								</p>
 								<p class='align'  id='acquisition_gm'>
 									<label style="width: 40px;" class="tooltip">
