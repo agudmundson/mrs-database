@@ -29,10 +29,10 @@ function collapse(form)
 		var all     = document.getElementById(sect_extend[ss]).getElementsByTagName('p');
 
 		for (let ii   = 0; ii < (all.length-1); ii++) {
-			var main_id   = document.getElementById('text_' + all[ii].id + '_1');
+			var main_id   = document.getElementById('text_' + all[ii].id);
 			
-			for (let jj = 0; jj < (total-1); jj++) {
-				var target_id = document.getElementById('text_' + all[ii].id + '_' + (jj+2));
+			for (let jj = 0; jj < (total); jj++) {
+				var target_id = document.getElementById('text_' + all[ii].id + '_' + (jj+1));
 				main_id.value   = main_id.value + ';_' + target_id.value;
 			}
 		}	
@@ -49,20 +49,20 @@ function collapse(form)
 
 		for (let ii   = 0; ii < (all.length-1); ii++) {			
 			if (ii == 0){
-				var main_id   = document.getElementById('text_' + all[ii].id + '_1');
+				var main_id   = document.getElementById('text_' + all[ii].id);
 
-				for (let jj = 0; jj < (total-1); jj++) {
-					var target_id = document.getElementById('text_' + all[ii].id + '_' + (jj+2));
+				for (let jj = 0; jj < (total); jj++) {
+					var target_id = document.getElementById('text_' + all[ii].id + '_' + (jj+1));
 					main_id.value   = main_id.value + ';_' + target_id.value;
 				}
 			} 
 			else {
-				var main_u_id   = document.getElementById('text_' + all[ii].id + '_u' + '_1');
-				var main_s_id   = document.getElementById('text_' + all[ii].id + '_s' + '_1');
+				var main_u_id   = document.getElementById('text_' + all[ii].id + '_u');
+				var main_s_id   = document.getElementById('text_' + all[ii].id + '_s');
 
-				for (let jj = 0; jj < (total-1); jj++) {
-					var target_u_id = document.getElementById('text_' + all[ii].id + '_u' + '_' + (jj+2));
-					var target_s_id = document.getElementById('text_' + all[ii].id + '_s' + '_' + (jj+2));
+				for (let jj = 0; jj < (total); jj++) {
+					var target_u_id = document.getElementById('text_' + all[ii].id + '_u' + '_' + (jj+1));
+					var target_s_id = document.getElementById('text_' + all[ii].id + '_s' + '_' + (jj+1));
 
 					if (ii > 1){
 						main_u_id.value = main_u_id.value + ';_' + target_u_id.value;
