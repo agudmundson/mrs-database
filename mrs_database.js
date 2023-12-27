@@ -11,7 +11,6 @@ Array.prototype.contains = function(obj) {
 
 function collapse(form)
 {
-
 	let healthy  = parseInt(document.getElementById("N_Healthy").value);
 	let clinical = parseInt(document.getElementById("N_Clinical").value);
 	let protcols = parseInt(document.getElementById("N_Protocols").value);
@@ -115,17 +114,17 @@ function checkmark_to_submit()
 }
 
 function Calculate(form) {
-	let first    = 			document.getElementById("submission_first_name").value;
-	let middle   = 			document.getElementById("submission_middle_name").value;
-	let last     = 			document.getElementById("submission_last_name").value;
-	let email    =  		document.getElementById("submission_email").value;
-	let healthy  = parseInt(document.getElementById("N_Healthy").value);
-	let clinical = parseInt(document.getElementById("N_Clinical").value);
-	let protcols = parseInt(document.getElementById("N_Protocols").value);
-	let regions  = parseInt(document.getElementById("N_Regions").value);
-	let times    = parseInt(document.getElementById("N_Timepoints").value);
-	let treats   = parseInt(document.getElementById("N_Treatments").value);
-	let others   = parseInt(document.getElementById("other_conditions").value);
+	let first    = 			document.getElementById('submission_first_name' ).value;
+	let middle   = 			document.getElementById('submission_middle_name').value;
+	let last     = 			document.getElementById('submission_last_name'  ).value;
+	let email    =  		document.getElementById('submission_email'      ).value;
+	let healthy  = parseInt(document.getElementById('N_Healthy'             ).value);
+	let clinical = parseInt(document.getElementById('N_Clinical'            ).value);
+	let protcols = parseInt(document.getElementById('N_Protocols'           ).value);
+	let regions  = parseInt(document.getElementById('N_Regions'             ).value);
+	let times    = parseInt(document.getElementById('N_Timepoints'          ).value);
+	let treats   = parseInt(document.getElementById('N_Treatments'          ).value);
+	let others   = parseInt(document.getElementById('other_conditions'      ).value);
 	let total    = ((healthy + clinical) * protcols * regions * times * treats * others);
 
 	for (let ii = 0; ii < healthy; ii++) {
@@ -134,14 +133,14 @@ function Calculate(form) {
 				for (let ll = 0; ll < times; ll++) {
 					for (let mm = 0; mm < treats; mm++) {
 						for (let nn = 0; nn < others; nn++) {
-				
+
 						var newRow = document.getElementById('GroupsTable').insertRow();
-						newRow.innerHTML = ("<td>Healthy "       + (ii+1) + "</td>" + 
-											"<td align = right>" + (jj+1) + "</td>" + 
-											"<td align = right>" + (kk+1) + "</td>" + 
-											"<td align = right>" + (ll+1) + "</td>" + 
-											"<td align = right>" + (mm+1) + "</td>" + 
-											"<td align = right>" + (nn+1) + "</td>"   );
+						newRow.innerHTML = ('<td>Healthy '       + (ii+1) + '</td>' + 
+											'<td align = right>' + (jj+1) + '</td>' + 
+											'<td align = right>' + (kk+1) + '</td>' + 
+											'<td align = right>' + (ll+1) + '</td>' + 
+											'<td align = right>' + (mm+1) + '</td>' + 
+											'<td align = right>' + (nn+1) + '</td>'   );
 						}
 					}
 				}
