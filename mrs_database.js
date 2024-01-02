@@ -11,18 +11,18 @@ Array.prototype.contains = function(obj) {
 
 function collapse(form)
 {
-	let healthy  = parseInt(document.getElementById("N_Healthy").value);
-	let clinical = parseInt(document.getElementById("N_Clinical").value);
-	let protcols = parseInt(document.getElementById("N_Protocols").value);
-	let regions  = parseInt(document.getElementById("N_Regions").value);
-	let times    = parseInt(document.getElementById("N_Timepoints").value);
-	let treats   = parseInt(document.getElementById("N_Treatments").value);
-	let others   = parseInt(document.getElementById("other_conditions").value);
+	let healthy  = parseInt(document.getElementById('N_Healthy'       ).value);
+	let clinical = parseInt(document.getElementById('N_Clinical'      ).value);
+	let protcols = parseInt(document.getElementById('N_Protocols'     ).value);
+	let regions  = parseInt(document.getElementById('N_Regions'       ).value);
+	let times    = parseInt(document.getElementById('N_Timepoints'    ).value);
+	let treats   = parseInt(document.getElementById('N_Treatments'    ).value);
+	let others   = parseInt(document.getElementById('other_conditions').value);
 	let total    = ((healthy + clinical) * protcols * regions * times * treats * others);
 
-	const sect_extend = ['subject_info'     ,
-						  'acquisition_info', 
-						  'analysis_info'   ];
+	const sect_extend = ['subject_info'    ,
+						 'acquisition_info', 
+						 'analysis_info'   ];
 
 	for (let ss = 0; ss < sect_extend.length; ss++) {
 		var all     = document.getElementById(sect_extend[ss]).getElementsByTagName('p');
@@ -156,12 +156,12 @@ function Calculate(form) {
 						for (let nn = 0; nn < others; nn++) {
 				
 						var newRow = document.getElementById('GroupsTable').insertRow();
-						newRow.innerHTML = ("<td>Clinical "      + (ii+1) + "</td>" + 
-											"<td align = right>" + (jj+1) + "</td>" + 
-											"<td align = right>" + (kk+1) + "</td>" + 
-											"<td align = right>" + (ll+1) + "</td>" + 
-											"<td align = right>" + (mm+1) + "</td>" + 
-											"<td align = right>" + (nn+1) + "</td>"   );
+						newRow.innerHTML = ('<td>Clinical '      + (ii+1) + '</td>' + 
+											'<td align = right>' + (jj+1) + '</td>' + 
+											'<td align = right>' + (kk+1) + '</td>' + 
+											'<td align = right>' + (ll+1) + '</td>' + 
+											'<td align = right>' + (mm+1) + '</td>' + 
+											'<td align = right>' + (nn+1) + '</td>'  );
 						}
 					}
 				}
@@ -181,9 +181,9 @@ function Calculate(form) {
 			for (let jj = 0; jj < all.length; jj++) {
 				let id  = all[jj].id + '_'
 				if (jj == 0 && sect_incl.contains(ss)) {
-					all[jj].innerHTML = all[jj].innerHTML + '<input type="text" id="text_' + id + (ii+2) + '" ' + 'name="text_' + id + (ii+2) + '" ' + 'value="Group ' + (ii+2) + '" ' + 'style="width: 100px;">';
+					all[jj].innerHTML = all[jj].innerHTML + '<input type="text" id="text_' + id + (ii+2) + '" ' + 'value="Group ' + (ii+2) + '" ' + 'style="width: 100px;">';
 				} else {
-					all[jj].innerHTML = all[jj].innerHTML + '<input type="text" id="text_' + id + (ii+2) + '" ' + 'name="text_' + id + (ii+2) + '" ' + 									 'style="width: 100px;">';
+					all[jj].innerHTML = all[jj].innerHTML + '<input type="text" id="text_' + id + (ii+2) + '" ' + 									 'style="width: 100px;">';
 				}
 			}
 		}
@@ -204,21 +204,21 @@ function Calculate(form) {
 				let id  = all[jj].id + '_'
 				if (jj == 0) {
 					all[jj].innerHTML = (all[jj].innerHTML + 
-										 '<input type="text" id="text_' + id + (ii+2) + '" value="Group ' + (ii+2) + '" ' + 'name="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 100px;border: 0;text-align: center;">');
+										 '<input type="text" id="text_' + id + (ii+2) + '" value="Group ' + (ii+2) + '" ' + 'style="width: 100px;border: 0;text-align: center;">');
 				} else if (jj == 1) {
 					all[jj].innerHTML = (all[jj].innerHTML +
-										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
-										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 											  'style="width: 42px;border: 0;text-align: center;" value="Mean"  readonly>' +
-										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 											  'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
-										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 											  'style="width: 42px;border: 0;text-align: center;" value="Std."  readonly>' +	
-										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
+										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
+										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;border: 0;text-align: center;" value="Mean"  readonly>' +
+										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
+										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;border: 0;text-align: center;" value="Std."  readonly>' +	
+										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
 				} else {
 					all[jj].innerHTML = (all[jj].innerHTML +
-										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
-										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'name="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;">'													  +
-										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 											  'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
-										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'name="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;">' 													  +	
-										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 											  'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
+										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
+										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;">'													  +
+										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
+										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;">' 													  +	
+										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
 				}
 			}
 		}
