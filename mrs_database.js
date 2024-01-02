@@ -8,6 +8,8 @@ Array.prototype.contains = function(obj) {
     return false;
 }
 
+var clicked = false
+
 function collapse(form)
 {
 	let healthy  = parseInt(document.getElementById('N_Healthy'       ).value);
@@ -70,7 +72,7 @@ function collapse(form)
 			}
 		}	
 	}
-	ready_to_submit()
+	document.getElementById("submission_button").style.display = 'block';
 }
 
 function checkmark(me) 
@@ -82,9 +84,7 @@ function checkmark(me)
 	} else {
 		document.getElementById("values_" + id_).style.display = 'none';
 	}
-
-	document.getElementById("submission_button").style.display = 'block';
-
+	checkmark_to_upload()
 }
 
 function check_autofill(me) 
