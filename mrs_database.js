@@ -209,18 +209,18 @@ function Calculate(form) {
 										 '<input type="text" id="text_' + id + (ii+2) + '" value="Group ' + (ii+2) + '" ' + 'style="width: 100px;border: 0;text-align: center;">');
 				} else if (jj == 1) {
 					all[jj].innerHTML = (all[jj].innerHTML +
-										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
-										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;border: 0;text-align: center;" value="Mean"  readonly>' +
-										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
-										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;border: 0;text-align: center;" value="Std."  readonly>' +	
-										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
+										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" disabled="disabled">' +
+										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;border: 0;text-align: center;" value="Mean"  disabled="disabled">' +
+										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 'style="width: 10px;border: 0;text-align: center;" value="&#177" disabled="disabled">' +
+										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;border: 0;text-align: center;" value="Std."  disabled="disabled">' +	
+										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" disabled="disabled">' );
 				} else {
 					all[jj].innerHTML = (all[jj].innerHTML +
-										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' +
+										' <input type="text" id="text_' + id + 'l_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" disabled="disabled">' +
 										' <input type="text" id="text_' + id + 'u_' + (ii+2) + '" ' + 'style="width: 42px;">'													  +
-										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 'style="width: 10px;border: 0;text-align: center;" value="&#177" readonly>' +
+										' <input type="text" id="text_' + id + 'p_' + (ii+2) + '" ' + 'style="width: 10px;border: 0;text-align: center;" value="&#177" disabled="disabled">' +
 										' <input type="text" id="text_' + id + 's_' + (ii+2) + '" ' + 'style="width: 42px;">' 													  +	
-										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" readonly>' );
+										' <input type="text" id="text_' + id + 'r_' + (ii+2) + '" ' + 'style="width:  5px;border: 0;text-align: center;outline: none;" disabled="disabled">' );
 				}
 			}
 		}
