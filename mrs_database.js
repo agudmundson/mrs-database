@@ -1,4 +1,3 @@
-
 Array.prototype.contains = function(obj) {
     var i = this.length;
     while (i--) {
@@ -71,6 +70,7 @@ function collapse(form)
 			}
 		}	
 	}
+	ready_to_submit()
 }
 
 function checkmark(me) 
@@ -82,7 +82,9 @@ function checkmark(me)
 	} else {
 		document.getElementById("values_" + id_).style.display = 'none';
 	}
-	checkmark_to_submit()
+
+	document.getElementById("submission_button").style.display = 'block';
+	
 }
 
 function check_autofill(me) 
@@ -99,7 +101,7 @@ function check_autofill(me)
 	}
 }
 
-function checkmark_to_submit() 
+function checkmark_to_upload() 
 {	
 	if (document.getElementById('values_selection_checkbox_tcr').checked ||
 		document.getElementById('values_selection_checkbox_iu' ).checked ||
@@ -107,9 +109,9 @@ function checkmark_to_submit()
 		document.getElementById('values_selection_checkbox_t1' ).checked ||
 		document.getElementById('values_selection_checkbox_t2' ).checked   ) 
 	{
-		document.getElementById("submission").style.display = 'block';
+		document.getElementById("submission_notes").style.display = 'block';
 	} else {
-		document.getElementById("submission").style.display = 'none';
+		document.getElementById("submission_notes").style.display = 'none';
 	}
 }
 
