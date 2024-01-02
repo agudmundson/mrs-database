@@ -84,7 +84,7 @@ function checkmark(me)
 	}
 
 	document.getElementById("submission_button").style.display = 'block';
-	
+
 }
 
 function check_autofill(me) 
