@@ -628,7 +628,7 @@
 									<label for="text_analysis_nulled_cycled_1">Is this Metabolite Nulled/Cycled:</label>
 									<input type="text"     id="text_analysis_nulled_cycled"          name="text_analysis_nulled_cycled"          style="display:none">
 									<input type="checkbox" id="check_analysis_nulled_cycled"                                                     onclick="return check_autofill(this)">
-									<input type="text"     id="text_analysis_nulled_cycled_1"                                                    style="width: 100px;">
+									<input type="text"     id="text_analysis_nulled_cycled_1"                                                    style="width: 100px;" placeholder="yes/no">
 								</p>
 								<p class='align'           id='analysis_segmentation'>
 									<label style="width: 40px;" class="tooltip"><u class='dotted'>help</u><span class="tooltiptext"><b>Segmenetation Software:</b><br>The software used to perform brain segmentation (e.g., SPM, Freesurfer, ANTS, etc.). Please put 'in-house' if a custom unpublished segmentation tool was used.</br></span></label>
@@ -909,6 +909,17 @@
 									<input type="text"     id="text_values_tcr_glu_p_1"                                   style="width: 10px;border: 0;text-align: center;outline: none;" value="&#177"   disabled="disabled">
 									<input type="text"     id="text_values_tcr_glu_s_1"                                   style="width: 40px;">
 									<input type="text"     id="text_values_tcr_glu_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+								</p>
+								<p class='align'           id='values_tcr_glx'>
+									<label for="text_values_tcr_glx_u_1">Glutamate + Glutamine (Glx)</label>
+									<input type="text"     id="text_values_tcr_glx_u"    name="text_values_tcr_glx_u"     style="display:none">
+									<input type="text"     id="text_values_tcr_glx_s"    name="text_values_tcr_glx_s"     style="display:none">
+									<input type="checkbox" id="check_values_tcr_glx"                                      style="opacity:0;">
+									<input type="text"     id="text_values_tcr_glx_l_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+									<input type="text"     id="text_values_tcr_glx_u_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_tcr_glx_p_1"                                   style="width: 10px;border: 0;text-align: center;outline: none;" value="&#177"   disabled="disabled">
+									<input type="text"     id="text_values_tcr_glx_s_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_tcr_glx_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
 								</p>
 								<p class='align'           id='values_tcr_gsh'>
 									<label for="text_values_tcr_gsh_u_1">Glutathione (GSH)</label>
@@ -1472,6 +1483,17 @@
 									<input type="text"     id="text_values_iu_glu_s_1"                                   style="width: 40px;">
 									<input type="text"     id="text_values_iu_glu_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
 								</p>
+								<p class='align'           id='values_iu_glx'>
+									<label for="text_values_iu_glx_u_1">Glutamate + Glutamine (Glx)</label>
+									<input type="text"     id="text_values_iu_glx_u"    name="text_values_iu_glx_u"      style="display:none">
+									<input type="text"     id="text_values_iu_glx_s"    name="text_values_iu_glx_s"      style="display:none">
+									<input type="checkbox" id="check_values_iu_glx"                                      style="opacity:0;">
+									<input type="text"     id="text_values_iu_glx_l_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+									<input type="text"     id="text_values_iu_glx_u_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_iu_glx_p_1"                                   style="width: 10px;border: 0;text-align: center;outline: none;" value="&#177"   disabled="disabled">
+									<input type="text"     id="text_values_iu_glx_s_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_iu_glx_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+								</p>
 								<p class='align'           id='values_iu_gsh'>
 									<label for="text_values_iu_gsh_u_1">Glutathione (GSH)</label>
 									<input type="text"     id="text_values_iu_gsh_u"    name="text_values_iu_gsh_u"      style="display:none">
@@ -2033,6 +2055,17 @@
 									<input type="text"     id="text_values_mm_glu_p_1"                                   style="width: 10px;border: 0;text-align: center;outline: none;" value="&#177"   disabled="disabled">
 									<input type="text"     id="text_values_mm_glu_s_1"                                   style="width: 40px;">
 									<input type="text"     id="text_values_mm_glu_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+								</p>
+								<p class='align'           id='values_mm_glx'>
+									<label for="text_values_mm_glx_u_1">Glutamate + Glutamine (Glx)</label>
+									<input type="text"     id="text_values_mm_glx_u"    name="text_values_mm_glx_u"      style="display:none">
+									<input type="text"     id="text_values_mm_glx_s"    name="text_values_mm_glx_s"      style="display:none">
+									<input type="checkbox" id="check_values_mm_glx"                                      style="opacity:0;">
+									<input type="text"     id="text_values_mm_glx_l_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+									<input type="text"     id="text_values_mm_glx_u_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_mm_glx_p_1"                                   style="width: 10px;border: 0;text-align: center;outline: none;" value="&#177"   disabled="disabled">
+									<input type="text"     id="text_values_mm_glx_s_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_mm_glx_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
 								</p>
 								<p class='align'           id='values_mm_gsh'>
 									<label for="text_values_mm_gsh_u_1">Glutathione (GSH)</label>
@@ -2596,6 +2629,17 @@
 									<input type="text"     id="text_values_t1_glu_s_1"                                   style="width: 40px;">
 									<input type="text"     id="text_values_t1_glu_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
 								</p>
+								<p class='align'           id='values_t1_glx'>
+									<label for="text_values_t1_glx_u_1">Glutamate + Glutamine (Glx)</label>
+									<input type="text"     id="text_values_t1_glx_u"    name="text_values_t1_glx_u"      style="display:none">
+									<input type="text"     id="text_values_t1_glx_s"    name="text_values_t1_glx_s"      style="display:none">
+									<input type="checkbox" id="check_values_t1_glx"                                      style="opacity:0;">
+									<input type="text"     id="text_values_t1_glx_l_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+									<input type="text"     id="text_values_t1_glx_u_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_t1_glx_p_1"                                   style="width: 10px;border: 0;text-align: center;outline: none;" value="&#177"   disabled="disabled">
+									<input type="text"     id="text_values_t1_glx_s_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_t1_glx_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+								</p>
 								<p class='align'           id='values_t1_gsh'>
 									<label for="text_values_t1_gsh_u_1">Glutathione (GSH)</label>
 									<input type="text"     id="text_values_t1_gsh_u"    name="text_values_t1_gsh_u"      style="display:none">
@@ -3157,6 +3201,17 @@
 									<input type="text"     id="text_values_t2_glu_p_1"                                   style="width: 10px;border: 0;text-align: center;outline: none;" value="&#177"   disabled="disabled">
 									<input type="text"     id="text_values_t2_glu_s_1"                                   style="width: 40px;">
 									<input type="text"     id="text_values_t2_glu_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+								</p>
+								<p class='align'           id='values_t2_glx'>
+									<label for="text_values_t2_glx_u_1">Glutamate + Glutamine (Glx)</label>
+									<input type="text"     id="text_values_t2_glx_u"    name="text_values_t2_glx_u"      style="display:none">
+									<input type="text"     id="text_values_t2_glx_s"    name="text_values_t2_glx_s"      style="display:none">
+									<input type="checkbox" id="check_values_t2_glx"                                      style="opacity:0;">
+									<input type="text"     id="text_values_t2_glx_l_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
+									<input type="text"     id="text_values_t2_glx_u_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_t2_glx_p_1"                                   style="width: 10px;border: 0;text-align: center;outline: none;" value="&#177"   disabled="disabled">
+									<input type="text"     id="text_values_t2_glx_s_1"                                   style="width: 40px;">
+									<input type="text"     id="text_values_t2_glx_r_1"                                   style="width:  5px;border: 0;text-align: center;"                               disabled="disabled">
 								</p>
 								<p class='align'           id='values_t2_gsh'>
 									<label for="text_values_t2_gsh_u_1">Glutathione (GSH)</label>
