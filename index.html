@@ -285,16 +285,22 @@
 							<button onclick="Calculate(this.form); return false;" style="width:150px;height: 25px">Calculate</button><br></br>
 
 		 					<hr style="height:10px; visibility:hidden;"/>
-							<table id=GroupsTable border="0">
-								<tr id=GroupsTableTR>
-									<th>Group    </th>
-									<th>Protocol </th>
-									<th>Region   </th>
-									<th>Timepoint</th>
-									<th>Treatment</th>
-									<th>Other    </th>
-								</tr>
-							</table>	          
+							<div id='group_info' class='div_style' style="display: none;">
+								<table id=GroupsTable border="0">
+									<tr id=GroupsTableTR>
+										<th>Group    </th>
+										<th>Protocol </th>
+										<th>Region   </th>
+										<th>Timepoint</th>
+										<th>Treatment</th>
+										<th>Other    </th>
+									</tr>
+								</table>
+		 						<hr style="height:10px; visibility:hidden;"/>
+								<p>
+									Note<sup>*</sup> If you know that this does <b>not</b> reflect the correct number of rows, please simply refresh the page and enter the correct number in the healthy/control group section and leave all the region, protocol, treatment, etc. set to 1. 
+								</p>	          
+							</div>
 							<hr  style='height:25px; visibility:hidden;'>
 							<hr  class='solid'>
 						</div>
