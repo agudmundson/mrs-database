@@ -171,6 +171,8 @@ function Calculate(form) {
 		}
 	}
 
+	document.getElementById('group_info').style.display = 'block';
+
 	const sect_extend = ['subject_info'    ,
 						 'acquisition_info', 
 						 'analysis_info'   ];
